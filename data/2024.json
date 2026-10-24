@@ -1,0 +1,5333 @@
+[
+  {
+    "id": "2024-business",
+    "year": 2024,
+    "subject": "business",
+    "title": "2024 年国际货代业务试卷（A 卷）",
+    "durationMinutes": 90,
+    "totalPoints": 110,
+    "basePoints": 100,
+    "extraPoints": 10,
+    "sourceFiles": [
+      "2024年货代业务试题.pdf",
+      "2024年货代业务试题参考答案.pdf"
+    ],
+    "instructions": "原卷正文 90 题、100 分，另含 FIATA 证书附加题 8 题、10 分（附加题原卷及格线 6 分）。此完整模拟卷保留全部 98 题，总计 110 分。单选、判断每题 1 分，多选每题 2 分；多选须全部正确才得分。按所附参考答案计算成绩，历史试题中的法规和答案以原卷口径为准。",
+    "questions": [
+      {
+        "id": "2024-business-q1",
+        "number": 1,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "中国上海某出口商欲向美国纽约某进口商出口一批服装，可以适用的贸易术语是 （ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "FAS New York"
+          },
+          {
+            "key": "B",
+            "text": "FOB New York"
+          },
+          {
+            "key": "C",
+            "text": "CIF New York"
+          },
+          {
+            "key": "D",
+            "text": "DEQ Shanghai"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q2",
+        "number": 2,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "按照《INCOTERMS 2020》通则，DAP 和 DPU 最大的区别在于（ ）责任不同。",
+        "options": [
+          {
+            "key": "A",
+            "text": "租船订舱"
+          },
+          {
+            "key": "B",
+            "text": "办理保险"
+          },
+          {
+            "key": "C",
+            "text": "卸货"
+          },
+          {
+            "key": "D",
+            "text": "办理进口报关"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q3",
+        "number": 3,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "使用 FREIGHT COLLECT 的方式支付运费的贸易术语通常是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "DPU"
+          },
+          {
+            "key": "B",
+            "text": "FOB"
+          },
+          {
+            "key": "C",
+            "text": "CIF"
+          },
+          {
+            "key": "D",
+            "text": "CIP"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q4",
+        "number": 4,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "国际货运代理人为货主办理代理业务时 , 收取的报酬是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "差价"
+          },
+          {
+            "key": "B",
+            "text": "运费"
+          },
+          {
+            "key": "C",
+            "text": "佣金"
+          },
+          {
+            "key": "D",
+            "text": "租金"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q5",
+        "number": 5,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "当国际货运代理人签发自己的提单时 , 其角色为（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "货主代理人"
+          },
+          {
+            "key": "B",
+            "text": "托运人代理"
+          },
+          {
+            "key": "C",
+            "text": "收货人代理"
+          },
+          {
+            "key": "D",
+            "text": "承运人"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q6",
+        "number": 6,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "投保责任险是货运代理企业转移风险的一种方法。保险公司对于货运代理企业由于 （ ）造成的损失负赔偿责任，但投保了责任险并不意味着保险公司将承保所有的风险。",
+        "options": [
+          {
+            "key": "A",
+            "text": "倒签提单"
+          },
+          {
+            "key": "B",
+            "text": "预借提单"
+          },
+          {
+            "key": "C",
+            "text": "无单放货引起的损失"
+          },
+          {
+            "key": "D",
+            "text": "错误与遗漏"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q7",
+        "number": 7,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "提单上的批注依据（ ）上的记载而做出。",
+        "options": [
+          {
+            "key": "A",
+            "text": "大副收据"
+          },
+          {
+            "key": "B",
+            "text": "提货单"
+          },
+          {
+            "key": "C",
+            "text": "装货单"
+          },
+          {
+            "key": "D",
+            "text": "设备交接单"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q8",
+        "number": 8,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "下列因（ ）造成的损失，国际货运代理人可以免除责任。",
+        "options": [
+          {
+            "key": "A",
+            "text": "货物标志不清"
+          },
+          {
+            "key": "B",
+            "text": "不可抗力"
+          },
+          {
+            "key": "C",
+            "text": "货主申报不实"
+          },
+          {
+            "key": "D",
+            "text": "国际货运代理人的疏忽或过失"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q9",
+        "number": 9,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "下列关于国内空运货物运价类别代码不正确的是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "标准普通货物运价 ( 代号 N)"
+          },
+          {
+            "key": "B",
+            "text": "等级货物运价 ( 代号 D)"
+          },
+          {
+            "key": "C",
+            "text": "指定商品运价 ( 代号 C)"
+          },
+          {
+            "key": "D",
+            "text": "最低运费 ( 代号 M)"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q10",
+        "number": 10,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "国际货物买卖合同裝运条款中的装运时间是指（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "买方将合同规定的货物装上运输工具或交给承运人的期限"
+          },
+          {
+            "key": "B",
+            "text": "卖方将合同规定的货物裝上运输工具或交给承运人的期限"
+          },
+          {
+            "key": "C",
+            "text": "买方收到合同规定货物的期限"
+          },
+          {
+            "key": "D",
+            "text": "买方将合同规定的货物交给卖方的期限"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q11",
+        "number": 11,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "卸货地订舱的货物通常称为（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "指定货"
+          },
+          {
+            "key": "B",
+            "text": "特定货"
+          },
+          {
+            "key": "C",
+            "text": "合约货"
+          },
+          {
+            "key": "D",
+            "text": "原产地货"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q12",
+        "number": 12,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "危险货物的标志图形符号主要有爆炸的炸弹、火焰、气瓶、三叶形等，其中三叶形图形符号表示该货物具有（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "磁性"
+          },
+          {
+            "key": "B",
+            "text": "放射性"
+          },
+          {
+            "key": "C",
+            "text": "腐蚀性"
+          },
+          {
+            "key": "D",
+            "text": "杂类"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q13",
+        "number": 13,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "被保险货物在海运过程中遭受海盜劫持造成的损失属于（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "实际全损"
+          },
+          {
+            "key": "B",
+            "text": "推定全损"
+          },
+          {
+            "key": "C",
+            "text": "共同海损"
+          },
+          {
+            "key": "D",
+            "text": "单独海损"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q14",
+        "number": 14,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "在国际海上货物运输保险业务中 , 下列因（ ）所致货物损失属于共同海损。",
+        "options": [
+          {
+            "key": "A",
+            "text": "暴雨"
+          },
+          {
+            "key": "B",
+            "text": "船舶碰撞"
+          },
+          {
+            "key": "C",
+            "text": "失火"
+          },
+          {
+            "key": "D",
+            "text": "救火"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q15",
+        "number": 15,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "集装箱的使用超出免费使用期时，承运人可向集装箱使用者收取（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "滞期费"
+          },
+          {
+            "key": "B",
+            "text": "储存费"
+          },
+          {
+            "key": "C",
+            "text": "保管费"
+          },
+          {
+            "key": "D",
+            "text": "超重费"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q16",
+        "number": 16,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "中国某公司向德国某公司出口一批精致的工艺美术品 , 裝于一个 20 英尺的集装箱 , 货物投保了中国人民保险公司海洋运输货物保险条款中的一切险 , 并加保战争险、 罢工险，根据保险条款的规定, 保险人对货物因（ ）造成的损失不承担赔偿责任。",
+        "options": [
+          {
+            "key": "A",
+            "text": "海上遭遇海盗袭击"
+          },
+          {
+            "key": "B",
+            "text": "收货人仓库发生火灾"
+          },
+          {
+            "key": "C",
+            "text": "海上遇台风和暴雨淋湿"
+          },
+          {
+            "key": "D",
+            "text": "卸货时从吊杆上脱落坠地"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q17",
+        "number": 17,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "国际海运集装箱按用途分成不同的类型，其中“OT”代表（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "干货箱"
+          },
+          {
+            "key": "B",
+            "text": "超高箱"
+          },
+          {
+            "key": "C",
+            "text": "开顶箱"
+          },
+          {
+            "key": "D",
+            "text": "框架箱"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q18",
+        "number": 18,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "我国对货物出入境检验检疫的执法部门是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "海关总署"
+          },
+          {
+            "key": "B",
+            "text": "商务部"
+          },
+          {
+            "key": "C",
+            "text": "卫健委"
+          },
+          {
+            "key": "D",
+            "text": "质检总局"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q19",
+        "number": 19,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "相关出口企业及货代物流企业必须严格如实申报货物 VGM 重量，避免给船舶配载及航行造成严重安全隐患。一辆装载集装箱的拖车过磅重量为 35 吨，车辆自重为 15 吨，集装箱重量为 2 吨，则该集装箱的 VGM 重量应为（ ）吨。",
+        "options": [
+          {
+            "key": "A",
+            "text": "20"
+          },
+          {
+            "key": "B",
+            "text": "18"
+          },
+          {
+            "key": "C",
+            "text": "35"
+          },
+          {
+            "key": "D",
+            "text": "22"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q20",
+        "number": 20,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "以下适合用飞机运送的货物是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "精密仪器"
+          },
+          {
+            "key": "B",
+            "text": "矿石"
+          },
+          {
+            "key": "C",
+            "text": "粮食"
+          },
+          {
+            "key": "D",
+            "text": "石油"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q21",
+        "number": 21,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "在我国，专门保管暂未缴纳关税的进出口货物的仓库称为（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "港口仓库"
+          },
+          {
+            "key": "B",
+            "text": "公共仓库"
+          },
+          {
+            "key": "C",
+            "text": "保税仓库"
+          },
+          {
+            "key": "D",
+            "text": "营业仓库"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q22",
+        "number": 22,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "租船运输业务中以完成航次运输为目的，按航次所需的实际天数和约定的日租金率计收租金的运输经营方式是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "定期租船"
+          },
+          {
+            "key": "B",
+            "text": "航次租船"
+          },
+          {
+            "key": "C",
+            "text": "光船租船"
+          },
+          {
+            "key": "D",
+            "text": "航次期租"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q23",
+        "number": 23,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "根据《国际海运危险货物规则》的规定，油漆、清漆属于危险品中的（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "爆炸品"
+          },
+          {
+            "key": "B",
+            "text": "气体"
+          },
+          {
+            "key": "C",
+            "text": "易燃液体"
+          },
+          {
+            "key": "D",
+            "text": "有毒物质"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q24",
+        "number": 24,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "国际铁路运单是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "物权凭证"
+          },
+          {
+            "key": "B",
+            "text": "提货单据"
+          },
+          {
+            "key": "C",
+            "text": "检验单据"
+          },
+          {
+            "key": "D",
+            "text": "报关单据"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q25",
+        "number": 25,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "某货主从河北张家口火车站通过中国铁路集装箱公司中欧班列发运集装箱到乌兹别克塔什干站，到终点站后，铁路商务记录显示途经哈萨克奇姆肯特站时，部分货物丢失。此时货主方应（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "向中国铁路集装箱公司提出货损索赔"
+          },
+          {
+            "key": "B",
+            "text": "向国际理货公司提出理货要求，出具理货证明进行索赔"
+          },
+          {
+            "key": "C",
+            "text": "向哈萨克奇姆肯特站提出要求，由奇姆肯特站出具“商务记录”进行索赔"
+          },
+          {
+            "key": "D",
+            "text": "自己拍照、点清数量，核算损失，做出文件进行索赔"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q26",
+        "number": 26,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "国际贸易惯例不同于法律，它不具有强制约束力。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q27",
+        "number": 27,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "按CIF/CIP贸易术语成交，尽管价格中包括至指定目的港/目的地的运费和保险费， 但卖方不承担货物必然到达目的港 / 目的地的责任。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q28",
+        "number": 28,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "国际贸易术语 CFR SHANGHAI 中的 SHANGHAI 是指买卖合同双方当事人约定的海上运输货物的装运港。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q29",
+        "number": 29,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "班轮运价按制定形式可分为单项费率运价、等级运价和航线运价。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q30",
+        "number": 30,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "大副收据可证明货物己装船。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q31",
+        "number": 31,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "当国际买卖合同的具体约定与《INCOTERMS 2020》对贸易术语的规定不同时 , 买卖双方的权利义务应以买卖合同的特别约定为准。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q32",
+        "number": 32,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "国际贸易单一窗口是指参与国际贸易各方通过单一平台向相关部门提交标准化信息和单证以满足法律法规及管理要求。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。独立参考答案标注 B；该标注存在疑点，建议教师复核。本题未擅自更改原卷答案。"
+      },
+      {
+        "id": "2024-business-q33",
+        "number": 33,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "按CFR术语进口时, 我方在国内投保了一切险, 保险公司的风险起讫应为“仓至仓”。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q34",
+        "number": 34,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "信用证规定裝运港为 “Chinese Port”, 缮制提单时 , 提单上的装运港一栏应照样填 “Chinese Port”, 以免单证不符。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q35",
+        "number": 35,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "货物积载因数的大小说明货物的轻重程度。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。独立参考答案标注 B；该标注存在疑点，建议教师复核。本题未擅自更改原卷答案。"
+      },
+      {
+        "id": "2024-business-q36",
+        "number": 36,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "在单航次租箱中，如果交箱地的租箱市场行情高于还箱地的行情，则租箱人除须按约定支付租金外，还须额外支付提箱费和还箱费。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q37",
+        "number": 37,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "我国海洋货物运输保险条款包括平安险、水渍险和一切险三种基本险别 , 这三种基本险别都承保由于自然灾害造成被保险货物的实际全损或推定全损。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 5,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q38",
+        "number": 38,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "对于提取空箱、装箱、安排重箱进码头等操作 , 如果是整箱货 , 这些操作应由货运站完成。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 5,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q39",
+        "number": 39,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "按照港口规定和运价本的规定，通常将单件重量为 5 吨以上的货物称为重件货，计收超重附加费。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 5,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q40",
+        "number": 40,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "船舶运输航次成本应包括船舶的资本成本、航次营运成本和航次变动成本。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 5,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q41",
+        "number": 41,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "递交装卸准备就绪通知书（NOR）是指船舶抵达合同规定的装卸地点后，承租人或其代理人向船长或其代理人发出准备就绪等待装卸货物的通知。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 5,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q42",
+        "number": 42,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "《金康 94 合同》 中关于船舶出租人责任条款虽然名为责任条款 , 但实质上是一条保护船舶出租人的免责条款。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 5,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q43",
+        "number": 43,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "货运事故仅仅是指运输中发生的货损货差事故。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 5,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q44",
+        "number": 44,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "等级货物运价按照普通货物运价的 200% 计收。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 5,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q45",
+        "number": 45,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "航空运价一般会随运输货量的增加而降低。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 5,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q46",
+        "number": 46,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "最低运费是航空公司办理一批货物所能接受的最低限额。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 5,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q47",
+        "number": 47,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "TIR 成为目前国际上比较通用的一种国际公路运输制度，遵循此制度的车辆，车头面板上都要挂蓝底白字的“TIR”标记。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 5,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q48",
+        "number": 48,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "在托收或信用证支付方式下，托运人可凭铁路运单副本办理托收或议付。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 5,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q49",
+        "number": 49,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "OCP 是一种特殊的国际多式联运。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 5,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q50",
+        "number": 50,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "在国际多式联运方式下，运输途中货物换装、转运等事宜均由多式联运经营人负责办理。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 5,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q51",
+        "number": 51,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "（ ）术语项下，卖方应保证把货物按时运到目的地。",
+        "options": [
+          {
+            "key": "A",
+            "text": "CPT"
+          },
+          {
+            "key": "B",
+            "text": "CIP"
+          },
+          {
+            "key": "C",
+            "text": "DAT"
+          },
+          {
+            "key": "D",
+            "text": "DDP"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 5,
+        "answer": [
+          "C",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q52",
+        "number": 52,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "共同海损分摊时 , 涉及的受益方包括（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "船方"
+          },
+          {
+            "key": "B",
+            "text": "货方"
+          },
+          {
+            "key": "C",
+            "text": "救助方"
+          },
+          {
+            "key": "D",
+            "text": "运费支付方"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 5,
+        "answer": [
+          "A",
+          "B",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q53",
+        "number": 53,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "依据我国《海商法》的规定，承运人对下列（ ）原因造成的货损不负责任。",
+        "options": [
+          {
+            "key": "A",
+            "text": "船舶不适航"
+          },
+          {
+            "key": "B",
+            "text": "管货过失"
+          },
+          {
+            "key": "C",
+            "text": "航行过失"
+          },
+          {
+            "key": "D",
+            "text": "货物固有缺陷"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 5,
+        "answer": [
+          "C",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q54",
+        "number": 54,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "根据伦敦保险协会制定的《协会货物条款》, 以下能单独投保的险别有（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "ICC(A)"
+          },
+          {
+            "key": "B",
+            "text": "ICC(B)"
+          },
+          {
+            "key": "C",
+            "text": "ICC(C)"
+          },
+          {
+            "key": "D",
+            "text": "战争险"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 6,
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q55",
+        "number": 55,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "海外仓的优势有（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "降低物流成本"
+          },
+          {
+            "key": "B",
+            "text": "加快物流时效"
+          },
+          {
+            "key": "C",
+            "text": "免除进口报关"
+          },
+          {
+            "key": "D",
+            "text": "可退换货 , 提高顾客购物体验"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 6,
+        "answer": [
+          "A",
+          "B",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q56",
+        "number": 56,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "海运集装箱通常有三种租赁形式，包括（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "航次期租"
+          },
+          {
+            "key": "B",
+            "text": "定期租赁"
+          },
+          {
+            "key": "C",
+            "text": "程租"
+          },
+          {
+            "key": "D",
+            "text": "活期租赁"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 6,
+        "answer": [
+          "B",
+          "C",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q57",
+        "number": 57,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "飞机的装载限制包括（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "重量限制"
+          },
+          {
+            "key": "B",
+            "text": "容积限制"
+          },
+          {
+            "key": "C",
+            "text": "舱门限制"
+          },
+          {
+            "key": "D",
+            "text": "地板承受力限制"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 6,
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q58",
+        "number": 58,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "在国际海上集装箱运输中，运输危险货物时应使用的单据有（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "危险货物安全适运申报单"
+          },
+          {
+            "key": "B",
+            "text": "海运危险货物包装容器性能检验结果单"
+          },
+          {
+            "key": "C",
+            "text": "限重危险货物证明"
+          },
+          {
+            "key": "D",
+            "text": "集装箱装运危险货物装箱证明书（装箱证明）"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 6,
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q59",
+        "number": 59,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "集装箱运输中，在装卸两港都要使用的单证不包括（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "D/R"
+          },
+          {
+            "key": "B",
+            "text": "EIR"
+          },
+          {
+            "key": "C",
+            "text": "CLP"
+          },
+          {
+            "key": "D",
+            "text": "M/F"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 6,
+        "answer": [
+          "A",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q60",
+        "number": 60,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "常见的货物运输方式有（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "水路运输"
+          },
+          {
+            "key": "B",
+            "text": "铁路运输"
+          },
+          {
+            "key": "C",
+            "text": "管道运输"
+          },
+          {
+            "key": "D",
+            "text": "航空运输"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 6,
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-business-q61",
+        "number": 61,
+        "section": "计算题",
+        "type": "single",
+        "prompt": "费力克斯托（FELIXSTOWE）是在（ ）航线上。",
+        "options": [
+          {
+            "key": "A",
+            "text": "远东—北美"
+          },
+          {
+            "key": "B",
+            "text": "远东—欧洲、地中海"
+          },
+          {
+            "key": "C",
+            "text": "北美—欧洲"
+          },
+          {
+            "key": "D",
+            "text": "北美—地中海"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 6,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（一）广东某出口公司以 CIF FELIXSTOWE 出口一批货物到欧洲，经香港转船。 2×40’FCL，已知香港至 FELIXSTOWE 的费率是 USD3500.00/40’，广州经香港转船，其费率在香港直达 FELIXSTOWE 的费率基础上加 USD150/40’，另有港口拥挤附加费 10％，燃油附加费 5％。请问："
+      },
+      {
+        "id": "2024-business-q62",
+        "number": 62,
+        "section": "计算题",
+        "type": "single",
+        "prompt": "该票货物的转船费用为 USD（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "150.00"
+          },
+          {
+            "key": "B",
+            "text": "80.60"
+          },
+          {
+            "key": "C",
+            "text": "300.00"
+          },
+          {
+            "key": "D",
+            "text": "166.00"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 6,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（一）广东某出口公司以 CIF FELIXSTOWE 出口一批货物到欧洲，经香港转船。 2×40’FCL，已知香港至 FELIXSTOWE 的费率是 USD3500.00/40’，广州经香港转船，其费率在香港直达 FELIXSTOWE 的费率基础上加 USD150/40’，另有港口拥挤附加费 10％，燃油附加费 5％。请问："
+      },
+      {
+        "id": "2024-business-q63",
+        "number": 63,
+        "section": "计算题",
+        "type": "single",
+        "prompt": "该票货物的港口拥挤附加费为 USD（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "730.00"
+          },
+          {
+            "key": "B",
+            "text": "350.00"
+          },
+          {
+            "key": "C",
+            "text": "700.00"
+          },
+          {
+            "key": "D",
+            "text": "365.00"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 7,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（一）广东某出口公司以 CIF FELIXSTOWE 出口一批货物到欧洲，经香港转船。 2×40’FCL，已知香港至 FELIXSTOWE 的费率是 USD3500.00/40’，广州经香港转船，其费率在香港直达 FELIXSTOWE 的费率基础上加 USD150/40’，另有港口拥挤附加费 10％，燃油附加费 5％。请问："
+      },
+      {
+        "id": "2024-business-q64",
+        "number": 64,
+        "section": "计算题",
+        "type": "single",
+        "prompt": "该票货物的燃油附加费为 USD（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "730.00"
+          },
+          {
+            "key": "B",
+            "text": "350.00"
+          },
+          {
+            "key": "C",
+            "text": "700.00"
+          },
+          {
+            "key": "D",
+            "text": "365.00"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 7,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（一）广东某出口公司以 CIF FELIXSTOWE 出口一批货物到欧洲，经香港转船。 2×40’FCL，已知香港至 FELIXSTOWE 的费率是 USD3500.00/40’，广州经香港转船，其费率在香港直达 FELIXSTOWE 的费率基础上加 USD150/40’，另有港口拥挤附加费 10％，燃油附加费 5％。请问："
+      },
+      {
+        "id": "2024-business-q65",
+        "number": 65,
+        "section": "计算题",
+        "type": "single",
+        "prompt": "这批货物该托运人应支付总运费为 USD（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "8805.50"
+          },
+          {
+            "key": "B",
+            "text": "8395.00"
+          },
+          {
+            "key": "C",
+            "text": "6718.60"
+          },
+          {
+            "key": "D",
+            "text": "1660.00"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 7,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（一）广东某出口公司以 CIF FELIXSTOWE 出口一批货物到欧洲，经香港转船。 2×40’FCL，已知香港至 FELIXSTOWE 的费率是 USD3500.00/40’，广州经香港转船，其费率在香港直达 FELIXSTOWE 的费率基础上加 USD150/40’，另有港口拥挤附加费 10％，燃油附加费 5％。请问："
+      },
+      {
+        "id": "2024-business-q66",
+        "number": 66,
+        "section": "计算题",
+        "type": "single",
+        "prompt": "该票货物的 Volume 是（ ）立方厘米。",
+        "options": [
+          {
+            "key": "A",
+            "text": "115150"
+          },
+          {
+            "key": "B",
+            "text": "130662"
+          },
+          {
+            "key": "C",
+            "text": "37500"
+          },
+          {
+            "key": "D",
+            "text": "63050"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（二）中国出口商 A 公司交付的一票集中托运出口空运货物沙蚕（活体，其品名编号 1093），航线为中国北京至日本大阪，已知货物运价如下： Routing ：Beijing，China（BJS）to Osaka，Japan（OSA） Commodity ：Worms Gross Weight ：45.00kg Dimension ：70cm×47cm×35cm×1\n公布直达运价及活体动物运价规则见下方原卷图表。",
+        "image": "/paper-assets/2024-business-air-rates.png"
+      },
+      {
+        "id": "2024-business-q67",
+        "number": 67,
+        "section": "计算题",
+        "type": "single",
+        "prompt": "该票货物的 Volume Weight 是（ ）KGS。",
+        "options": [
+          {
+            "key": "A",
+            "text": "19.1"
+          },
+          {
+            "key": "B",
+            "text": "19.5"
+          },
+          {
+            "key": "C",
+            "text": "22.0"
+          },
+          {
+            "key": "D",
+            "text": "35.0"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（二）中国出口商 A 公司交付的一票集中托运出口空运货物沙蚕（活体，其品名编号 1093），航线为中国北京至日本大阪，已知货物运价如下： Routing ：Beijing，China（BJS）to Osaka，Japan（OSA） Commodity ：Worms Gross Weight ：45.00kg Dimension ：70cm×47cm×35cm×1\n公布直达运价及活体动物运价规则见下方原卷图表。",
+        "image": "/paper-assets/2024-business-air-rates.png"
+      },
+      {
+        "id": "2024-business-q68",
+        "number": 68,
+        "section": "计算题",
+        "type": "single",
+        "prompt": "该票货物的 Applicable Rate 是（ ）CNY/KG。",
+        "options": [
+          {
+            "key": "A",
+            "text": "230.00"
+          },
+          {
+            "key": "B",
+            "text": "37.51"
+          },
+          {
+            "key": "C",
+            "text": "18.80"
+          },
+          {
+            "key": "D",
+            "text": "18.43"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（二）中国出口商 A 公司交付的一票集中托运出口空运货物沙蚕（活体，其品名编号 1093），航线为中国北京至日本大阪，已知货物运价如下： Routing ：Beijing，China（BJS）to Osaka，Japan（OSA） Commodity ：Worms Gross Weight ：45.00kg Dimension ：70cm×47cm×35cm×1\n公布直达运价及活体动物运价规则见下方原卷图表。",
+        "image": "/paper-assets/2024-business-air-rates.png"
+      },
+      {
+        "id": "2024-business-q69",
+        "number": 69,
+        "section": "计算题",
+        "type": "single",
+        "prompt": "该票货物的 Chargeable Weight 是（ ）KGS。",
+        "options": [
+          {
+            "key": "A",
+            "text": "45.0"
+          },
+          {
+            "key": "B",
+            "text": "50.0"
+          },
+          {
+            "key": "C",
+            "text": "100.0"
+          },
+          {
+            "key": "D",
+            "text": "48.0"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（二）中国出口商 A 公司交付的一票集中托运出口空运货物沙蚕（活体，其品名编号 1093），航线为中国北京至日本大阪，已知货物运价如下： Routing ：Beijing，China（BJS）to Osaka，Japan（OSA） Commodity ：Worms Gross Weight ：45.00kg Dimension ：70cm×47cm×35cm×1\n公布直达运价及活体动物运价规则见下方原卷图表。",
+        "image": "/paper-assets/2024-business-air-rates.png"
+      },
+      {
+        "id": "2024-business-q70",
+        "number": 70,
+        "section": "计算题",
+        "type": "single",
+        "prompt": "该票货物的 Weight Charge 是 CNY（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "2532.15"
+          },
+          {
+            "key": "B",
+            "text": "1843.00"
+          },
+          {
+            "key": "C",
+            "text": "2559.04"
+          },
+          {
+            "key": "D",
+            "text": "5118.08"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（二）中国出口商 A 公司交付的一票集中托运出口空运货物沙蚕（活体，其品名编号 1093），航线为中国北京至日本大阪，已知货物运价如下： Routing ：Beijing，China（BJS）to Osaka，Japan（OSA） Commodity ：Worms Gross Weight ：45.00kg Dimension ：70cm×47cm×35cm×1\n公布直达运价及活体动物运价规则见下方原卷图表。",
+        "image": "/paper-assets/2024-business-air-rates.png"
+      },
+      {
+        "id": "2024-business-q71",
+        "number": 71,
+        "section": "案例分析题",
+        "type": "single",
+        "prompt": "本案中无船承运人签发的提单属（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "清洁提单"
+          },
+          {
+            "key": "B",
+            "text": "不清洁提单"
+          },
+          {
+            "key": "C",
+            "text": "倒签提单"
+          },
+          {
+            "key": "D",
+            "text": "预借提单"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（一）某国际货运代理企业作为无船承运人经营国际集装箱拼箱业务，2023年9月15日， 该无船承运人在上海港自己的 CFS 将分别属于六个不同发货人的拼箱货装入一个 20 英尺的集装箱，然后向某班轮公司托运。该集装箱于 2023 年 9 月 18 日装船，班轮公司签发给无船承运人 CY/CY 交接的 FCL 条款下的全程海运 B/L 一套；无船承运人然后向不同的发货人分别签发了 CFS/CFS 交接的 LCL 条款下的 HOUSE B/L 共六套，所有的提单都是清洁提单。2023 年 9 月 23 日载货船舶抵达提单上记载的卸货港。次日，无船承运人从班轮公司的 CY 提取了外表状况良好和铅封完整的集装箱（货物），并在卸货港自己的 CFS 拆箱，拆箱时发现两件货物损坏。2023 年 9 月 25 日收货人凭无船承运人签发的提单前来提货，发现货物损坏。请问："
+      },
+      {
+        "id": "2024-business-q72",
+        "number": 72,
+        "section": "案例分析题",
+        "type": "single",
+        "prompt": "本案中无船承运人与班轮公司之间的货物交接方式为（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "CY/CFS"
+          },
+          {
+            "key": "B",
+            "text": "CFS/CFS"
+          },
+          {
+            "key": "C",
+            "text": "CFS/CY"
+          },
+          {
+            "key": "D",
+            "text": "CY/CY"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（一）某国际货运代理企业作为无船承运人经营国际集装箱拼箱业务，2023年9月15日， 该无船承运人在上海港自己的 CFS 将分别属于六个不同发货人的拼箱货装入一个 20 英尺的集装箱，然后向某班轮公司托运。该集装箱于 2023 年 9 月 18 日装船，班轮公司签发给无船承运人 CY/CY 交接的 FCL 条款下的全程海运 B/L 一套；无船承运人然后向不同的发货人分别签发了 CFS/CFS 交接的 LCL 条款下的 HOUSE B/L 共六套，所有的提单都是清洁提单。2023 年 9 月 23 日载货船舶抵达提单上记载的卸货港。次日，无船承运人从班轮公司的 CY 提取了外表状况良好和铅封完整的集装箱（货物），并在卸货港自己的 CFS 拆箱，拆箱时发现两件货物损坏。2023 年 9 月 25 日收货人凭无船承运人签发的提单前来提货，发现货物损坏。请问："
+      },
+      {
+        "id": "2024-business-q73",
+        "number": 73,
+        "section": "案例分析题",
+        "type": "single",
+        "prompt": "按签发人的不同划分，本案中船公司签发的提单在实践中被称为（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "MASTER B/L"
+          },
+          {
+            "key": "B",
+            "text": "空白提单"
+          },
+          {
+            "key": "C",
+            "text": "收货待运提单"
+          },
+          {
+            "key": "D",
+            "text": "HOUSE B/L"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（一）某国际货运代理企业作为无船承运人经营国际集装箱拼箱业务，2023年9月15日， 该无船承运人在上海港自己的 CFS 将分别属于六个不同发货人的拼箱货装入一个 20 英尺的集装箱，然后向某班轮公司托运。该集装箱于 2023 年 9 月 18 日装船，班轮公司签发给无船承运人 CY/CY 交接的 FCL 条款下的全程海运 B/L 一套；无船承运人然后向不同的发货人分别签发了 CFS/CFS 交接的 LCL 条款下的 HOUSE B/L 共六套，所有的提单都是清洁提单。2023 年 9 月 23 日载货船舶抵达提单上记载的卸货港。次日，无船承运人从班轮公司的 CY 提取了外表状况良好和铅封完整的集装箱（货物），并在卸货港自己的 CFS 拆箱，拆箱时发现两件货物损坏。2023 年 9 月 25 日收货人凭无船承运人签发的提单前来提货，发现货物损坏。请问："
+      },
+      {
+        "id": "2024-business-q74",
+        "number": 74,
+        "section": "案例分析题",
+        "type": "single",
+        "prompt": "如果采用 LCL―FCL 条款，则货物的交接方式为（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "CY-CY"
+          },
+          {
+            "key": "B",
+            "text": "CY-DOOR"
+          },
+          {
+            "key": "C",
+            "text": "CFS-CY"
+          },
+          {
+            "key": "D",
+            "text": "CY-CFS"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（一）某国际货运代理企业作为无船承运人经营国际集装箱拼箱业务，2023年9月15日， 该无船承运人在上海港自己的 CFS 将分别属于六个不同发货人的拼箱货装入一个 20 英尺的集装箱，然后向某班轮公司托运。该集装箱于 2023 年 9 月 18 日装船，班轮公司签发给无船承运人 CY/CY 交接的 FCL 条款下的全程海运 B/L 一套；无船承运人然后向不同的发货人分别签发了 CFS/CFS 交接的 LCL 条款下的 HOUSE B/L 共六套，所有的提单都是清洁提单。2023 年 9 月 23 日载货船舶抵达提单上记载的卸货港。次日，无船承运人从班轮公司的 CY 提取了外表状况良好和铅封完整的集装箱（货物），并在卸货港自己的 CFS 拆箱，拆箱时发现两件货物损坏。2023 年 9 月 25 日收货人凭无船承运人签发的提单前来提货，发现货物损坏。请问："
+      },
+      {
+        "id": "2024-business-q75",
+        "number": 75,
+        "section": "案例分析题",
+        "type": "single",
+        "prompt": "收货人凭无船承运人签发的提单前来提货，发现两件货物损坏，根据运输合同，收货人应该向（ ）索赔。",
+        "options": [
+          {
+            "key": "A",
+            "text": "班轮公司"
+          },
+          {
+            "key": "B",
+            "text": "无船承运人"
+          },
+          {
+            "key": "C",
+            "text": "保险公司"
+          },
+          {
+            "key": "D",
+            "text": "发货人"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 9,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（一）某国际货运代理企业作为无船承运人经营国际集装箱拼箱业务，2023年9月15日， 该无船承运人在上海港自己的 CFS 将分别属于六个不同发货人的拼箱货装入一个 20 英尺的集装箱，然后向某班轮公司托运。该集装箱于 2023 年 9 月 18 日装船，班轮公司签发给无船承运人 CY/CY 交接的 FCL 条款下的全程海运 B/L 一套；无船承运人然后向不同的发货人分别签发了 CFS/CFS 交接的 LCL 条款下的 HOUSE B/L 共六套，所有的提单都是清洁提单。2023 年 9 月 23 日载货船舶抵达提单上记载的卸货港。次日，无船承运人从班轮公司的 CY 提取了外表状况良好和铅封完整的集装箱（货物），并在卸货港自己的 CFS 拆箱，拆箱时发现两件货物损坏。2023 年 9 月 25 日收货人凭无船承运人签发的提单前来提货，发现货物损坏。请问："
+      },
+      {
+        "id": "2024-business-q76",
+        "number": 76,
+        "section": "案例分析题",
+        "type": "single",
+        "prompt": "关于景德镇瓷器丢失事宜，收货人可以向（ ）提出索赔。",
+        "options": [
+          {
+            "key": "A",
+            "text": "托运人"
+          },
+          {
+            "key": "B",
+            "text": "保险公司"
+          },
+          {
+            "key": "C",
+            "text": "承运人（航空公司）"
+          },
+          {
+            "key": "D",
+            "text": "货运代理人"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 9,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（二）某货主托运一件 38.5 千克景德镇瓷器，由上海空运至美国西雅图 , 运输声明价值 320000 元人民币 , 由于承运人原因 , 导致这件景德镇瓷器在运输过程中丢失。 运价资料如下：SHA-SEA M：RMB 420.00 N：51.69CNY/KG 45：38.71CNY/KG Exchange rate：1 美元＝ 7.25 元人民币请问："
+      },
+      {
+        "id": "2024-business-q77",
+        "number": 77,
+        "section": "案例分析题",
+        "type": "single",
+        "prompt": "收货人的索赔依据是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "保险单"
+          },
+          {
+            "key": "B",
+            "text": "航空货运单"
+          },
+          {
+            "key": "C",
+            "text": "清洁提单"
+          },
+          {
+            "key": "D",
+            "text": "码头装卸合同"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 9,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（二）某货主托运一件 38.5 千克景德镇瓷器，由上海空运至美国西雅图 , 运输声明价值 320000 元人民币 , 由于承运人原因 , 导致这件景德镇瓷器在运输过程中丢失。 运价资料如下：SHA-SEA M：RMB 420.00 N：51.69CNY/KG 45：38.71CNY/KG Exchange rate：1 美元＝ 7.25 元人民币请问："
+      },
+      {
+        "id": "2024-business-q78",
+        "number": 78,
+        "section": "案例分析题",
+        "type": "single",
+        "prompt": "如果赔偿，（ ）能够享受责任限额。",
+        "options": [
+          {
+            "key": "A",
+            "text": "托运人"
+          },
+          {
+            "key": "B",
+            "text": "保险公司"
+          },
+          {
+            "key": "C",
+            "text": "承运人"
+          },
+          {
+            "key": "D",
+            "text": "货运代理人"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 9,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（二）某货主托运一件 38.5 千克景德镇瓷器，由上海空运至美国西雅图 , 运输声明价值 320000 元人民币 , 由于承运人原因 , 导致这件景德镇瓷器在运输过程中丢失。 运价资料如下：SHA-SEA M：RMB 420.00 N：51.69CNY/KG 45：38.71CNY/KG Exchange rate：1 美元＝ 7.25 元人民币请问："
+      },
+      {
+        "id": "2024-business-q79",
+        "number": 79,
+        "section": "案例分析题",
+        "type": "single",
+        "prompt": "如果货主要求航空公司赔偿，按照国际航空运输相关规定，最高的赔偿额为 CNY （ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "50000"
+          },
+          {
+            "key": "B",
+            "text": "30000"
+          },
+          {
+            "key": "C",
+            "text": "80000"
+          },
+          {
+            "key": "D",
+            "text": "320000"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 9,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（二）某货主托运一件 38.5 千克景德镇瓷器，由上海空运至美国西雅图 , 运输声明价值 320000 元人民币 , 由于承运人原因 , 导致这件景德镇瓷器在运输过程中丢失。 运价资料如下：SHA-SEA M：RMB 420.00 N：51.69CNY/KG 45：38.71CNY/KG Exchange rate：1 美元＝ 7.25 元人民币请问："
+      },
+      {
+        "id": "2024-business-q80",
+        "number": 80,
+        "section": "案例分析题",
+        "type": "single",
+        "prompt": "瓷器的航空运费是 CNY（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "5552.22"
+          },
+          {
+            "key": "B",
+            "text": "3890.13"
+          },
+          {
+            "key": "C",
+            "text": "2010.13"
+          },
+          {
+            "key": "D",
+            "text": "1567.83"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 9,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "（二）某货主托运一件 38.5 千克景德镇瓷器，由上海空运至美国西雅图 , 运输声明价值 320000 元人民币 , 由于承运人原因 , 导致这件景德镇瓷器在运输过程中丢失。 运价资料如下：SHA-SEA M：RMB 420.00 N：51.69CNY/KG 45：38.71CNY/KG Exchange rate：1 美元＝ 7.25 元人民币请问："
+      },
+      {
+        "id": "2024-business-q81",
+        "number": 81,
+        "section": "操作题",
+        "type": "single",
+        "prompt": "载运本票货物的集装箱的规格是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "40GP"
+          },
+          {
+            "key": "B",
+            "text": "20GP"
+          },
+          {
+            "key": "C",
+            "text": "40HQ"
+          },
+          {
+            "key": "D",
+            "text": "45HC"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "依照所附 SEA WAYBILL（原卷第 10 页海运单）回答本组问题。",
+        "image": "/paper-assets/2024-business-sea-waybill.png"
+      },
+      {
+        "id": "2024-business-q82",
+        "number": 82,
+        "section": "操作题",
+        "type": "single",
+        "prompt": "该票货物有（ ）个集装箱。",
+        "options": [
+          {
+            "key": "A",
+            "text": "2"
+          },
+          {
+            "key": "B",
+            "text": "1"
+          },
+          {
+            "key": "C",
+            "text": "3"
+          },
+          {
+            "key": "D",
+            "text": "8"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "依照所附 SEA WAYBILL（原卷第 10 页海运单）回答本组问题。",
+        "image": "/paper-assets/2024-business-sea-waybill.png"
+      },
+      {
+        "id": "2024-business-q83",
+        "number": 83,
+        "section": "操作题",
+        "type": "single",
+        "prompt": "该票货物的包装总件数是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "73"
+          },
+          {
+            "key": "B",
+            "text": "45"
+          },
+          {
+            "key": "C",
+            "text": "40"
+          },
+          {
+            "key": "D",
+            "text": "55"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "依照所附 SEA WAYBILL（原卷第 10 页海运单）回答本组问题。",
+        "image": "/paper-assets/2024-business-sea-waybill.png"
+      },
+      {
+        "id": "2024-business-q84",
+        "number": 84,
+        "section": "操作题",
+        "type": "single",
+        "prompt": "该票多式联运货物的目的地是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "NANJING"
+          },
+          {
+            "key": "B",
+            "text": "Hong Kong"
+          },
+          {
+            "key": "C",
+            "text": "Tauranga"
+          },
+          {
+            "key": "D",
+            "text": "Auckland Metroport"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "依照所附 SEA WAYBILL（原卷第 10 页海运单）回答本组问题。",
+        "image": "/paper-assets/2024-business-sea-waybill.png"
+      },
+      {
+        "id": "2024-business-q85",
+        "number": 85,
+        "section": "操作题",
+        "type": "single",
+        "prompt": "该单据属（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "指示提单"
+          },
+          {
+            "key": "B",
+            "text": "不记名提单"
+          },
+          {
+            "key": "C",
+            "text": "海运单"
+          },
+          {
+            "key": "D",
+            "text": "不清洁提单"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "依照所附 SEA WAYBILL（原卷第 10 页海运单）回答本组问题。",
+        "image": "/paper-assets/2024-business-sea-waybill.png"
+      },
+      {
+        "id": "2024-business-q86",
+        "number": 86,
+        "section": "操作题",
+        "type": "single",
+        "prompt": "在“Airport of Departure and Requested Routing ”栏应填写（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "BEIJING"
+          },
+          {
+            "key": "B",
+            "text": "PEK"
+          },
+          {
+            "key": "C",
+            "text": "PVG"
+          },
+          {
+            "key": "D",
+            "text": "LHR"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "根据以下要求填制航空货运单。 某货主托运一整套机器，始发地是中国北京首都国际机场，目的地是美国纽约肯尼迪国际机场，运费预付，分为 8 个箱子装运，每箱重量 50 公斤，整套机器的价值 USD8000，没有办理供海关用的声明价值。"
+      },
+      {
+        "id": "2024-business-q87",
+        "number": 87,
+        "section": "操作题",
+        "type": "single",
+        "prompt": "货运单上“Declared Value for Customs”一栏应填写（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "NVD"
+          },
+          {
+            "key": "B",
+            "text": "XXX"
+          },
+          {
+            "key": "C",
+            "text": "PPD"
+          },
+          {
+            "key": "D",
+            "text": "NCV"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "根据以下要求填制航空货运单。 某货主托运一整套机器，始发地是中国北京首都国际机场，目的地是美国纽约肯尼迪国际机场，运费预付，分为 8 个箱子装运，每箱重量 50 公斤，整套机器的价值 USD8000，没有办理供海关用的声明价值。"
+      },
+      {
+        "id": "2024-business-q88",
+        "number": 88,
+        "section": "操作题",
+        "type": "single",
+        "prompt": "如果运费是预付，在货运单中应填入的英文名称为（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "FREIGHT COLLECT"
+          },
+          {
+            "key": "B",
+            "text": "FREIGHT PREPAID"
+          },
+          {
+            "key": "C",
+            "text": "CHARGES COLLECT"
+          },
+          {
+            "key": "D",
+            "text": "CHARGES PREPAID"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "根据以下要求填制航空货运单。 某货主托运一整套机器，始发地是中国北京首都国际机场，目的地是美国纽约肯尼迪国际机场，运费预付，分为 8 个箱子装运，每箱重量 50 公斤，整套机器的价值 USD8000，没有办理供海关用的声明价值。"
+      },
+      {
+        "id": "2024-business-q89",
+        "number": 89,
+        "section": "操作题",
+        "type": "single",
+        "prompt": "如果托运人没有办理货物运输保险，在货运单上填写（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "AT"
+          },
+          {
+            "key": "B",
+            "text": "PK"
+          },
+          {
+            "key": "C",
+            "text": "XXX"
+          },
+          {
+            "key": "D",
+            "text": "RA"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "根据以下要求填制航空货运单。 某货主托运一整套机器，始发地是中国北京首都国际机场，目的地是美国纽约肯尼迪国际机场，运费预付，分为 8 个箱子装运，每箱重量 50 公斤，整套机器的价值 USD8000，没有办理供海关用的声明价值。"
+      },
+      {
+        "id": "2024-business-q90",
+        "number": 90,
+        "section": "操作题",
+        "type": "single",
+        "prompt": "在货运单中“Other Charges”一栏内应填写它的货币代号为（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "USD"
+          },
+          {
+            "key": "B",
+            "text": "EUR"
+          },
+          {
+            "key": "C",
+            "text": "CNY"
+          },
+          {
+            "key": "D",
+            "text": "RMB"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "根据以下要求填制航空货运单。 某货主托运一整套机器，始发地是中国北京首都国际机场，目的地是美国纽约肯尼迪国际机场，运费预付，分为 8 个箱子装运，每箱重量 50 公斤，整套机器的价值 USD8000，没有办理供海关用的声明价值。"
+      },
+      {
+        "id": "2024-business-q91",
+        "number": 91,
+        "section": "FIATA 附加题 · 单项选择题",
+        "type": "single",
+        "prompt": "货代公司在国际贸易中扮演着重要角色，它们接受（ ）委托，代办租船、订舱、 报关等事宜。",
+        "options": [
+          {
+            "key": "A",
+            "text": "船公司"
+          },
+          {
+            "key": "B",
+            "text": "货主"
+          },
+          {
+            "key": "C",
+            "text": "海关"
+          },
+          {
+            "key": "D",
+            "text": "工厂"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 12,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "optional": true
+      },
+      {
+        "id": "2024-business-q92",
+        "number": 92,
+        "section": "FIATA 附加题 · 单项选择题",
+        "type": "single",
+        "prompt": "以下国际组织中，（ ）制定了《国际海运危险货物规则》（IMDG Code）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "BIMCO"
+          },
+          {
+            "key": "B",
+            "text": "ICC"
+          },
+          {
+            "key": "C",
+            "text": "IMO"
+          },
+          {
+            "key": "D",
+            "text": "ICS"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 12,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "optional": true
+      },
+      {
+        "id": "2024-business-q93",
+        "number": 93,
+        "section": "FIATA 附加题 · 单项选择题",
+        "type": "single",
+        "prompt": "通过前馈的信息流和反馈的物料流及信息流，将供应商、制造商、分销商、零售商， 直到最终用户连成一个整体的管理模式是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "区域物流"
+          },
+          {
+            "key": "B",
+            "text": "第三方物流"
+          },
+          {
+            "key": "C",
+            "text": "国际物流"
+          },
+          {
+            "key": "D",
+            "text": "供应链管理"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 12,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "optional": true
+      },
+      {
+        "id": "2024-business-q94",
+        "number": 94,
+        "section": "FIATA 附加题 · 判断题",
+        "type": "boolean",
+        "prompt": "国际航空运输协会的简称是 IMO。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 12,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "optional": true
+      },
+      {
+        "id": "2024-business-q95",
+        "number": 95,
+        "section": "FIATA 附加题 · 判断题",
+        "type": "boolean",
+        "prompt": "第 33 届夏季奥林匹克运动会于 2024 年 7 月 26 日在法国巴黎举办，该城市属于 IATA 航空运输业务区中的 TC2 区。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 12,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "optional": true
+      },
+      {
+        "id": "2024-business-q96",
+        "number": 96,
+        "section": "FIATA 附加题 · 判断题",
+        "type": "boolean",
+        "prompt": "《交通强国建设纲要》印发近 5 年来，我国着力提升国际货运服务能力，完善基础设施建设标准；针对低空经济发展对通用机场规划、布局、功能等方面的新需求， 推动完善通用机场、临时起降点、垂直起降场地建设和运行标准，引导支持地方政府完善基础设施规划建设；推动低空服务保障体系建设；加快推动空域分类管理落地实施，充分利用低空空域资源。 （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 12,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "optional": true
+      },
+      {
+        "id": "2024-business-q97",
+        "number": 97,
+        "section": "FIATA 附加题 · 多项选择题",
+        "type": "multiple",
+        "prompt": "2024 年 6 月 30 日，GBK 中国总经理作为 FIATA 安保工作委员会的代表，参加在日内瓦举行的联合国危险货物运输专家分委会（UN TDG）会议，与来自全球各个国家和行业协会的 TDG 和 GHS 专家代表，共同讨论每两年一次的危险货物道路运输规则和化学品分类规则的修订。其中“FIATA”和“GHS”分别是指（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "国际货运代理协会联合会"
+          },
+          {
+            "key": "B",
+            "text": "危险货物运输"
+          },
+          {
+            "key": "C",
+            "text": "全球化学品统一分类和标签制度"
+          },
+          {
+            "key": "D",
+            "text": "国际货运代理协会"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 12,
+        "answer": [
+          "A",
+          "C"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "optional": true
+      },
+      {
+        "id": "2024-business-q98",
+        "number": 98,
+        "section": "FIATA 附加题 · 多项选择题",
+        "type": "multiple",
+        "prompt": "《国家综合立体交通网规划纲要》提出，到 2035 年，我国基本建成便捷顺畅、经济高效、绿色集约、智能先进、安全可靠的现代化高质量国家综合立体交通网，不断完善（ ）等基础设施网络，构建以铁路为主干，以公路为基础，水运、民航比较优势充分发挥的国家综合立体交通网。",
+        "options": [
+          {
+            "key": "A",
+            "text": "铁路"
+          },
+          {
+            "key": "B",
+            "text": "公路"
+          },
+          {
+            "key": "C",
+            "text": "水运"
+          },
+          {
+            "key": "D",
+            "text": "民航、邮政快递"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 12,
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "optional": true
+      }
+    ]
+  },
+  {
+    "id": "2024-english",
+    "year": 2024,
+    "subject": "english",
+    "title": "2024 年国际货代英语试卷",
+    "durationMinutes": 90,
+    "totalPoints": 100,
+    "sourceFiles": [
+      "2024年货代英语试题(含答案).pdf"
+    ],
+    "instructions": "共 90 题、100 分，考试时长 90 分钟。单项选择 15 分、判断 15 分、多项选择 20 分、完形填空 10 分、英译汉 10 分、汉译英 10 分、英文单证操作 20 分。多选须全部正确才得分。按所附原卷标注的参考答案计算成绩。",
+    "questions": [
+      {
+        "id": "2024-english-q1",
+        "number": 1,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "The second stage of Supply Chain Management involves building a strong relationship with ( ) of the raw materials that are needed in making the product .",
+        "options": [
+          {
+            "key": "A",
+            "text": "suppliers"
+          },
+          {
+            "key": "B",
+            "text": "delivers"
+          },
+          {
+            "key": "C",
+            "text": "exporters"
+          },
+          {
+            "key": "D",
+            "text": "importers"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q2",
+        "number": 2,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "( ) allows supply systems to react quickly to changes while improving their performance.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Efficient Consumer Response"
+          },
+          {
+            "key": "B",
+            "text": "Enterprise Resource Planning"
+          },
+          {
+            "key": "C",
+            "text": "Quick Response"
+          },
+          {
+            "key": "D",
+            "text": "Just in Time"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q3",
+        "number": 3,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "There are three important factors to transport performance: cost, consistency and ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "distance"
+          },
+          {
+            "key": "B",
+            "text": "speed"
+          },
+          {
+            "key": "C",
+            "text": "modes of transport"
+          },
+          {
+            "key": "D",
+            "text": "place"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q4",
+        "number": 4,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "The objective in inventory strategy is to achieve desired customer service with the ( ) inventory and the lowest total cost.",
+        "options": [
+          {
+            "key": "A",
+            "text": "more"
+          },
+          {
+            "key": "B",
+            "text": "less"
+          },
+          {
+            "key": "C",
+            "text": "maximum"
+          },
+          {
+            "key": "D",
+            "text": "minimum"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q5",
+        "number": 5,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "Cold-chain logistics is a temperature-controlled storage and distribution network, used primarily for ( ) goods.",
+        "options": [
+          {
+            "key": "A",
+            "text": "perishable"
+          },
+          {
+            "key": "B",
+            "text": "flammable"
+          },
+          {
+            "key": "C",
+            "text": "fragile"
+          },
+          {
+            "key": "D",
+            "text": "wooden"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q6",
+        "number": 6,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "The term “CIF” should be followed by ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "port of loading"
+          },
+          {
+            "key": "B",
+            "text": "place of loading"
+          },
+          {
+            "key": "C",
+            "text": "port of destination"
+          },
+          {
+            "key": "D",
+            "text": "airport of destination"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q7",
+        "number": 7,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "Cross-border e-commerce logistics is used to complete the standardized ( ) processing and system warehousing management mode.",
+        "options": [
+          {
+            "key": "A",
+            "text": "logistics order"
+          },
+          {
+            "key": "B",
+            "text": "resource management"
+          },
+          {
+            "key": "C",
+            "text": "customer relationship management"
+          },
+          {
+            "key": "D",
+            "text": "planning system"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q8",
+        "number": 8,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "In the business of ocean transportation, freight forwarders are mainly concerned with ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "market prices"
+          },
+          {
+            "key": "B",
+            "text": "liner freight rates"
+          },
+          {
+            "key": "C",
+            "text": "tramp rates"
+          },
+          {
+            "key": "D",
+            "text": "variable costs"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q9",
+        "number": 9,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "( ) service refers to a one-stop logistics service.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Overseas warehousing"
+          },
+          {
+            "key": "B",
+            "text": "Commercial express"
+          },
+          {
+            "key": "C",
+            "text": "Postal express"
+          },
+          {
+            "key": "D",
+            "text": "International special logistics line"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 2,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q10",
+        "number": 10,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "( ) is subsequently exchanged for the marine bill of lading for import.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Booking note"
+          },
+          {
+            "key": "B",
+            "text": "Delivery order"
+          },
+          {
+            "key": "C",
+            "text": "Dock receipt"
+          },
+          {
+            "key": "D",
+            "text": "Cargo manifest"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q11",
+        "number": 11,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "International Federation of Freight Forwarders Associations, abbreviated as ( ), was founded in Vienna Austria on 31 MAY, 1926.",
+        "options": [
+          {
+            "key": "A",
+            "text": "IFFFA"
+          },
+          {
+            "key": "B",
+            "text": "IATA"
+          },
+          {
+            "key": "C",
+            "text": "ICIFA"
+          },
+          {
+            "key": "D",
+            "text": "FIATA"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q12",
+        "number": 12,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "The IMDG Code was formed to ( ) at sea.",
+        "options": [
+          {
+            "key": "A",
+            "text": "keep seafarers safe"
+          },
+          {
+            "key": "B",
+            "text": "promote trade"
+          },
+          {
+            "key": "C",
+            "text": "keep the peace"
+          },
+          {
+            "key": "D",
+            "text": "prevent all types of pollution"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q13",
+        "number": 13,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "The dangerous goods labels and dangerous goods certificate for the cargo are based on the ( ) DGR clauses.",
+        "options": [
+          {
+            "key": "A",
+            "text": "seven"
+          },
+          {
+            "key": "B",
+            "text": "eight"
+          },
+          {
+            "key": "C",
+            "text": "nine"
+          },
+          {
+            "key": "D",
+            "text": "ten"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q14",
+        "number": 14,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "The DGR is published ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "every two years"
+          },
+          {
+            "key": "B",
+            "text": "twice a year"
+          },
+          {
+            "key": "C",
+            "text": "every year"
+          },
+          {
+            "key": "D",
+            "text": "every three years"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。原卷第 14 题明确标注 A；该标注存在疑点，建议教师复核。本题未擅自更改原卷答案。"
+      },
+      {
+        "id": "2024-english-q15",
+        "number": 15,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "When there is no direct transportation, moving goods involves ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "transshipment"
+          },
+          {
+            "key": "B",
+            "text": "transportation"
+          },
+          {
+            "key": "C",
+            "text": "handling"
+          },
+          {
+            "key": "D",
+            "text": "storage"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q16",
+        "number": 16,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "A freight forwarder is an agent on behalf of the exporter to deliver goods to the consignee. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q17",
+        "number": 17,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "The expansion of international trade enlarges the scope of a forwarder’s services. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q18",
+        "number": 18,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "Booking space is one of the responsibilities of an international freight forwarder. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q19",
+        "number": 19,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "With the shipping documents, the importer can take delivery of the goods from the carrier according to the set procedures. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q20",
+        "number": 20,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "Fixed costs include administrative costs. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q21",
+        "number": 21,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "Exporting means selling products to another country. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 3,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q22",
+        "number": 22,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "Many countries control import by an import license system. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q23",
+        "number": 23,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "In the context of cross-border e-commerce, L/C is not now widely used for payment in international trade. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q24",
+        "number": 24,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "After shipment, if L/C is used, the exporter should present to the negotiating bank the documents within the time specified by L/C. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q25",
+        "number": 25,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "Air transportation is greatly influenced by the weather conditions. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q26",
+        "number": 26,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "Where the goods are in container, the term “FAS” would be appropriate. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q27",
+        "number": 27,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "The negotiating bank checks the apparent authenticity of the L/C and transmits it to the beneficiary. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q28",
+        "number": 28,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "FCA means that the seller delivers the goods to the buyer in one or other of two ways. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q29",
+        "number": 29,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "When one of the parties commits a breach of contract, the contract may be refused to carry out by the other party. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q30",
+        "number": 30,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "The L/C , remittance and collection are based on the bank’s credit. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确 / 是"
+          },
+          {
+            "key": "B",
+            "text": "错误 / 否"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 4,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q31",
+        "number": 31,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "Trade negotiation generally includes ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "inquiry"
+          },
+          {
+            "key": "B",
+            "text": "offer"
+          },
+          {
+            "key": "C",
+            "text": "counter-offer"
+          },
+          {
+            "key": "D",
+            "text": "acceptance"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 4,
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q32",
+        "number": 32,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "China International Trade Single Window has integrated to implement the ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "single declaration"
+          },
+          {
+            "key": "B",
+            "text": "single examination"
+          },
+          {
+            "key": "C",
+            "text": "single release"
+          },
+          {
+            "key": "D",
+            "text": "single inspection and quarantine"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 4,
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q33",
+        "number": 33,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "In terms of express-mail processing, the previous 9 links have been integrated into 4 ones, including ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "declaration"
+          },
+          {
+            "key": "B",
+            "text": "animal/plant quarantine"
+          },
+          {
+            "key": "C",
+            "text": "inspection"
+          },
+          {
+            "key": "D",
+            "text": "release"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 4,
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q34",
+        "number": 34,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "The three principal methods of chartering a tramp ship are ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "voyage charter"
+          },
+          {
+            "key": "B",
+            "text": "time charter"
+          },
+          {
+            "key": "C",
+            "text": "bare boat charter"
+          },
+          {
+            "key": "D",
+            "text": "liner"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 5,
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q35",
+        "number": 35,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "The documents commonly used in carriage of goods by sea are ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "booking notes"
+          },
+          {
+            "key": "B",
+            "text": "dock receipts"
+          },
+          {
+            "key": "C",
+            "text": "bill of lading"
+          },
+          {
+            "key": "D",
+            "text": "delivery orders"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 5,
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q36",
+        "number": 36,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "An international freight forwarder should be familiar with international traffic routes, such as ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "location of ports"
+          },
+          {
+            "key": "B",
+            "text": "transshipment points"
+          },
+          {
+            "key": "C",
+            "text": "inland centers"
+          },
+          {
+            "key": "D",
+            "text": "delivery place"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 5,
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q37",
+        "number": 37,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "Consolidation can benefit all concerned parties including ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "shipper"
+          },
+          {
+            "key": "B",
+            "text": "consignee"
+          },
+          {
+            "key": "C",
+            "text": "carrier"
+          },
+          {
+            "key": "D",
+            "text": "forwarder"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 5,
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q38",
+        "number": 38,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "Which of the followings are the types of air freight rates? ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "General Cargo Rate"
+          },
+          {
+            "key": "B",
+            "text": "CIF Rate"
+          },
+          {
+            "key": "C",
+            "text": "Commodity Classification Rate"
+          },
+          {
+            "key": "D",
+            "text": "Specific Commodity Rate"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 5,
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q39",
+        "number": 39,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "Documents used for container transport include ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "EIR"
+          },
+          {
+            "key": "B",
+            "text": "C/O"
+          },
+          {
+            "key": "C",
+            "text": "CLP"
+          },
+          {
+            "key": "D",
+            "text": "D/R"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 5,
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q40",
+        "number": 40,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "Which of the following container standards are covered in common standard lengths ? ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "20ft (6.1 m)"
+          },
+          {
+            "key": "B",
+            "text": "40ft (12.2 m)"
+          },
+          {
+            "key": "C",
+            "text": "45ft (13.7 m)"
+          },
+          {
+            "key": "D",
+            "text": "48ft (14.6 m)"
+          }
+        ],
+        "points": 2,
+        "sourcePage": 5,
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q41",
+        "number": 41,
+        "section": "完形填空",
+        "type": "single",
+        "prompt": "请选择第 41 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "refer"
+          },
+          {
+            "key": "B",
+            "text": "consult"
+          },
+          {
+            "key": "C",
+            "text": "inform"
+          },
+          {
+            "key": "D",
+            "text": "read"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 6,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "Dear Sirs,\nRe: Our Order No. 553\nYour S/C No. 675 Covering 1000 cases Electronic Toys\n\nWe wish to (41) you to our Order No. 553 for 1000 cases Electronic Toys, from which you will see that this order was (42) on CFR basis.\nAs we now desire to have the consignment (43) at your end, we shall be much pleased if you will kindly (44) to insure the same on our (45) against All Risks at invoice value (46) 10%, i.e. US$4400.\nWe shall of course refund the (47) to you upon receipt of your (48) note or, if you like, you may draw on us at (49) for the same.\nWe sincerely hope that our request will meet with your (50).\nBest regards,"
+      },
+      {
+        "id": "2024-english-q42",
+        "number": 42,
+        "section": "完形填空",
+        "type": "single",
+        "prompt": "请选择第 42 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "offer"
+          },
+          {
+            "key": "B",
+            "text": "offered"
+          },
+          {
+            "key": "C",
+            "text": "place"
+          },
+          {
+            "key": "D",
+            "text": "placed"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 6,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "Dear Sirs,\nRe: Our Order No. 553\nYour S/C No. 675 Covering 1000 cases Electronic Toys\n\nWe wish to (41) you to our Order No. 553 for 1000 cases Electronic Toys, from which you will see that this order was (42) on CFR basis.\nAs we now desire to have the consignment (43) at your end, we shall be much pleased if you will kindly (44) to insure the same on our (45) against All Risks at invoice value (46) 10%, i.e. US$4400.\nWe shall of course refund the (47) to you upon receipt of your (48) note or, if you like, you may draw on us at (49) for the same.\nWe sincerely hope that our request will meet with your (50).\nBest regards,"
+      },
+      {
+        "id": "2024-english-q43",
+        "number": 43,
+        "section": "完形填空",
+        "type": "single",
+        "prompt": "请选择第 43 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "insure"
+          },
+          {
+            "key": "B",
+            "text": "insurance"
+          },
+          {
+            "key": "C",
+            "text": "insured"
+          },
+          {
+            "key": "D",
+            "text": "cover"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 6,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "Dear Sirs,\nRe: Our Order No. 553\nYour S/C No. 675 Covering 1000 cases Electronic Toys\n\nWe wish to (41) you to our Order No. 553 for 1000 cases Electronic Toys, from which you will see that this order was (42) on CFR basis.\nAs we now desire to have the consignment (43) at your end, we shall be much pleased if you will kindly (44) to insure the same on our (45) against All Risks at invoice value (46) 10%, i.e. US$4400.\nWe shall of course refund the (47) to you upon receipt of your (48) note or, if you like, you may draw on us at (49) for the same.\nWe sincerely hope that our request will meet with your (50).\nBest regards,"
+      },
+      {
+        "id": "2024-english-q44",
+        "number": 44,
+        "section": "完形填空",
+        "type": "single",
+        "prompt": "请选择第 44 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "schedule"
+          },
+          {
+            "key": "B",
+            "text": "settle"
+          },
+          {
+            "key": "C",
+            "text": "plan"
+          },
+          {
+            "key": "D",
+            "text": "arrange"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 6,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "Dear Sirs,\nRe: Our Order No. 553\nYour S/C No. 675 Covering 1000 cases Electronic Toys\n\nWe wish to (41) you to our Order No. 553 for 1000 cases Electronic Toys, from which you will see that this order was (42) on CFR basis.\nAs we now desire to have the consignment (43) at your end, we shall be much pleased if you will kindly (44) to insure the same on our (45) against All Risks at invoice value (46) 10%, i.e. US$4400.\nWe shall of course refund the (47) to you upon receipt of your (48) note or, if you like, you may draw on us at (49) for the same.\nWe sincerely hope that our request will meet with your (50).\nBest regards,"
+      },
+      {
+        "id": "2024-english-q45",
+        "number": 45,
+        "section": "完形填空",
+        "type": "single",
+        "prompt": "请选择第 45 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "delegate"
+          },
+          {
+            "key": "B",
+            "text": "behalf"
+          },
+          {
+            "key": "C",
+            "text": "represent"
+          },
+          {
+            "key": "D",
+            "text": "representative"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 6,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "Dear Sirs,\nRe: Our Order No. 553\nYour S/C No. 675 Covering 1000 cases Electronic Toys\n\nWe wish to (41) you to our Order No. 553 for 1000 cases Electronic Toys, from which you will see that this order was (42) on CFR basis.\nAs we now desire to have the consignment (43) at your end, we shall be much pleased if you will kindly (44) to insure the same on our (45) against All Risks at invoice value (46) 10%, i.e. US$4400.\nWe shall of course refund the (47) to you upon receipt of your (48) note or, if you like, you may draw on us at (49) for the same.\nWe sincerely hope that our request will meet with your (50).\nBest regards,"
+      },
+      {
+        "id": "2024-english-q46",
+        "number": 46,
+        "section": "完形填空",
+        "type": "single",
+        "prompt": "请选择第 46 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "raise"
+          },
+          {
+            "key": "B",
+            "text": "add"
+          },
+          {
+            "key": "C",
+            "text": "plus"
+          },
+          {
+            "key": "D",
+            "text": "increase"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 6,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "Dear Sirs,\nRe: Our Order No. 553\nYour S/C No. 675 Covering 1000 cases Electronic Toys\n\nWe wish to (41) you to our Order No. 553 for 1000 cases Electronic Toys, from which you will see that this order was (42) on CFR basis.\nAs we now desire to have the consignment (43) at your end, we shall be much pleased if you will kindly (44) to insure the same on our (45) against All Risks at invoice value (46) 10%, i.e. US$4400.\nWe shall of course refund the (47) to you upon receipt of your (48) note or, if you like, you may draw on us at (49) for the same.\nWe sincerely hope that our request will meet with your (50).\nBest regards,"
+      },
+      {
+        "id": "2024-english-q47",
+        "number": 47,
+        "section": "完形填空",
+        "type": "single",
+        "prompt": "请选择第 47 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "premium"
+          },
+          {
+            "key": "B",
+            "text": "rate"
+          },
+          {
+            "key": "C",
+            "text": "cost"
+          },
+          {
+            "key": "D",
+            "text": "charge"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 6,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "Dear Sirs,\nRe: Our Order No. 553\nYour S/C No. 675 Covering 1000 cases Electronic Toys\n\nWe wish to (41) you to our Order No. 553 for 1000 cases Electronic Toys, from which you will see that this order was (42) on CFR basis.\nAs we now desire to have the consignment (43) at your end, we shall be much pleased if you will kindly (44) to insure the same on our (45) against All Risks at invoice value (46) 10%, i.e. US$4400.\nWe shall of course refund the (47) to you upon receipt of your (48) note or, if you like, you may draw on us at (49) for the same.\nWe sincerely hope that our request will meet with your (50).\nBest regards,"
+      },
+      {
+        "id": "2024-english-q48",
+        "number": 48,
+        "section": "完形填空",
+        "type": "single",
+        "prompt": "请选择第 48 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "booking"
+          },
+          {
+            "key": "B",
+            "text": "debit"
+          },
+          {
+            "key": "C",
+            "text": "credit"
+          },
+          {
+            "key": "D",
+            "text": "shipping"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 6,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "Dear Sirs,\nRe: Our Order No. 553\nYour S/C No. 675 Covering 1000 cases Electronic Toys\n\nWe wish to (41) you to our Order No. 553 for 1000 cases Electronic Toys, from which you will see that this order was (42) on CFR basis.\nAs we now desire to have the consignment (43) at your end, we shall be much pleased if you will kindly (44) to insure the same on our (45) against All Risks at invoice value (46) 10%, i.e. US$4400.\nWe shall of course refund the (47) to you upon receipt of your (48) note or, if you like, you may draw on us at (49) for the same.\nWe sincerely hope that our request will meet with your (50).\nBest regards,"
+      },
+      {
+        "id": "2024-english-q49",
+        "number": 49,
+        "section": "完形填空",
+        "type": "single",
+        "prompt": "请选择第 49 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "watch"
+          },
+          {
+            "key": "B",
+            "text": "look"
+          },
+          {
+            "key": "C",
+            "text": "see"
+          },
+          {
+            "key": "D",
+            "text": "sight"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 6,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "Dear Sirs,\nRe: Our Order No. 553\nYour S/C No. 675 Covering 1000 cases Electronic Toys\n\nWe wish to (41) you to our Order No. 553 for 1000 cases Electronic Toys, from which you will see that this order was (42) on CFR basis.\nAs we now desire to have the consignment (43) at your end, we shall be much pleased if you will kindly (44) to insure the same on our (45) against All Risks at invoice value (46) 10%, i.e. US$4400.\nWe shall of course refund the (47) to you upon receipt of your (48) note or, if you like, you may draw on us at (49) for the same.\nWe sincerely hope that our request will meet with your (50).\nBest regards,"
+      },
+      {
+        "id": "2024-english-q50",
+        "number": 50,
+        "section": "完形填空",
+        "type": "single",
+        "prompt": "请选择第 50 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "account"
+          },
+          {
+            "key": "B",
+            "text": "arrange"
+          },
+          {
+            "key": "C",
+            "text": "approval"
+          },
+          {
+            "key": "D",
+            "text": "appoint"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 6,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "Dear Sirs,\nRe: Our Order No. 553\nYour S/C No. 675 Covering 1000 cases Electronic Toys\n\nWe wish to (41) you to our Order No. 553 for 1000 cases Electronic Toys, from which you will see that this order was (42) on CFR basis.\nAs we now desire to have the consignment (43) at your end, we shall be much pleased if you will kindly (44) to insure the same on our (45) against All Risks at invoice value (46) 10%, i.e. US$4400.\nWe shall of course refund the (47) to you upon receipt of your (48) note or, if you like, you may draw on us at (49) for the same.\nWe sincerely hope that our request will meet with your (50).\nBest regards,"
+      },
+      {
+        "id": "2024-english-q51",
+        "number": 51,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Warehousing ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "仓储"
+          },
+          {
+            "key": "B",
+            "text": "送货"
+          },
+          {
+            "key": "C",
+            "text": "出货"
+          },
+          {
+            "key": "D",
+            "text": "理货"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 7,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q52",
+        "number": 52,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Cargo Plan ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "货物收据"
+          },
+          {
+            "key": "B",
+            "text": "货物凭证"
+          },
+          {
+            "key": "C",
+            "text": "货物积载图"
+          },
+          {
+            "key": "D",
+            "text": "提货单"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 7,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q53",
+        "number": 53,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "HAWB ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "国际航空运输协会"
+          },
+          {
+            "key": "B",
+            "text": "海运货物运价手册"
+          },
+          {
+            "key": "C",
+            "text": "陆运货物运价手册"
+          },
+          {
+            "key": "D",
+            "text": "航空分运单"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 7,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q54",
+        "number": 54,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Freight Forwarder ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "委托人"
+          },
+          {
+            "key": "B",
+            "text": "律师"
+          },
+          {
+            "key": "C",
+            "text": "货运代理人"
+          },
+          {
+            "key": "D",
+            "text": "进出口公司"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 7,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q55",
+        "number": 55,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Exhibition Logistics ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "展览品物流"
+          },
+          {
+            "key": "B",
+            "text": "物流"
+          },
+          {
+            "key": "C",
+            "text": "冷链"
+          },
+          {
+            "key": "D",
+            "text": "寒流"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 7,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q56",
+        "number": 56,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Volume Cargo ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "轻抛货"
+          },
+          {
+            "key": "B",
+            "text": "重货"
+          },
+          {
+            "key": "C",
+            "text": "普通货物"
+          },
+          {
+            "key": "D",
+            "text": "积压货物"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 7,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q57",
+        "number": 57,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Inland Haulage ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "内陆"
+          },
+          {
+            "key": "B",
+            "text": "内陆托运"
+          },
+          {
+            "key": "C",
+            "text": "运输"
+          },
+          {
+            "key": "D",
+            "text": "国内贸易"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 7,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q58",
+        "number": 58,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Express Service ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "特别快车"
+          },
+          {
+            "key": "B",
+            "text": "特快通道"
+          },
+          {
+            "key": "C",
+            "text": "快递服务"
+          },
+          {
+            "key": "D",
+            "text": "特快列车"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 7,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q59",
+        "number": 59,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Cargo Break-Bulk ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "普通货物"
+          },
+          {
+            "key": "B",
+            "text": "货物规则"
+          },
+          {
+            "key": "C",
+            "text": "危险物品"
+          },
+          {
+            "key": "D",
+            "text": "货物分拨"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 7,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q60",
+        "number": 60,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Telex Release B/L ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "空白提单"
+          },
+          {
+            "key": "B",
+            "text": "电放提单"
+          },
+          {
+            "key": "C",
+            "text": "倒签提单"
+          },
+          {
+            "key": "D",
+            "text": "记名提单"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 7,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q61",
+        "number": 61,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "车队 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Full Container Ship"
+          },
+          {
+            "key": "B",
+            "text": "Container Terminal"
+          },
+          {
+            "key": "C",
+            "text": "Trucking Fleet"
+          },
+          {
+            "key": "D",
+            "text": "Container Freight Station"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 7,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q62",
+        "number": 62,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "货物跟踪 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Cargo logistics"
+          },
+          {
+            "key": "B",
+            "text": "Shipment logistics"
+          },
+          {
+            "key": "C",
+            "text": "Shipment Tracking"
+          },
+          {
+            "key": "D",
+            "text": "Third Side Logistics"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q63",
+        "number": 63,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "收货单 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Shipping Order"
+          },
+          {
+            "key": "B",
+            "text": "Mate’s Receipt"
+          },
+          {
+            "key": "C",
+            "text": "Delivery Order"
+          },
+          {
+            "key": "D",
+            "text": "Booking Note"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q64",
+        "number": 64,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "营业收入 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Operation Revenue"
+          },
+          {
+            "key": "B",
+            "text": "Import Earning"
+          },
+          {
+            "key": "C",
+            "text": "Export Goods Income"
+          },
+          {
+            "key": "D",
+            "text": "Export Earning"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q65",
+        "number": 65,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "转账凭证 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Condition Transport"
+          },
+          {
+            "key": "B",
+            "text": "Transfer Slip"
+          },
+          {
+            "key": "C",
+            "text": "Enterprise Resource Transfer"
+          },
+          {
+            "key": "D",
+            "text": "Joint Transport"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q66",
+        "number": 66,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "超高集装箱 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Plat Form Based Container"
+          },
+          {
+            "key": "B",
+            "text": "General Purpose Container"
+          },
+          {
+            "key": "C",
+            "text": "Bulk Container"
+          },
+          {
+            "key": "D",
+            "text": "High Cubic Container"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q67",
+        "number": 67,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "空运危险品处理费 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Costs of Waste Disposal"
+          },
+          {
+            "key": "B",
+            "text": "Port Surcharge"
+          },
+          {
+            "key": "C",
+            "text": "Hazardous Insurance"
+          },
+          {
+            "key": "D",
+            "text": "Handling Dangerous Goods Fee"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q68",
+        "number": 68,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "码头操作费 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "THC"
+          },
+          {
+            "key": "B",
+            "text": "L/C"
+          },
+          {
+            "key": "C",
+            "text": "AWC"
+          },
+          {
+            "key": "D",
+            "text": "SOC"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q69",
+        "number": 69,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "中欧班列 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Tax Free Train"
+          },
+          {
+            "key": "B",
+            "text": "China-Europe Railway Express"
+          },
+          {
+            "key": "C",
+            "text": "Export Transfer Train"
+          },
+          {
+            "key": "D",
+            "text": "Boned Warehouse"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q70",
+        "number": 70,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "滞箱费 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Waiting Charge"
+          },
+          {
+            "key": "B",
+            "text": "Container Detention Charge"
+          },
+          {
+            "key": "C",
+            "text": "Amendment Charge"
+          },
+          {
+            "key": "D",
+            "text": "Cartage Fee"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 8,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。"
+      },
+      {
+        "id": "2024-english-q71",
+        "number": 71,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "Shipper’s Letter of Instruction is used in international transport ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "by sea"
+          },
+          {
+            "key": "B",
+            "text": "by air"
+          },
+          {
+            "key": "C",
+            "text": "by land"
+          },
+          {
+            "key": "D",
+            "text": "by truck"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 10,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q72",
+        "number": 72,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "Shipper’s Letter of Instruction is a form used by ( ) to entrust the carrier or his agent to fill out the air waybill.",
+        "options": [
+          {
+            "key": "A",
+            "text": "carrier"
+          },
+          {
+            "key": "B",
+            "text": "consignee"
+          },
+          {
+            "key": "C",
+            "text": "shipper or his agent"
+          },
+          {
+            "key": "D",
+            "text": "captain"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 10,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q73",
+        "number": 73,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In international air cargo transportation, Shipper’s Letter of Instruction serves as evidence of ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "the booking for the client"
+          },
+          {
+            "key": "B",
+            "text": "the title to the goods"
+          },
+          {
+            "key": "C",
+            "text": "the contract of warehouse"
+          },
+          {
+            "key": "D",
+            "text": "the receipt of airline"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 10,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q74",
+        "number": 74,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "As a consolidator, the ( ) provides the service in his own name and issues a house air waybill.",
+        "options": [
+          {
+            "key": "A",
+            "text": "importer"
+          },
+          {
+            "key": "B",
+            "text": "airfreight forwarder"
+          },
+          {
+            "key": "C",
+            "text": "consignee"
+          },
+          {
+            "key": "D",
+            "text": "exporter"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 10,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q75",
+        "number": 75,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the shipper is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON AAA LOGISTICS CO. , LTD."
+          },
+          {
+            "key": "B",
+            "text": "CANTON BBB TEXTILE GARMENT CO. , LTD."
+          },
+          {
+            "key": "C",
+            "text": "FASHION FORCE CO. , LTD."
+          },
+          {
+            "key": "D",
+            "text": "BAIYUN INTERNATIONAL AIRPORT"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 10,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q76",
+        "number": 76,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the consignee is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON AAA LOGISTICS CO. , LTD."
+          },
+          {
+            "key": "B",
+            "text": "CANTON BBB TEXTILE GARMENT CO. , LTD"
+          },
+          {
+            "key": "C",
+            "text": "FASHION FORCE CO. , LTD."
+          },
+          {
+            "key": "D",
+            "text": "CANTON INTERNATIONAL AIRPORT"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 10,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q77",
+        "number": 77,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the airport of departure is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON CHINA"
+          },
+          {
+            "key": "B",
+            "text": "MONTREAL CANADA"
+          },
+          {
+            "key": "C",
+            "text": "BANGKOK THAILAND"
+          },
+          {
+            "key": "D",
+            "text": "SHANGHAI CHINA"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 10,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q78",
+        "number": 78,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the airport of destination is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON CHINA"
+          },
+          {
+            "key": "B",
+            "text": "MONTREAL CANADA"
+          },
+          {
+            "key": "C",
+            "text": "BANGKOK THAILAND"
+          },
+          {
+            "key": "D",
+            "text": "SHANGHAI CHINA"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 10,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q79",
+        "number": 79,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, ALSO NOTIFY is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON AAA LOGISTICS CO. , LTD."
+          },
+          {
+            "key": "B",
+            "text": "CANTON BBB TEXTILE GARMENT CO. , LTD."
+          },
+          {
+            "key": "C",
+            "text": "FASHION FORCE CO. , LTD."
+          },
+          {
+            "key": "D",
+            "text": "CCC CO. , LTD."
+          }
+        ],
+        "points": 1,
+        "sourcePage": 10,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q80",
+        "number": 80,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "This Shipper’s Letter of Instruction is signed by ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON AAA LOGISTICS CO. , LTD."
+          },
+          {
+            "key": "B",
+            "text": "CANTON BBB TEXTILE GARMENT CO. , LTD."
+          },
+          {
+            "key": "C",
+            "text": "FASHION FORCE CO. , LTD."
+          },
+          {
+            "key": "D",
+            "text": "CCC CO. , LTD."
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q81",
+        "number": 81,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the No. of Pieces is ( ) CTNS.",
+        "options": [
+          {
+            "key": "A",
+            "text": "40"
+          },
+          {
+            "key": "B",
+            "text": "60"
+          },
+          {
+            "key": "C",
+            "text": "85"
+          },
+          {
+            "key": "D",
+            "text": "140"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q82",
+        "number": 82,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the Gross Weight is ( ) KGS.",
+        "options": [
+          {
+            "key": "A",
+            "text": "40.1"
+          },
+          {
+            "key": "B",
+            "text": "60.2"
+          },
+          {
+            "key": "C",
+            "text": "19.6"
+          },
+          {
+            "key": "D",
+            "text": "21.7"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q83",
+        "number": 83,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the Dimension or Volume is ( ) CBM.",
+        "options": [
+          {
+            "key": "A",
+            "text": "40.5"
+          },
+          {
+            "key": "B",
+            "text": "60.4"
+          },
+          {
+            "key": "C",
+            "text": "19.7"
+          },
+          {
+            "key": "D",
+            "text": "21.0"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q84",
+        "number": 84,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "China’s international air waybill consists of ( ) couplets",
+        "options": [
+          {
+            "key": "A",
+            "text": "3"
+          },
+          {
+            "key": "B",
+            "text": "6"
+          },
+          {
+            "key": "C",
+            "text": "9"
+          },
+          {
+            "key": "D",
+            "text": "12"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "D",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q85",
+        "number": 85,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "The weigh charges is to be settled in ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON"
+          },
+          {
+            "key": "B",
+            "text": "MONTREAL"
+          },
+          {
+            "key": "C",
+            "text": "BANGKOK"
+          },
+          {
+            "key": "D",
+            "text": "SHANGHAI"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q86",
+        "number": 86,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the NO. OF AIR WAYBILL is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "023-85652346"
+          },
+          {
+            "key": "B",
+            "text": "538- 60118941"
+          },
+          {
+            "key": "C",
+            "text": "850-73261245"
+          },
+          {
+            "key": "D",
+            "text": "140-86117852"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q87",
+        "number": 87,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the date of flight is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CA921/16 JUN,2023"
+          },
+          {
+            "key": "B",
+            "text": "CZ373/16 JUN,2023"
+          },
+          {
+            "key": "C",
+            "text": "MH103 /16 JUN,2023"
+          },
+          {
+            "key": "D",
+            "text": "KA708 /16 JUN,2023"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q88",
+        "number": 88,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the Customs Office of Declaration coded is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "4141/414102"
+          },
+          {
+            "key": "B",
+            "text": "5141/514102"
+          },
+          {
+            "key": "C",
+            "text": "3141/314102"
+          },
+          {
+            "key": "D",
+            "text": "6141/614102"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "B",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q89",
+        "number": 89,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the Consignment Item Sequence Number is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "LW22AE080267"
+          },
+          {
+            "key": "B",
+            "text": "LW22AE080268"
+          },
+          {
+            "key": "C",
+            "text": "LW22AE080269"
+          },
+          {
+            "key": "D",
+            "text": "LW22AE080270"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "C",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      },
+      {
+        "id": "2024-english-q90",
+        "number": 90,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "“CZ” in the numeric code “AKA1234CZ” stands for ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CHINA SOUTHERN AIRLINE"
+          },
+          {
+            "key": "B",
+            "text": "CHINA EASTERN AIRLINE"
+          },
+          {
+            "key": "C",
+            "text": "AIR CHINA"
+          },
+          {
+            "key": "D",
+            "text": "SHENZHEN AIRLINE"
+          }
+        ],
+        "points": 1,
+        "sourcePage": 11,
+        "answer": "A",
+        "explanation": "依据用户提供的 2024 年原卷参考答案判分。",
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 9 页）相关资料，确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2024-english-instruction.png"
+      }
+    ]
+  }
+]

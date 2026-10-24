@@ -1,0 +1,5315 @@
+[
+  {
+    "id": "2021-english",
+    "year": 2021,
+    "subject": "english",
+    "title": "2021 年国际货代英语模拟考试",
+    "durationMinutes": 90,
+    "totalPoints": 100,
+    "sourceFiles": [
+      "2021年货代英语试题及解析.pdf"
+    ],
+    "instructions": "本卷按所提供的 2021 年试题及解析中的参考答案判分。单选题、判断题选对得分；多选题多选、少选、错选均不得分。模拟考试默认 90 分钟，可在开始前调整；原 PDF 未注明考试时长。",
+    "questions": [
+      {
+        "id": "2021-english-q1",
+        "number": 1,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "FIATA is the largest（ ）in the field of transportation.",
+        "options": [
+          {
+            "key": "A",
+            "text": "inter-government organization"
+          },
+          {
+            "key": "B",
+            "text": "non-government organization"
+          },
+          {
+            "key": "C",
+            "text": "profit organization"
+          },
+          {
+            "key": "D",
+            "text": "world trade organization"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "国际货运代理协会联合会是货代行业最大的非政府组织，它的成员主要包括民间团体及个体。",
+        "sourcePage": 1
+      },
+      {
+        "id": "2021-english-q2",
+        "number": 2,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "What does FCT stand for ?（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "Forwarding Instructions"
+          },
+          {
+            "key": "B",
+            "text": "Forwarder’s Certificate of Receipt"
+          },
+          {
+            "key": "C",
+            "text": "Free Carrier"
+          },
+          {
+            "key": "D",
+            "text": "Forwarder’s Certificate of Transport"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "FCT 是 Forwarder’s Certificate of Transport 的简写，表示货代运输凭证。A 项，Forwarding Instructions 为运输指示；B 项，Forwarder’s\nCertificate of Receipt 为货代货物收据；C 项，Free Carrier 表示货交承运人。",
+        "sourcePage": 1
+      },
+      {
+        "id": "2021-english-q3",
+        "number": 3,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "Ground freight transport is movement of goods from one location to another on land, usually by rail or（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "sea"
+          },
+          {
+            "key": "B",
+            "text": "road"
+          },
+          {
+            "key": "C",
+            "text": "air"
+          },
+          {
+            "key": "D",
+            "text": "water"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "陆路（地面）货物运输通常使用铁路或公路将货物从地面一个地方移动到另一个地方。",
+        "sourcePage": 1
+      },
+      {
+        "id": "2021-english-q4",
+        "number": 4,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "Logistics is the work required to move and position（ ）throughout a supply chain.",
+        "options": [
+          {
+            "key": "A",
+            "text": "work-in-process inventory"
+          },
+          {
+            "key": "B",
+            "text": "inventory"
+          },
+          {
+            "key": "C",
+            "text": "manufacturing goods"
+          },
+          {
+            "key": "D",
+            "text": "manufactured goods"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "物流活动就是通过供应链把存货（inventory）运输到市场需要的地方，解决产品在生产和消费中存在的时间和空间矛盾。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2021-english-q5",
+        "number": 5,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "The seller does not need to load the goods on any collecting vehicle, nor does it need to clear the goods for export under（ ）term.",
+        "options": [
+          {
+            "key": "A",
+            "text": "FCA"
+          },
+          {
+            "key": "B",
+            "text": "CPT"
+          },
+          {
+            "key": "C",
+            "text": "CIP"
+          },
+          {
+            "key": "D",
+            "text": "EXW"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "在 EXW 术语下，卖方不须将货物装上任何收货的车辆，也不负责货物出口清关的办理。买方负担自卖方所在处所提取货物至目的地所需的一切费用和风险。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2021-english-q6",
+        "number": 6,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "When considered in terms of ton-miles or tonne-kilometers hauled per unit of energy consumed,（ ）can be more efficient than road transport.",
+        "options": [
+          {
+            "key": "A",
+            "text": "highway transport"
+          },
+          {
+            "key": "B",
+            "text": "rail transport"
+          },
+          {
+            "key": "C",
+            "text": "underground transport"
+          },
+          {
+            "key": "D",
+            "text": "air transport"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "当考虑拖运若干吨英里货物的单位能源消耗时，铁路运输比公路运输更加经济有效。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2021-english-q7",
+        "number": 7,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "Which of the following is not the major document when L/C is used for payment？ （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "Sales contract"
+          },
+          {
+            "key": "B",
+            "text": "Packing list"
+          },
+          {
+            "key": "C",
+            "text": "Commercial invoice"
+          },
+          {
+            "key": "D",
+            "text": "Bill of lading"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "信用证是一项自足文件。在国际贸易结算中，信用证虽以买卖合同为基础，其中所列条款应与买卖合同的规定相一致，但信用证一经开立就成为独立于买卖合同以外的法律文件。开证行在开证和付款时无需参考销售合同，仅仅是对自己的条款和条件付款。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2021-english-q8",
+        "number": 8,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "The UCP published by the（ ）, contains detailed provisions dealing with the operation of documentary credit.",
+        "options": [
+          {
+            "key": "A",
+            "text": "CIFA"
+          },
+          {
+            "key": "B",
+            "text": "FIATA"
+          },
+          {
+            "key": "C",
+            "text": "BIMCO"
+          },
+          {
+            "key": "D",
+            "text": "ICC"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "《跟单信用证统一惯例》是由国际商会（The International Chamber\nof Commerce, ICC）出版的，该惯例适用于世界各国银行处理信用证业务。\nＡ项，CIFA 是中国国际货运代理协会的简称；B 项，FIATA 是国际货运代理协会联合会的简称；C 项，BIMCO 是波罗的海国际航运理事会的简称。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2021-english-q9",
+        "number": 9,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "According to customs law in China, import cargo must be declared to customs house within（ ）days since conveyance declaration arrival date.",
+        "options": [
+          {
+            "key": "A",
+            "text": "eight"
+          },
+          {
+            "key": "B",
+            "text": "ten"
+          },
+          {
+            "key": "C",
+            "text": "fourteen"
+          },
+          {
+            "key": "D",
+            "text": "fifteen"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "根据我国《海关法》，进口货物应在运输工具申报进境之日起 14\n天内申报。申报期限的最后一天是法定节假日或休息日的，顺延至法定节假日或休息日后的第一个工作日。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2021-english-q10",
+        "number": 10,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "The inspection certificate is a written document issued by ( ), bearing witness to the result of inspection.",
+        "options": [
+          {
+            "key": "A",
+            "text": "the state council"
+          },
+          {
+            "key": "B",
+            "text": "the Commodity Inspection Institution"
+          },
+          {
+            "key": "C",
+            "text": "the ministry of transport"
+          },
+          {
+            "key": "D",
+            "text": "the ministry of commerce"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "检验证书是商检机构签发的书面文件，是检验结果的一种证明。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2021-english-q11",
+        "number": 11,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "The minimum amount insured should be the CIF value of the goods plus （ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "10％"
+          },
+          {
+            "key": "B",
+            "text": "20％"
+          },
+          {
+            "key": "C",
+            "text": "30％"
+          },
+          {
+            "key": "D",
+            "text": "40％"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "按照国际惯例，最低投保金额应该是货物的 CIF 或者 CIP 价格的\n110％，即货物的 CIF 或者 CIP 价格再加 10%。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2021-english-q12",
+        "number": 12,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "Which of the following risk is not covered in FPA coverage? （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "Civil War"
+          },
+          {
+            "key": "B",
+            "text": "Collision"
+          },
+          {
+            "key": "C",
+            "text": "General Average"
+          },
+          {
+            "key": "D",
+            "text": "Sinking of the Vessel"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "由于运输工具遭遇搁浅、触礁、沉没、互撞、与流水或其他物体碰撞以及失火、爆炸等意外事故造成被保险货物的全损或部分损失以及共同海损造成的损失都属于平安险的承保范围。A 项，战争险（Civil War）为特殊附加险，不属于平安险的承保范围。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2021-english-q13",
+        "number": 13,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "Which of the following is not true about the container? （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "It is a permanent character and accordingly strong enough to be suitable for repeated use."
+          },
+          {
+            "key": "B",
+            "text": "It’s fitted with devices permitting its ready handling."
+          },
+          {
+            "key": "C",
+            "text": "It could be used only in marine cargo transportation."
+          },
+          {
+            "key": "D",
+            "text": "It is having an internal volume of 1 cubic meter or more."
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "C 项，集装箱可运用于多种运输方式，且不需要中途重新装载。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2021-english-q14",
+        "number": 14,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "（ ）is a list of goods to be loaded into a shipping container, which often includes the order in which the items should be loaded.",
+        "options": [
+          {
+            "key": "A",
+            "text": "CLP"
+          },
+          {
+            "key": "B",
+            "text": "EIR"
+          },
+          {
+            "key": "C",
+            "text": "D/R"
+          },
+          {
+            "key": "D",
+            "text": "FCL"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "CLP（Container Loading Plan）即集装箱装箱单，是详细记载每一个集装箱内所装 货物名称、数量、尺码、重量、标志和箱内货物积载情况的单证。对于特殊货物还应加注特定要求，如对冷藏货物要注明对箱内温度的要求等，它是集装箱运输的辅助货物舱单，由集装箱装箱人制作。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2021-english-q15",
+        "number": 15,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "Please point out which of the following description is the characteristic of an air waybill. （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "flexible"
+          },
+          {
+            "key": "B",
+            "text": "negotiable"
+          },
+          {
+            "key": "C",
+            "text": "non-negotiable"
+          },
+          {
+            "key": "D",
+            "text": "transferable"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "不同于海运提单，航空货运单不是物权凭证，不能转让。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2021-english-q16",
+        "number": 16,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "Supply chain management consists of firms collaborating to leverage strategic positioning and to improve operating efficiency.（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "供应链（有时称为价值链或需求链），是指利用组织、人员、活动、信息和资源等，将产品或服务从供应者转移到顾客手中的一个系统。供应链管理包含公司协作，运用战略定位来提高经营效率。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2021-english-q17",
+        "number": 17,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "The forwarder should always arrange warehousing of the goods on behalf of the consignor.（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "在实际业务中，在运输安排妥当之后，出口商才把货物交给货运代理人，出口商一般不要求货运代理人提供安排货物仓储的服务；进口商可能会因为某些原因不能及时提货，会要求货运代理人提供安排货物仓储的服务。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2021-english-q18",
+        "number": 18,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "The faster transit of goods made possible under multimodal transport reduces the disadvantages of distance from markets and the tying-up of capital.（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "多式联运提供更快捷的货物运输方式，可以减少市场距离相隔较远和资金紧张带来的不利因素。\n校对说明：原 PDF 本题题干误编号为 17，答案行编号为 18，按连续题序整理为第 18 题。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2021-english-q19",
+        "number": 19,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "FCL stands for full container loads, CY refers to container yards.（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "整箱货（full container（cargo）load，FCL）是指由货方负责装箱和计数，填写装箱单，并加封志的集装箱货物，通常只有一个发货人和一个收货人。集装箱堆场（container yard，CY）是交接和保管空箱（empty container）和重箱（loaded container）的场所，也是集装箱换装运输工具的场所。",
+        "sourcePage": 7
+      },
+      {
+        "id": "2021-english-q20",
+        "number": 20,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "D/R contains information regarding the condition physical and functional of a container only.（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "设备交接单（Equipment Interchange Receipt （EIR））包含集装箱状况（集装箱本身和集装箱功能）方面的信息。场站收据（D/R）是证明承运人在码头收到货物的法律文书。",
+        "sourcePage": 7
+      },
+      {
+        "id": "2021-english-q21",
+        "number": 21,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "According to ISO Series I standards, there are three common container standard lengths：20ft(6.1m), 40ft(12.2m), 45ft(13.7m).（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "集装箱有五种共同的标准长度，分别是20 英尺（6.1 米）、40 英尺（12.2 米）、45 英尺（13.7 米）、48 英尺（14.6 米）和53 英尺（16.2\n米）。",
+        "sourcePage": 7
+      },
+      {
+        "id": "2021-english-q22",
+        "number": 22,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "Consignee refers to the person who has concluded a contract with the shipper for carriage of goods.（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "货物运输合同是托运人与承运人（ carrier）订立的，而不是与收货人（consignee）订立的。",
+        "sourcePage": 7
+      },
+      {
+        "id": "2021-english-q23",
+        "number": 23,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "Voyage charter party is issued between two parties, NVOCC and charterer. （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "航次租船合同的双方是船东和承租人。承租人必须向拥有船舶的实际船东租船，而不能向不拥有船舶的无船承运人（NVOC）租船。无船承运人一般只提供班轮运输服务。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2021-english-q24",
+        "number": 24,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "A sea waybill is just the same as a bill of lading．（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "海运单（sea waybill）和提单（bill of lading）两者并不是一样的，其中一个重要的区别在于：海运单不是物权凭证，不可以背书转让。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2021-english-q25",
+        "number": 25,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "On cross-border transportation the trucker will be only needed to present the cargo to customs for inspection．（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "跨境运输时，海关将检查卡车上的货物及单证。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2021-english-q26",
+        "number": 26,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "Freight transport is the backbone of strong economies and dynamic societies. （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "货运是经济和动态社会的支柱，货物运输推动了贸易的发展，促进了经济的繁荣，完善的货物运输体系推动了社会的的进步。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2021-english-q27",
+        "number": 27,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "Under CFR, the seller should pay and arrange the insurance of the goods（. ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "根据《国际贸易术语解释通则2020》的解释，采用CFR 术语成交时，由买方负责办理保险手续并支付保险费。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2021-english-q28",
+        "number": 28,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "Under documentary credit, the buyer is entitled to take delivery of the goods before settling the payment.（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "根据跟单信用证业务流程，买方只有付款后才能从开证行拿到单据，并凭单据向承运人及其代理人提取货物。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2021-english-q29",
+        "number": 29,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "A vessel entering a country from any place outside can call at any port no matter whether it is a customs port or not．（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "船舶无论从任何地方进入一个国家，首先必须在一个由政府指定设立海关的港口靠泊。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2021-english-q30",
+        "number": 30,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "A freight forwarder should identify the formalities relating to customs clearance, inspection and quarantine.（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "货运代理作为进出口代理人,或者一个中间人，必须要妥善照顾货物进出口一个国家的每个细节。每个国家都有海关、检验检疫程序，货运代理人必须遵循。因此,明确各个国家的相关通关手续和检验检疫程序对于货运代理人十分重要。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2021-english-q31",
+        "number": 31,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "The freight forwarder would perform the tasks of（ ）on behalf of the exporter.",
+        "options": [
+          {
+            "key": "A",
+            "text": "selecting the route"
+          },
+          {
+            "key": "B",
+            "text": "issuing relevant documents"
+          },
+          {
+            "key": "C",
+            "text": "booking space"
+          },
+          {
+            "key": "D",
+            "text": "packing the goods"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "货运代理人接受货主委托，代办租船、订舱、配载、缮制有关证件、报关、报验、保险、集装箱运输、拆装箱、签发提单、结算运杂费，乃至交单议付和结汇。",
+        "sourcePage": 10
+      },
+      {
+        "id": "2021-english-q32",
+        "number": 32,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "Rail transport plays an important role in the domestic economy of a country. Genarally speaking ,Which of the following may be the advantages of rail transport? （ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "Fast delivery and great capacity"
+          },
+          {
+            "key": "B",
+            "text": "Safe mode transport"
+          },
+          {
+            "key": "C",
+            "text": "Cost effective"
+          },
+          {
+            "key": "D",
+            "text": "Reliable"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "铁路运输的优势主要有：①快速交付；②容量大；③成本效益；④\n运输模式安全；⑤可靠。",
+        "sourcePage": 10
+      },
+      {
+        "id": "2021-english-q33",
+        "number": 33,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "Several banks will be involved in an L/C transaction, such as（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "issuing bank"
+          },
+          {
+            "key": "B",
+            "text": "advising bank"
+          },
+          {
+            "key": "C",
+            "text": "negotiating bank"
+          },
+          {
+            "key": "D",
+            "text": "paying bank"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "信用证结算方式的基本当亊人有四个，即开证申请人、开证行（issuing bank）、通知行（advising bank）和受益人。另外，还涉及其他关系人，如保兑行（confirming bank）、议付行（negotiating bank）、承兑行（accepting bank）、付款行（paying bank）等。",
+        "sourcePage": 10
+      },
+      {
+        "id": "2021-english-q34",
+        "number": 34,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "If there is any damage to goods during shipment, the freight forwarder will （ ） on behalf of exporter.",
+        "options": [
+          {
+            "key": "A",
+            "text": "note losses"
+          },
+          {
+            "key": "B",
+            "text": "pay fees to insurer"
+          },
+          {
+            "key": "C",
+            "text": "assist in pursuing claims"
+          },
+          {
+            "key": "D",
+            "text": "arrange for the insurance of goods"
+          }
+        ],
+        "answer": [
+          "A",
+          "C"
+        ],
+        "points": 2,
+        "explanation": "如果货物运输过程中遭遇损失，作为出口商的代理，货运代理人需记录货物的损坏情况，并帮助出口商向承运人就货物的损失提出索赔。",
+        "sourcePage": 11
+      },
+      {
+        "id": "2021-english-q35",
+        "number": 35,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "Normally, the L/C has three basic characteristics .（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "L/C is a self-sufficient instrument"
+          },
+          {
+            "key": "B",
+            "text": "it is simply a document transaction"
+          },
+          {
+            "key": "C",
+            "text": "the relevant parties deal with the goods or services"
+          },
+          {
+            "key": "D",
+            "text": "the issuing bank has the primary liabilities for payment"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "国际贸易结算中的信用证方式有以下三个特点：①开证行负首要付款责任；①信用证是一项自足文件；①信用证方式是纯单据业务。C 项信用证方式是一种纯粹的单据业务，各当事人处理的是单据，而不是有关的货物、服务或履约行为。",
+        "sourcePage": 11
+      },
+      {
+        "id": "2021-english-q36",
+        "number": 36,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "The Bill of Entry usually contains particulars such as（ ）．",
+        "options": [
+          {
+            "key": "A",
+            "text": "name of the vehicle"
+          },
+          {
+            "key": "B",
+            "text": "value of goods"
+          },
+          {
+            "key": "C",
+            "text": "place of shipment"
+          },
+          {
+            "key": "D",
+            "text": "description of goods"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "报关单通常包括的内容有：货物价值、货物描述、船名、装货港以及海关当局规定的其他内容。",
+        "sourcePage": 11
+      },
+      {
+        "id": "2021-english-q37",
+        "number": 37,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "The types of basic risks as per Ocean Marine Cargo Clauses of PICC include （ ）．",
+        "options": [
+          {
+            "key": "A",
+            "text": "FPA"
+          },
+          {
+            "key": "B",
+            "text": "War Risks"
+          },
+          {
+            "key": "C",
+            "text": "WPA"
+          },
+          {
+            "key": "D",
+            "text": "ALL Risks"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "根据 PICC 保险条款，我国海洋货物运输保险条款包括三种基本险别，即平安险（Free from Particular Average，FPA）、水渍险（With Particular\nAverage，WPA）和一切险（All Risks，AR）。",
+        "sourcePage": 12
+      },
+      {
+        "id": "2021-english-q38",
+        "number": 38,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "Order processing is the receipt and transmission of sales order information, its main tasks involve（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "order entry"
+          },
+          {
+            "key": "B",
+            "text": "order handling"
+          },
+          {
+            "key": "C",
+            "text": "order delivering"
+          },
+          {
+            "key": "D",
+            "text": "order management"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "points": 2,
+        "explanation": "订单处理涉及三个主要任务：订单输入、订单处理和订单交付。",
+        "sourcePage": 12
+      },
+      {
+        "id": "2021-english-q39",
+        "number": 39,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "The common methods in supply chain management are（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Quick Response"
+          },
+          {
+            "key": "B",
+            "text": "Efficient Consumer Response"
+          },
+          {
+            "key": "C",
+            "text": "Just in Time"
+          },
+          {
+            "key": "D",
+            "text": "Enterprise Resource Planning"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "供应链常用的管理方法包括快速反应（QR）、有效客户反应（ECR）、企业资源规划（ERP）、准时制（JIT）等方法。",
+        "sourcePage": 12
+      },
+      {
+        "id": "2021-english-q40",
+        "number": 40,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "The pricing of international air freight is referred to the IATA via TACT which includes the General Cargo Rate, it consists of（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "minimum charge （M）"
+          },
+          {
+            "key": "B",
+            "text": "normal general cargo rate （N）"
+          },
+          {
+            "key": "C",
+            "text": "lower charge in higher weight （Q）"
+          },
+          {
+            "key": "D",
+            "text": "higher rate（H）"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "points": 2,
+        "explanation": "空运中，普通货物运价包含三种不同的运价，分别是最低运费（M）、标准普通货物运价（N）和45公斤以上的不同重量分界点的普通货物运价（Q）。",
+        "sourcePage": 13
+      },
+      {
+        "id": "2021-english-q41",
+        "number": 41,
+        "section": "完形填空（一）",
+        "type": "single",
+        "prompt": "请选择第 41 空的正确答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "carrier"
+          },
+          {
+            "key": "B",
+            "text": "freight forwarder"
+          },
+          {
+            "key": "C",
+            "text": "consignor"
+          },
+          {
+            "key": "D",
+            "text": "consignee"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "进出口贸易报关是货运代理的一个传统职能。",
+        "sourcePage": 14,
+        "context": "Customs clearance in the import-export trade is one of the traditional\nfunctions of a (41).Customs clearance measures mainly include declaration,\ndocument-checking, duty-paying, cargo-examination and cargo-release. The\nconsignee for import goods shall make a truthful declaration and submit the（42）,\nBill of Entry and relevant papers to the Customs for checking. Bill of Entry is a\nvery vital and important document. It usually contains particulars such as value,\ndescription of goods, name of the ship, port of shipment, and such other particulars\nas may be prescribed by the customs authorities. These particulars have to be in\nline with those contained in the relevant（43）. Unless specially approved by the\nCustoms,import goods shall be（44）upon the Customs endorsement only after\nthe（45）has paid the duties or provided a bond."
+      },
+      {
+        "id": "2021-english-q42",
+        "number": 42,
+        "section": "完形填空（一）",
+        "type": "single",
+        "prompt": "请选择第 42 空的正确答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "import license"
+          },
+          {
+            "key": "B",
+            "text": "import Manifest"
+          },
+          {
+            "key": "C",
+            "text": "Bill of Entry"
+          },
+          {
+            "key": "D",
+            "text": "Import Permit"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "收货人进口需要真实报关，并提交相应的单证，如报关单和进口许可证等。",
+        "sourcePage": 14,
+        "context": "Customs clearance in the import-export trade is one of the traditional\nfunctions of a (41).Customs clearance measures mainly include declaration,\ndocument-checking, duty-paying, cargo-examination and cargo-release. The\nconsignee for import goods shall make a truthful declaration and submit the（42）,\nBill of Entry and relevant papers to the Customs for checking. Bill of Entry is a\nvery vital and important document. It usually contains particulars such as value,\ndescription of goods, name of the ship, port of shipment, and such other particulars\nas may be prescribed by the customs authorities. These particulars have to be in\nline with those contained in the relevant（43）. Unless specially approved by the\nCustoms,import goods shall be（44）upon the Customs endorsement only after\nthe（45）has paid the duties or provided a bond."
+      },
+      {
+        "id": "2021-english-q43",
+        "number": 43,
+        "section": "完形填空（一）",
+        "type": "single",
+        "prompt": "请选择第 43 空的正确答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "import Manifest"
+          },
+          {
+            "key": "B",
+            "text": "import license"
+          },
+          {
+            "key": "C",
+            "text": "Bill of Entry"
+          },
+          {
+            "key": "D",
+            "text": "import Permit"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "报关单的各项内容必须与进口清单一致。",
+        "sourcePage": 14,
+        "context": "Customs clearance in the import-export trade is one of the traditional\nfunctions of a (41).Customs clearance measures mainly include declaration,\ndocument-checking, duty-paying, cargo-examination and cargo-release. The\nconsignee for import goods shall make a truthful declaration and submit the（42）,\nBill of Entry and relevant papers to the Customs for checking. Bill of Entry is a\nvery vital and important document. It usually contains particulars such as value,\ndescription of goods, name of the ship, port of shipment, and such other particulars\nas may be prescribed by the customs authorities. These particulars have to be in\nline with those contained in the relevant（43）. Unless specially approved by the\nCustoms,import goods shall be（44）upon the Customs endorsement only after\nthe（45）has paid the duties or provided a bond."
+      },
+      {
+        "id": "2021-english-q44",
+        "number": 44,
+        "section": "完形填空（一）",
+        "type": "single",
+        "prompt": "请选择第 44 空的正确答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "released"
+          },
+          {
+            "key": "B",
+            "text": "stay"
+          },
+          {
+            "key": "C",
+            "text": "enter"
+          },
+          {
+            "key": "D",
+            "text": "call at"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "除非海关特别批准的，进口货物只有在收货人支付关税才可放行。",
+        "sourcePage": 14,
+        "context": "Customs clearance in the import-export trade is one of the traditional\nfunctions of a (41).Customs clearance measures mainly include declaration,\ndocument-checking, duty-paying, cargo-examination and cargo-release. The\nconsignee for import goods shall make a truthful declaration and submit the（42）,\nBill of Entry and relevant papers to the Customs for checking. Bill of Entry is a\nvery vital and important document. It usually contains particulars such as value,\ndescription of goods, name of the ship, port of shipment, and such other particulars\nas may be prescribed by the customs authorities. These particulars have to be in\nline with those contained in the relevant（43）. Unless specially approved by the\nCustoms,import goods shall be（44）upon the Customs endorsement only after\nthe（45）has paid the duties or provided a bond."
+      },
+      {
+        "id": "2021-english-q45",
+        "number": 45,
+        "section": "完形填空（一）",
+        "type": "single",
+        "prompt": "请选择第 45 空的正确答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "carrier"
+          },
+          {
+            "key": "B",
+            "text": "freight forwarders"
+          },
+          {
+            "key": "C",
+            "text": "consignor"
+          },
+          {
+            "key": "D",
+            "text": "consignee"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "除非海关特别批准的，进口货物只有在收货人支付关税才可放行。",
+        "sourcePage": 14,
+        "context": "Customs clearance in the import-export trade is one of the traditional\nfunctions of a (41).Customs clearance measures mainly include declaration,\ndocument-checking, duty-paying, cargo-examination and cargo-release. The\nconsignee for import goods shall make a truthful declaration and submit the（42）,\nBill of Entry and relevant papers to the Customs for checking. Bill of Entry is a\nvery vital and important document. It usually contains particulars such as value,\ndescription of goods, name of the ship, port of shipment, and such other particulars\nas may be prescribed by the customs authorities. These particulars have to be in\nline with those contained in the relevant（43）. Unless specially approved by the\nCustoms,import goods shall be（44）upon the Customs endorsement only after\nthe（45）has paid the duties or provided a bond."
+      },
+      {
+        "id": "2021-english-q46",
+        "number": 46,
+        "section": "完形填空（二）",
+        "type": "single",
+        "prompt": "请选择第 46 空的正确答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "B/L"
+          },
+          {
+            "key": "B",
+            "text": "manifest"
+          },
+          {
+            "key": "C",
+            "text": "sea waybill"
+          },
+          {
+            "key": "D",
+            "text": "booking note"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "在班轮运输中，有许多单据用于不同的目的。托运人向承运人签发订舱单，要求分配舱位。",
+        "sourcePage": 15,
+        "context": "In liner shipping, there are many documents used for different purposes. A (46 )\nis issued by the shipper to the carrier requesting allocation of shipping space. A\n（47）is a document issued by carrier to acknowledge receipt of cargo at the\ncarrier’s shipping terminal and the B/L will be issued by carrier based on\ninformation in it. A ( 48 ) is the replacement of the traditional ocean B/L and it is\na non-negotiable document. A（49）provides information regarding cargo on board\nand is prepared by the carrier’s agent. A ( 50 ) is issued by the carrier or its agent\nto enable the consignee or its forwarding agent to take delivery of the cargo."
+      },
+      {
+        "id": "2021-english-q47",
+        "number": 47,
+        "section": "完形填空（二）",
+        "type": "single",
+        "prompt": "请选择第 47 空的正确答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "dock receipt"
+          },
+          {
+            "key": "B",
+            "text": "B/L"
+          },
+          {
+            "key": "C",
+            "text": "mate’s receipt"
+          },
+          {
+            "key": "D",
+            "text": "manifest"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "码头收据是承运人为确认在承运人的货运码头收到货物而签发的单据，提单将由承运人根据提单上的信息签发。",
+        "sourcePage": 15,
+        "context": "In liner shipping, there are many documents used for different purposes. A (46 )\nis issued by the shipper to the carrier requesting allocation of shipping space. A\n（47）is a document issued by carrier to acknowledge receipt of cargo at the\ncarrier’s shipping terminal and the B/L will be issued by carrier based on\ninformation in it. A ( 48 ) is the replacement of the traditional ocean B/L and it is\na non-negotiable document. A（49）provides information regarding cargo on board\nand is prepared by the carrier’s agent. A ( 50 ) is issued by the carrier or its agent\nto enable the consignee or its forwarding agent to take delivery of the cargo."
+      },
+      {
+        "id": "2021-english-q48",
+        "number": 48,
+        "section": "完形填空（二）",
+        "type": "single",
+        "prompt": "请选择第 48 空的正确答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "sea waybill"
+          },
+          {
+            "key": "B",
+            "text": "manifest"
+          },
+          {
+            "key": "C",
+            "text": "delivery order"
+          },
+          {
+            "key": "D",
+            "text": "booking note"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "海运单是传统海运提单的替代品，是一种不可转让单证。",
+        "sourcePage": 15,
+        "context": "In liner shipping, there are many documents used for different purposes. A (46 )\nis issued by the shipper to the carrier requesting allocation of shipping space. A\n（47）is a document issued by carrier to acknowledge receipt of cargo at the\ncarrier’s shipping terminal and the B/L will be issued by carrier based on\ninformation in it. A ( 48 ) is the replacement of the traditional ocean B/L and it is\na non-negotiable document. A（49）provides information regarding cargo on board\nand is prepared by the carrier’s agent. A ( 50 ) is issued by the carrier or its agent\nto enable the consignee or its forwarding agent to take delivery of the cargo."
+      },
+      {
+        "id": "2021-english-q49",
+        "number": 49,
+        "section": "完形填空（二）",
+        "type": "single",
+        "prompt": "请选择第 49 空的正确答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "B/L"
+          },
+          {
+            "key": "B",
+            "text": "manifest"
+          },
+          {
+            "key": "C",
+            "text": "dock receipt"
+          },
+          {
+            "key": "D",
+            "text": "delivery order"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "舱单提供关于船上货物的信息，由承运人的代理人编制。",
+        "sourcePage": 15,
+        "context": "In liner shipping, there are many documents used for different purposes. A (46 )\nis issued by the shipper to the carrier requesting allocation of shipping space. A\n（47）is a document issued by carrier to acknowledge receipt of cargo at the\ncarrier’s shipping terminal and the B/L will be issued by carrier based on\ninformation in it. A ( 48 ) is the replacement of the traditional ocean B/L and it is\na non-negotiable document. A（49）provides information regarding cargo on board\nand is prepared by the carrier’s agent. A ( 50 ) is issued by the carrier or its agent\nto enable the consignee or its forwarding agent to take delivery of the cargo."
+      },
+      {
+        "id": "2021-english-q50",
+        "number": 50,
+        "section": "完形填空（二）",
+        "type": "single",
+        "prompt": "请选择第 50 空的正确答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "sea waybill"
+          },
+          {
+            "key": "B",
+            "text": "booking note"
+          },
+          {
+            "key": "C",
+            "text": "B/L"
+          },
+          {
+            "key": "D",
+            "text": "delivery order"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "提货单是由承运人或其代理人签发的，使收货人或其代理人能够提货。",
+        "sourcePage": 15,
+        "context": "In liner shipping, there are many documents used for different purposes. A (46 )\nis issued by the shipper to the carrier requesting allocation of shipping space. A\n（47）is a document issued by carrier to acknowledge receipt of cargo at the\ncarrier’s shipping terminal and the B/L will be issued by carrier based on\ninformation in it. A ( 48 ) is the replacement of the traditional ocean B/L and it is\na non-negotiable document. A（49）provides information regarding cargo on board\nand is prepared by the carrier’s agent. A ( 50 ) is issued by the carrier or its agent\nto enable the consignee or its forwarding agent to take delivery of the cargo."
+      },
+      {
+        "id": "2021-english-q51",
+        "number": 51,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Take delivery of the goods（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "提货"
+          },
+          {
+            "key": "B",
+            "text": "送货"
+          },
+          {
+            "key": "C",
+            "text": "出货"
+          },
+          {
+            "key": "D",
+            "text": "理货"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 16
+      },
+      {
+        "id": "2021-english-q52",
+        "number": 52,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Cargo Manifest（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "货物收据"
+          },
+          {
+            "key": "B",
+            "text": "货物凭证"
+          },
+          {
+            "key": "C",
+            "text": "货物舱单"
+          },
+          {
+            "key": "D",
+            "text": "提货单"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 16
+      },
+      {
+        "id": "2021-english-q53",
+        "number": 53,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "NVOCC（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "国际航空运输协会"
+          },
+          {
+            "key": "B",
+            "text": "海运货物运价手册"
+          },
+          {
+            "key": "C",
+            "text": "陆运货物运价手册"
+          },
+          {
+            "key": "D",
+            "text": "无船承运人"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 16
+      },
+      {
+        "id": "2021-english-q54",
+        "number": 54,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Irrevocable letter of credit（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "跟单信用证"
+          },
+          {
+            "key": "B",
+            "text": "不可撤销信用证"
+          },
+          {
+            "key": "C",
+            "text": "可撤销信用证"
+          },
+          {
+            "key": "D",
+            "text": "不可议付信用证"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 16
+      },
+      {
+        "id": "2021-english-q55",
+        "number": 55,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "General cargo（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "普通货物"
+          },
+          {
+            "key": "B",
+            "text": "重货"
+          },
+          {
+            "key": "C",
+            "text": "轻货"
+          },
+          {
+            "key": "D",
+            "text": "水货"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 17
+      },
+      {
+        "id": "2021-english-q56",
+        "number": 56,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Liner shipping（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "租船运输"
+          },
+          {
+            "key": "B",
+            "text": "班轮运输"
+          },
+          {
+            "key": "C",
+            "text": "不定期船运输"
+          },
+          {
+            "key": "D",
+            "text": "航次运输"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 17
+      },
+      {
+        "id": "2021-english-q57",
+        "number": 57,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Minimum charge（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "订货批量"
+          },
+          {
+            "key": "B",
+            "text": "最低订货"
+          },
+          {
+            "key": "C",
+            "text": "最低运费"
+          },
+          {
+            "key": "D",
+            "text": "到达时间"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 17
+      },
+      {
+        "id": "2021-english-q58",
+        "number": 58,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Shipping documents（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "装箱单"
+          },
+          {
+            "key": "B",
+            "text": "提货单"
+          },
+          {
+            "key": "C",
+            "text": "运输单据"
+          },
+          {
+            "key": "D",
+            "text": "不可议付单证"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 17
+      },
+      {
+        "id": "2021-english-q59",
+        "number": 59,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Power of attorney（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "委托书"
+          },
+          {
+            "key": "B",
+            "text": "律师函"
+          },
+          {
+            "key": "C",
+            "text": "保函"
+          },
+          {
+            "key": "D",
+            "text": "代理费"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 17
+      },
+      {
+        "id": "2021-english-q60",
+        "number": 60,
+        "section": "英译汉",
+        "type": "single",
+        "prompt": "Belt and Road Initiative（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "“一带一路 ”国家"
+          },
+          {
+            "key": "B",
+            "text": "“一带一路”倡议"
+          },
+          {
+            "key": "C",
+            "text": "“一带一路”战略"
+          },
+          {
+            "key": "D",
+            "text": "“一带一路”精神"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 17
+      },
+      {
+        "id": "2021-english-q61",
+        "number": 61,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "跨境运输（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "land bridge transport"
+          },
+          {
+            "key": "B",
+            "text": "liner transport"
+          },
+          {
+            "key": "C",
+            "text": "international multimodal transport"
+          },
+          {
+            "key": "D",
+            "text": "cross-border transportation"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 18
+      },
+      {
+        "id": "2021-english-q62",
+        "number": 62,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "报关行（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "customs broker"
+          },
+          {
+            "key": "B",
+            "text": "customs declaration"
+          },
+          {
+            "key": "C",
+            "text": "commodity inspection"
+          },
+          {
+            "key": "D",
+            "text": "tally"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 18
+      },
+      {
+        "id": "2021-english-q63",
+        "number": 63,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "中欧班列（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "Tax Free Train"
+          },
+          {
+            "key": "B",
+            "text": "China-Europe Railway Express"
+          },
+          {
+            "key": "C",
+            "text": "Export Transfer Train"
+          },
+          {
+            "key": "D",
+            "text": "Boned Warehouse"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 18
+      },
+      {
+        "id": "2021-english-q64",
+        "number": 64,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "担保函（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "Letter of Indemnity"
+          },
+          {
+            "key": "B",
+            "text": "Certificate of Origin"
+          },
+          {
+            "key": "C",
+            "text": "Letter of Credit"
+          },
+          {
+            "key": "D",
+            "text": "Packing List"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 18
+      },
+      {
+        "id": "2021-english-q65",
+        "number": 65,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "拼箱运输（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "condition transport"
+          },
+          {
+            "key": "B",
+            "text": "groupage transport"
+          },
+          {
+            "key": "C",
+            "text": "combined transport"
+          },
+          {
+            "key": "D",
+            "text": "joint transport"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 18
+      },
+      {
+        "id": "2021-english-q66",
+        "number": 66,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "超高集装箱（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "Plat Form Based Container"
+          },
+          {
+            "key": "B",
+            "text": "General Purpose Container"
+          },
+          {
+            "key": "C",
+            "text": "Bulk Container"
+          },
+          {
+            "key": "D",
+            "text": "High Cubic Container"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 18
+      },
+      {
+        "id": "2021-english-q67",
+        "number": 67,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "自由贸易区（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "Free Trade Zone"
+          },
+          {
+            "key": "B",
+            "text": "Free Trade Section"
+          },
+          {
+            "key": "C",
+            "text": "Free Business Zone"
+          },
+          {
+            "key": "D",
+            "text": "Free Dealing Section"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 19
+      },
+      {
+        "id": "2021-english-q68",
+        "number": 68,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "集装箱码头（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "container terminal"
+          },
+          {
+            "key": "B",
+            "text": "container yard"
+          },
+          {
+            "key": "C",
+            "text": "container area"
+          },
+          {
+            "key": "D",
+            "text": "container freight station"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 19
+      },
+      {
+        "id": "2021-english-q69",
+        "number": 69,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "业务外包（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "outsourcing"
+          },
+          {
+            "key": "B",
+            "text": "business"
+          },
+          {
+            "key": "C",
+            "text": "exterior"
+          },
+          {
+            "key": "D",
+            "text": "packing"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 19
+      },
+      {
+        "id": "2021-english-q70",
+        "number": 70,
+        "section": "汉译英",
+        "type": "single",
+        "prompt": "20 英尺换算箱（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "twenty-feet equivalent unit (TEU)"
+          },
+          {
+            "key": "B",
+            "text": "standard container"
+          },
+          {
+            "key": "C",
+            "text": "TEU container"
+          },
+          {
+            "key": "D",
+            "text": "forty feet container"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 19
+      },
+      {
+        "id": "2021-english-q71",
+        "number": 71,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "Air waybills are used in international transport（ ）",
+        "options": [
+          {
+            "key": "A",
+            "text": "by sea"
+          },
+          {
+            "key": "B",
+            "text": "by air"
+          },
+          {
+            "key": "C",
+            "text": "by land"
+          },
+          {
+            "key": "D",
+            "text": "by truck"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "航空货运单（Air Waybill）是国际货物航空运输的一种简单明了的法律文件,它规定一家指定的航空公司将一批指定的货物从一个指定的寄件人的机场空运到另一个指定的收件人的机场。",
+        "sourcePage": 23,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q72",
+        "number": 72,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "An air waybill is a proof signed by（ ）for accepted cargo.",
+        "options": [
+          {
+            "key": "A",
+            "text": "the carrier"
+          },
+          {
+            "key": "B",
+            "text": "the consignee"
+          },
+          {
+            "key": "C",
+            "text": "the shipper"
+          },
+          {
+            "key": "D",
+            "text": "the captain"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "航空货运单是承运人（carrier）接受货物之后，签发给托运人的货物收据，它也是承运人和托运人之间的货物运输合同的证明。",
+        "sourcePage": 23,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q73",
+        "number": 73,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "C/NO. 1 - UP is （ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "S/C NO"
+          },
+          {
+            "key": "B",
+            "text": "L/C NO"
+          },
+          {
+            "key": "C",
+            "text": "GOODS MARKS & NOS"
+          },
+          {
+            "key": "D",
+            "text": "B/L NO"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "题目所附资料信息“C/NO. 1 - UP”是指运输货物的唛头和封箱号。因此，选项 C 正确。",
+        "sourcePage": 23,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q74",
+        "number": 74,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In international air cargo transportation, an air waybill serves as（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "evidence of contract of carriage"
+          },
+          {
+            "key": "B",
+            "text": "evidence of title to the goods"
+          },
+          {
+            "key": "C",
+            "text": "evidence of contract of warehouse"
+          },
+          {
+            "key": "D",
+            "text": "evidence of receipt of airplane"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "航空运单是航空运输货物的主要单据，它是航空承运人与托运人之间缔结的运输合同的书面凭证，但它不是物权凭证。货物运到目的地后，收货人凭承运人的到货通知提取货物。",
+        "sourcePage": 23,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q75",
+        "number": 75,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "As a consolidator, the（ ）provides the service in his own name and issue a house air waybill.",
+        "options": [
+          {
+            "key": "A",
+            "text": "importer"
+          },
+          {
+            "key": "B",
+            "text": "airfreight forwarder"
+          },
+          {
+            "key": "C",
+            "text": "consignee"
+          },
+          {
+            "key": "D",
+            "text": "exporter"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "作为合并运输人，货运代理人以他自己的名义提供服务并签发航空运单，即分运单（ house air waybill）。",
+        "sourcePage": 24,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q76",
+        "number": 76,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this air waybill, the shipper is（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON IMP.& EXP.CO.LTD"
+          },
+          {
+            "key": "B",
+            "text": "TKAMLA CORPORATION"
+          },
+          {
+            "key": "C",
+            "text": "CAPITAL INTERNATIONAL AIRPORT"
+          },
+          {
+            "key": "D",
+            "text": "KANSAI INTERNATIONAL AIRPORT"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "在信用证结汇方式下，托运人一般为信用证的受益人（beneficiary）。根据本题已知资料，本栏填写信用证受益人（BENEFICIARY）名称, 故此栏填 选项“A”。",
+        "sourcePage": 24,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q77",
+        "number": 77,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "The AWB is issued by airlines in a set of 3 originals and minimum（ ） copies.",
+        "options": [
+          {
+            "key": "A",
+            "text": "3"
+          },
+          {
+            "key": "B",
+            "text": "6"
+          },
+          {
+            "key": "C",
+            "text": "9"
+          },
+          {
+            "key": "D",
+            "text": "12"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "我国国际航空货运单由一式十二联组成，包括三联正本，六联副本和三联额外副本。故选项“B”正确。",
+        "sourcePage": 25,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q78",
+        "number": 78,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this air waybill, the consignee is （ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON IMP.& EXP.CO.LTD"
+          },
+          {
+            "key": "B",
+            "text": "TKAMLA CORPORATION"
+          },
+          {
+            "key": "C",
+            "text": "CAPITAL INTERNATIONAL AIRPORT"
+          },
+          {
+            "key": "D",
+            "text": "KANSAI INTERNATIONAL AIRPORT"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "必须注意的是，由于航空货运单不能转让，故此栏不得填写“to\norder”或“to order of the shipper”字样。根据本题信用证资料，本栏填写开证申请人（APPLICANT）名称，故选项 B 正确。",
+        "sourcePage": 25,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q79",
+        "number": 79,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In international air cargo transportation,（ ）are pitched at an extremely high level.",
+        "options": [
+          {
+            "key": "A",
+            "text": "General Cargo Rates"
+          },
+          {
+            "key": "B",
+            "text": "Class Rates"
+          },
+          {
+            "key": "C",
+            "text": "Specific Commodity Rates"
+          },
+          {
+            "key": "D",
+            "text": "Bulk Unitization Rates"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "以上几种航空货物运价适用的范围不同，Specific Commodity Rates\n是指适用于指定货物的运价，Class Rates 是指适用于等级货物的运价，\nGeneral Cargo Rates 是指除了等级货物运价和指定商品运价以外的适合于普通货物运输的运价，适用于各种货物，对危险货物的尺寸也没有限制，是使用程度最高的运价方式。",
+        "sourcePage": 25,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q80",
+        "number": 80,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this air waybill, the airport of departure is（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON CHINA"
+          },
+          {
+            "key": "B",
+            "text": "BANGKOK THAILAND"
+          },
+          {
+            "key": "C",
+            "text": "CAPITAL INTERNATIONAL AIRPORT"
+          },
+          {
+            "key": "D",
+            "text": "KANSAI INTERNATIONAL AIRPORT"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "根据本题补充资料，始发站为广州机场 （AIRPORT OF\nDEPARTURE ：CANTON AIRPORT ）， 故此栏填 选项“A”。",
+        "sourcePage": 26,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q81",
+        "number": 81,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this air waybill, the airport of destination is（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON CHINA"
+          },
+          {
+            "key": "B",
+            "text": "BANGKOK THAILAND"
+          },
+          {
+            "key": "C",
+            "text": "CAPITAL INTERNATIONAL"
+          },
+          {
+            "key": "D",
+            "text": "KANSAI INTERNATIONAL"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "根据本题补充资料，到达站为泰国曼谷机场 （ AIRPORT OF\nDESTINATION ： BANGKOK AIRPORT ）， 故此栏填选项“B”。",
+        "sourcePage": 26,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q82",
+        "number": 82,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this air waybill, the date of flight is（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "CA921/16 SEP，2021"
+          },
+          {
+            "key": "B",
+            "text": "CA999/16 SEP，2021"
+          },
+          {
+            "key": "C",
+            "text": "MH103/16 SEP，2021"
+          },
+          {
+            "key": "D",
+            "text": "KA708/16 SEP，2021"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "航班/日期（Flight/date）一栏由航空公司安排舱位后填写承运人已确认的航班/日期，如有续程，填写确认续程的航班/日期。 根据本题补充资料（FLIGHT/DATE：CA921/16 SEP，2021），故此栏照填为“CA921/16 SEP，\n2021”。",
+        "sourcePage": 27,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q83",
+        "number": 83,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this air waybill, the Executed on date at place is（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "16 SEP, 2021 CANTON"
+          },
+          {
+            "key": "B",
+            "text": "16 SEP, 2021 BEIJING"
+          },
+          {
+            "key": "C",
+            "text": "16 SEP, 2021 BANGKOK"
+          },
+          {
+            "key": "D",
+            "text": "16 SEP, 2021 SHANGHAI"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "签单日期和地点（Executed on date at place）一栏填写出具空运单据的日期和地点，签发日期按年、月、日顺序填写。填写时必须注意的是，航空 运单签发日期应早于信用证规定的最迟装运期，故此栏可填写为“16 SEP,\n2021 CANTON”",
+        "sourcePage": 27,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q84",
+        "number": 84,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this air waybill, the handling information is（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "COMMERCIAL INVOICE L/G NO.33423444"
+          },
+          {
+            "key": "B",
+            "text": "COMMERCIAL INVOICE L/C NO.33423444"
+          },
+          {
+            "key": "C",
+            "text": "COMMERCIAL INVOICE / PACKING LIST"
+          },
+          {
+            "key": "D",
+            "text": "COMMERCIAL INVOICE B/L NO.33423444"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "处理事项（Handling Information）一栏一般填写内容包括危险品申报单要点，另行通知人的名称、地址、国家、电话、传真号，显示随 机文件（商业发票、装箱清单、空运舱单、信用证等）名称，货物需要特殊处理和海关规定的其他事项。本题中要求随附商业发票，故此栏填写为\n“COMMERCIAL INVOICE L/C NO.33423444”",
+        "sourcePage": 27,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q85",
+        "number": 85,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this airway bill, the air waybill number is（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "999 61394340"
+          },
+          {
+            "key": "B",
+            "text": "999 33423444"
+          },
+          {
+            "key": "C",
+            "text": "999 61393444"
+          },
+          {
+            "key": "D",
+            "text": "999 33424340"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "货运单号码（air waybill number） 一般被印制在每一份运单的左上角和右下角两处，由 11 位数字组成。其中前三位数字是 航空公司的 IATA\n数字代码，第四位至第十位数字表示货运单顺序号，最后一位是检测号。根据本题补充资料， 此栏照填选项“A”数字即可。",
+        "sourcePage": 28,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q86",
+        "number": 86,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "“CZ”in the numeric code “AKA1234CZ” in IATA stands for（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "CHINA SOUTHERN AIRLINE"
+          },
+          {
+            "key": "B",
+            "text": "CHINA EASTERN AIRLINE"
+          },
+          {
+            "key": "C",
+            "text": "AIR CHINA"
+          },
+          {
+            "key": "D",
+            "text": "SHENZHEN AIRLINE"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "航空公司一般既有两字代码，也有三字代码，但通常使用的是两字代码。南方航空公司代码为 CZ；东方航空公司的代码为 MU；国际航空公司代码为 CA;深圳航空公司代码为 ZH。",
+        "sourcePage": 28,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q87",
+        "number": 87,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "A unique numeric code for Air China is（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "781"
+          },
+          {
+            "key": "B",
+            "text": "782"
+          },
+          {
+            "key": "C",
+            "text": "789"
+          },
+          {
+            "key": "D",
+            "text": "999"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "中国国际航空公司（Air China）向国际航协申请的三位数字代号是\n“999”，故本题正确选项是“D”。",
+        "sourcePage": 28,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q88",
+        "number": 88,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this air waybill, the Gross Weight is（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "960.00KGS"
+          },
+          {
+            "key": "B",
+            "text": "24.00KGS"
+          },
+          {
+            "key": "C",
+            "text": "40.00KGS"
+          },
+          {
+            "key": "D",
+            "text": "64.00KGS"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "毛重（Gross Weight）一栏填写与货物件数相对应的实际的毛重，以公斤为计量单位，并应与报检单、报关单、提单等单据 上的重量一致。本题中，每箱货物毛重为 24kgs（GROSS WT.：24kgs/CTN），一共是 40 箱，总毛重为 960kgs （=24×40）。故此栏应填写为“960kgs”，答案 A 正确。\n校对说明：原 PDF 第三个选项仅印有 40.00KGS，未印选项字母；根据版面顺序补为 C，答案不变。",
+        "sourcePage": 29,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q89",
+        "number": 89,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "In this airway bill, the No. of Pieces is（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "40CTNS"
+          },
+          {
+            "key": "B",
+            "text": "5760PCS"
+          },
+          {
+            "key": "C",
+            "text": "144PCS"
+          },
+          {
+            "key": "D",
+            "text": "40PCS"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "件数和包装方式（No.of Pieces）一栏填写货物的件数和相应的包装种类。根据本题已知资料，本批货物一共是 5760 件，每 1 打（共 144 件\n=12×12 件）装在一个箱子里，一共是 40 箱（=5760/144）。故此栏应填写为“40CTNS”, 答案 A 正确。",
+        "sourcePage": 29,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      },
+      {
+        "id": "2021-english-q90",
+        "number": 90,
+        "section": "英文单证操作",
+        "type": "single",
+        "prompt": "This air waybill is signed by（ ）.",
+        "options": [
+          {
+            "key": "A",
+            "text": "AAA CORP/CAN"
+          },
+          {
+            "key": "B",
+            "text": "AIR CHIA /PEK"
+          },
+          {
+            "key": "C",
+            "text": "AIR FRANCE / PAR"
+          },
+          {
+            "key": "D",
+            "text": "KOREAN AIR/SEL"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "货运单代理人名称和城市（Issuing Carrier Agent Name & City）一栏填写货运单代理人名称和所在城市。本题中，航空公司代理人（AAA CORP）填开货运单，故此栏填写为“AAA CORP/CAN”, 答案 A 正确。",
+        "sourcePage": 29,
+        "context": "作为国际货运代理人，请根据下列信用证资料和补充资料确认填制航空运单中的主要事项。（1）信用证资料：\nSEQUENCE OF TOTAL ﹡27: 1/1\nFORM OF DOCUMENTARY ﹡40 A: IRREVOCABLE\nDOC CREDIT NUMBER ﹡20: 33423444\nDATE OF ISSUE31 C: 20210830\nDATE AND PLACE OF EXPIRY ﹡31 D: 20211025 CHINA\nAPPLICANT ﹡50: TKAMLA CORPORATION\n6-7, KAWARA MACH\nBANGKOK, THAILAND\nBENEFICIARY ﹡59: CANTON IMP.& EXP.CO.LTD\n32, ZHUJIANG ROAD\nCANTON, CHINA\nAMOUNT ﹡32 B: CURRENCY USD AMOUNT 156100\nAVAILABLE WITH/BY ﹡41 D: ANY BANK IN CHINA\nBY NEGOTIATION\nDRAFTS AT…41 C: DRAFTS AT SIGHT\nFOR FULL INVOICE COST\nDRAWEE42 A: BANGKOK BANK LTD\nPARTIAL SHIPMENTS43 P: NOT ALLOWED\nTRANSSHIPMENTS43 T: ALLOWED\nLOADING ON BOARD44 A: CANTON，CHINA\nFOR TRANSPORTATION TO…44 B: BANGKOK, THAILAND\nLATEST DATE OF SHIPMENT44 C: 20210917\n（2）补充资料：\nISSUING CARRIER’S AGENT：AAA CORP\nAIRPORT OF DEPARTURE：CANTON INTERNATIONAL AIRPORT\nAIRPORT OF DESTINATION：BANGKOK INTERNATIONAL AIRPORT\nFLIGHT/DATE：CA921/16 SEP 2021\nH.S.CODE: 6109.1000\nSHIPPING MARKS: TKAMLA\nS/C NO.SH030826\nBANGKOK\nC/NO.1-UP\nNUMBER OF PIECES: 5760\nPACKING: ONE PC IN ONE PLASTIC BAG,12 DOZEN PACKED IN ONE\nCARTON\nGROSS WT.: 24kgs/CTN\nNET WT.: 23kgs/CTN\nMEASUREMENT: 72cm×45cm×22cm/CTN\nDOCUMENT TO ACCOMPANY AIRWAY BILL:COMMERCIAL INVOICE\nAIR WAYBILL NUMBER：999 61394340\n航空运单已列示事项：\nShipper: CANTON IMP.& EXP.CO.LTD, 32, ZHUJIANG ROAD, CANTON, CHINA\nConsignee: TKAMLA CORPORATION, 6-7, KAWARA MACH, BANGKOK, THAILAND\nIssuing Carrier’s Agent: AAA CORP/CAN\nAirport of Departure: CANTON, CHINA\nAirport of Destination: BANGKOK\nFlight/Date: CA921/16SEP,2021\nCurrency: USD; Declared Value for Carriage: NVD; Declared Value for Customs: NCV\nHandling Information: COMMERCIAL INVOICE L/C NO.33423444\nNo. of Pieces: 40CTNS; Gross Weight: 960KGS; Rate Class: Q\nNature and Quantity of Goods: 100% COTTON T-SHIRT, 72cm×45cm×22cm/CTN×40\nExecuted on: SEP.16,2021; at: CANTON\nAIR WAYBILL NUMBER: 999 61394340",
+        "image": "/paper-assets/2021-english-airwaybill.png"
+      }
+    ]
+  },
+  {
+    "id": "2021-business",
+    "year": 2021,
+    "subject": "business",
+    "title": "2021 年国际货代业务模拟考试",
+    "durationMinutes": 90,
+    "totalPoints": 110,
+    "sourceFiles": [
+      "2021年货代业务试题及解析.pdf"
+    ],
+    "instructions": "本卷按所提供的 2021 年试题及解析中的参考答案判分。单选题、判断题选对得分；多选题多选、少选、错选均不得分。模拟考试默认 90 分钟，可在开始前调整；原 PDF 未注明考试时长。保留完整主卷及 FIATA 证书附加题：第 1–90 题为主卷，共 100 分；第 91–98 题为附加题，共 10 分；合计 110 分。",
+    "questions": [
+      {
+        "id": "2021-business-q1",
+        "number": 1,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "2014 年 7 月 1 日，一辆满载着浙江义乌以及周边地区生产的小商品、机电产品的 81018 号铁路国际联运班列开出了义乌，运载着 88 个标准集装箱，以 120 公里/小时的速度直奔新疆的阿拉山口转关到欧洲，这趟班列正式纳入中国铁路总公司的中欧班列的序列，简称 ( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "义新欧"
+          },
+          {
+            "key": "B",
+            "text": "郑州班列"
+          },
+          {
+            "key": "C",
+            "text": "武汉班列"
+          },
+          {
+            "key": "D",
+            "text": "渝新欧"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "一辆满载着浙江义乌以及周边地区生产的小商品、机电产品的 81018\n号“义新欧”铁路国际联运班列开出了义乌，是首趟由义乌发出的中欧班列。",
+        "sourcePage": 1
+      },
+      {
+        "id": "2021-business-q2",
+        "number": 2,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "在国际贸易中，运输标志的式样和文字一般由( )提供或决定。",
+        "options": [
+          {
+            "key": "A",
+            "text": "买方"
+          },
+          {
+            "key": "B",
+            "text": "卖方"
+          },
+          {
+            "key": "C",
+            "text": "运输部门"
+          },
+          {
+            "key": "D",
+            "text": "生产经营单位"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "按照国际贸易习惯，运输标志的式样和文字一般应由卖方提供和决定，也可不订入合同，或只订明“卖方标志”，由卖方设计后通知买方。",
+        "sourcePage": 1
+      },
+      {
+        "id": "2021-business-q3",
+        "number": 3,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "国际货物买卖合同中规定溢短装条款，该条款通常是允许卖方在( )上有一定幅度的差异。",
+        "options": [
+          {
+            "key": "A",
+            "text": "交货品质"
+          },
+          {
+            "key": "B",
+            "text": "交货数量"
+          },
+          {
+            "key": "C",
+            "text": "包装规格"
+          },
+          {
+            "key": "D",
+            "text": "交货时间"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "国际货物买卖合同中的溢短装条款是交货数量的浮动，买卖双方在商定交货数量时订有一定的机动幅度，允许卖方交货在一定许可范围内增减，以方便交货和合同履行。",
+        "sourcePage": 1
+      },
+      {
+        "id": "2021-business-q4",
+        "number": 4,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "在国际贸易实务中，按 CIF 价格术语成交出口的大宗商品，如果卖方不负担货物在目的港的卸货费用，则应在买卖合同中规定( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "CIF Liner Terms"
+          },
+          {
+            "key": "B",
+            "text": "CIF Landed"
+          },
+          {
+            "key": "C",
+            "text": "CIF Ex Ship's Hold"
+          },
+          {
+            "key": "D",
+            "text": "CIF Berth Terms"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "关于目的港的卸货费用负担，双方多在买卖合同中采用 CIF 后加变形术语方式，特约双方关于卸货费用的负担。CIF Liner Terms 是指班轮条款。按照班轮运输的一般习惯，由承运货物的承运人负责货物卸货费用，该费用已包含在通常运费中。即由卖方负责卸货费用，CIF Landed 是指目的港陆地交货。卖方负担货物卸到目的港陆地上的费用，如过驳，则含驳船费用。CIF Ex Ship's\nHold 是指目的港船舱交货。买方负担货物从目的港船舱卸至岸上的卸货费用。\nCIF Berth Terms 等同于 CIF Liner Terms。所以卖方欲不负担货物在目的港的卸货费用，应在买卖合同中规定 CIF Ex Ship's Hold。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2021-business-q5",
+        "number": 5,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "Incoterms®2020 把 11 种贸易术语归为两组，适用于任何运输方式或多种运输方式的术语分为一组，仅适用于水上运输方式为另一组，在这两组贸易术语中，都没有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "CPT"
+          },
+          {
+            "key": "B",
+            "text": "DPU"
+          },
+          {
+            "key": "C",
+            "text": "DAT"
+          },
+          {
+            "key": "D",
+            "text": "DDP"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "在 Incoterms®2020 中取消了 DAT。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2021-business-q6",
+        "number": 6,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "信用证通常除了有效期限外，还规定一个在装运日期后的一定时间内向银行交单的期限。如果没有规定交单期限，根据 UCP600 的规定，银行有权拒收于装运日期( )天后提交的单据，但无论如何，单据提交日期必须在信用证规定的有效期内。",
+        "options": [
+          {
+            "key": "A",
+            "text": "7"
+          },
+          {
+            "key": "B",
+            "text": "15"
+          },
+          {
+            "key": "C",
+            "text": "21"
+          },
+          {
+            "key": "D",
+            "text": "30"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "根据 UCP 600 的规定，银行有权拒绝受理迟于装运日期后 21 天提交的单据，该单据将被视为过期单据，将可能影响信用证结汇。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2021-business-q7",
+        "number": 7,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "航次租船由( )负责船舶营运管理。",
+        "options": [
+          {
+            "key": "A",
+            "text": "买方"
+          },
+          {
+            "key": "B",
+            "text": "卖方"
+          },
+          {
+            "key": "C",
+            "text": "船东"
+          },
+          {
+            "key": "D",
+            "text": "租船人"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "航次租船又称为“航程租船”，是指由船舶出租人向承租人提供船舶在指定的港口之间进行一个航次或几个航次的指定货物运输的租船运输方式。航次租船的船舶营运管理由船舶出租人即船东负责。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2021-business-q8",
+        "number": 8,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "海运货物的单独海损与共同海损区分的依据是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "货物运输途中发生损失的原因和后果"
+          },
+          {
+            "key": "B",
+            "text": "货物运输的区间"
+          },
+          {
+            "key": "C",
+            "text": "国际货物的支付方式"
+          },
+          {
+            "key": "D",
+            "text": "国际货物运输险别"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "此题只要掌握单独海损和共同海损的概念，很容易判断出应选择 A。所谓共同海损，是指为船货的共同安全，有意和合理地作出的特殊牺牲和支付的特殊费用。单独海损是指由于意外事故或自然灾害直接造成的损失。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2021-business-q9",
+        "number": 9,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "我国某公司向法国 A 公司出口一批精致的工艺美术品，装于一个 20 英尺的集装箱，货物投保了中国人民保险公司海洋运输货物保险条款中的一切险，并加保战争险、罢工险。根据保险条款的规定，保险人对货物( )受损的损失不承担赔偿责任。",
+        "options": [
+          {
+            "key": "A",
+            "text": "在海上遭遇海盗袭击"
+          },
+          {
+            "key": "B",
+            "text": "在法国 A 公司仓库中因火灾"
+          },
+          {
+            "key": "C",
+            "text": "在海上遇台风和暴雨淋湿"
+          },
+          {
+            "key": "D",
+            "text": "在卸货时从吊杆上脱落坠地"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "我国《海洋运输货物保险条款》对保险责任的起讫作了具体规定。自被保险货物运离保险单所载明的起运地仓库或储存处所开始运输时生效，包括正常运输过程中的海上、陆上、内河和驳船运输在内，直至该项货物到达保险单所载明目的地收货人的最后仓库或储存处所或被保险人用作分配、分派或非正常运输的其他储存处所为止。显然，货物在收货人仓库中因火灾受损不属于承保范围。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2021-business-q10",
+        "number": 10,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "一票货物于 2020 年 9 月 10 日开始装船，并于当月 12 日全部装上船，同日船舶开航。如果在 2020 年 9 月 11 日应托运人要求，承运人签发的已装船提单通常被称为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "倒签提单"
+          },
+          {
+            "key": "B",
+            "text": "顺签提单"
+          },
+          {
+            "key": "C",
+            "text": "预借提单"
+          },
+          {
+            "key": "D",
+            "text": "待运提单"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "预借提单是指货物在装船前或装船完毕前，托运人为及时结汇，向承运人预先借用的提单。通常情况下，预借提单比倒签提单危害更大。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2021-business-q11",
+        "number": 11,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "杂货班轮运输中的收货单由( )签署。",
+        "options": [
+          {
+            "key": "A",
+            "text": "托运人"
+          },
+          {
+            "key": "B",
+            "text": "收货人"
+          },
+          {
+            "key": "C",
+            "text": "船长"
+          },
+          {
+            "key": "D",
+            "text": "大副"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "收货单又称大副收据，是船舶收到货物的收据及货物已经装船的凭证。船上的大副根据理货人员在理货单上所签注的日期件数及舱位，并与装货单进行核对后签署大副收据。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2021-business-q12",
+        "number": 12,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "班轮公司运输的集装箱货物的交接方式通常是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "CY/CFS"
+          },
+          {
+            "key": "B",
+            "text": "CFS/CFS"
+          },
+          {
+            "key": "C",
+            "text": "CFS/CY"
+          },
+          {
+            "key": "D",
+            "text": "CY/CY"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "CY/CY 是指运输经营人在装货港的码头堆场或其内陆堆场接收货物（整箱货），并负责运至卸货港码头堆场或其他内陆堆场，在堆场向收货人交付。这是班轮公司运输集装箱货物的通常交接方式。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2021-business-q13",
+        "number": 13,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "凡运往非基本港的货物，达到或超过规定的数量，船舶可直接挂靠，但要收取( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "转船附加费"
+          },
+          {
+            "key": "B",
+            "text": "直航附加费"
+          },
+          {
+            "key": "C",
+            "text": "港口附加费"
+          },
+          {
+            "key": "D",
+            "text": "选港附加费"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "直航附加费是托运人要求承运人将其托运的货物从装货港，不经过转船直接运抵航线上某一非基本港时所增收的附加费。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2021-business-q14",
+        "number": 14,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "货代公司如果想查询某航运公司开辟的航线和挂靠的港口，了解标准的租船合同条款及具体的解释，可以登录( )的网站进行查询。",
+        "options": [
+          {
+            "key": "A",
+            "text": "IMO"
+          },
+          {
+            "key": "B",
+            "text": "CMI"
+          },
+          {
+            "key": "C",
+            "text": "BIMCO"
+          },
+          {
+            "key": "D",
+            "text": "IATA"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "IMO 是国际海事组织，主要从事海运立法的机构。CMI 是国际海事委员会，主要工作是草拟各种有关海上运输的公约。BIMCO 是波罗的海国际海事协会，提供情报咨询服务，包括提供港口及航线情况、解释租船合同条款等。IATA\n是国际航空运输协会(International Air Transport Association，简称 IATA)\n是一个由世界各国航空公司所组成的国际组织。故应选择 C。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2021-business-q15",
+        "number": 15,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "散装货物的收货人在目的地收到货物后，发现货物受损，且数量少于提单所记载的数量。依据我国《海商法》的规定，收货人应当在货物交付的次日起 ( )日内向承运人提交索赔通知。",
+        "options": [
+          {
+            "key": "A",
+            "text": "3"
+          },
+          {
+            "key": "B",
+            "text": "7"
+          },
+          {
+            "key": "C",
+            "text": "15"
+          },
+          {
+            "key": "D",
+            "text": "21"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "依据我国《海商法》的规定，收货人应当在集装箱货物交付的次日起\n15 日内向承运人提交索赔通知，对于非集装箱货物则是 7 日。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2021-business-q16",
+        "number": 16,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "租船合同规定“满载货物 1 万吨，船方有上下 5%的幅度选择”。船长宣载 9800 吨，而租方实际提供 9500 吨货物。则租方应付给船方( )的亏舱费。",
+        "options": [
+          {
+            "key": "A",
+            "text": "300 吨"
+          },
+          {
+            "key": "B",
+            "text": "500 吨"
+          },
+          {
+            "key": "C",
+            "text": "100 吨"
+          },
+          {
+            "key": "D",
+            "text": "无亏舱费"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "根据题意，船方有权宣载的数量在 9500 吨至 10500 吨之间，船长宣载\n9800 吨，符合合同的规定，而租方实际提供 9500 吨货物，所以租方应支付其中的差额部分的亏舱费，即 300 吨的亏舱费。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2021-business-q17",
+        "number": 17,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "提单收货人栏记载：“TO THE HOLDER”, 这表明该提单为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "记名提单"
+          },
+          {
+            "key": "B",
+            "text": "不记名提单"
+          },
+          {
+            "key": "C",
+            "text": "清洁提单"
+          },
+          {
+            "key": "D",
+            "text": "不清洁提单"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "“TO THE HOLDER”表明向提单持有人交付货物，并没有表示收货人是谁，也没有表明凭谁的指示，所以是一份不记名提单。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2021-business-q18",
+        "number": 18,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "《维斯比规则》和《海牙规则》对海运承运人规定的两大基本义务是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "开航和管货义务"
+          },
+          {
+            "key": "B",
+            "text": "适航和管船义务"
+          },
+          {
+            "key": "C",
+            "text": "适航和管货义务"
+          },
+          {
+            "key": "D",
+            "text": "管船和管货义务"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "《维斯比规则》和《海牙规则》对海运承运人规定的两大基本义务是适航和管货义务，因船舶不适航或管货有过失造成货损，承运人要承担赔偿责任。承运人对管船过失造成的货损可以免责。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2021-business-q19",
+        "number": 19,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "第 33 届夏季奥林匹克运动会，又称 2024 年巴黎奥运会，将在法国的巴黎举办，该城市属于 IATA 航空运输业务区中的( )区。",
+        "options": [
+          {
+            "key": "A",
+            "text": "TCl"
+          },
+          {
+            "key": "B",
+            "text": "TC2"
+          },
+          {
+            "key": "C",
+            "text": "TC3"
+          },
+          {
+            "key": "D",
+            "text": "TC4"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "TC2 区:包括欧洲全部(包括俄罗斯联邦在欧洲的部分)和与之毗连的岛屿,冰岛、亚速尔群岛、非洲全部和与之毗连的岛屿、阿森松岛和地处伊朗伊斯兰共和国西部并包括其在内的亚洲部分。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2021-business-q20",
+        "number": 20,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "从运输和报关单据来看，航空快运业务中有一种其他运输形式所没有的单据是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "POD"
+          },
+          {
+            "key": "B",
+            "text": "HWB"
+          },
+          {
+            "key": "C",
+            "text": "MWB"
+          },
+          {
+            "key": "D",
+            "text": "AVI"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "POD (Proof of Delivery), 即交付凭证贴在文件或包裹上一起运输，而其他运输方式均不使用 POD。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2021-business-q21",
+        "number": 21,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "包装识别标记是用来识别特定货物的标记，包括包装的内装物（运输专用名称、UN 编号）、托运人、收货人等内容。此类标记的提供完全是( )的责任。",
+        "options": [
+          {
+            "key": "A",
+            "text": "运营人"
+          },
+          {
+            "key": "B",
+            "text": "托运人"
+          },
+          {
+            "key": "C",
+            "text": "收运人"
+          },
+          {
+            "key": "D",
+            "text": "代理人"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "托运人在托运时应提供包装识别标记。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2021-business-q22",
+        "number": 22,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "公路运输中按件托运的一般零担货物的长度、宽度、高度分别不得超过 ( )米。",
+        "options": [
+          {
+            "key": "A",
+            "text": "3.5/1.5/1.3"
+          },
+          {
+            "key": "B",
+            "text": "4/2/1"
+          },
+          {
+            "key": "C",
+            "text": "4.5/2.5/1.5"
+          },
+          {
+            "key": "D",
+            "text": "3/2/1"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "按件托运的零担货物，单件体积一般不得小于 0.01 立方米（单件重量超过 10 千克的除外）；货物长度、宽度、高度分别不得超过 3.5 米、1.5 米和\n1.3 米。",
+        "sourcePage": 7
+      },
+      {
+        "id": "2021-business-q23",
+        "number": 23,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "按照《联合国国际货物多式联运公约》的规定，下列( )不是国际多式联运所具有的特点。",
+        "options": [
+          {
+            "key": "A",
+            "text": "签订一个运输合同，采用一种运输方式"
+          },
+          {
+            "key": "B",
+            "text": "签订一个运输合同，采用两种运输方式"
+          },
+          {
+            "key": "C",
+            "text": "签订一个运输合同，国际多式联运经营人承担全程运输组织工作"
+          },
+          {
+            "key": "D",
+            "text": "签订一个运输合同，国际多式联运经营人对货物运输的全程负责"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "国际多式联运，是指根据一个多式联运合同，采用两种或两种以上的运输方式，由多式联运经营人把货物从一国境内运到另一国境内的行为。采用一种运输方式运输货物，通常情况下不认为是国际多式联运，所以本题应选择的答案是 A。B、C、D 三个选项均是国际多式联运所具有的特点。",
+        "sourcePage": 7
+      },
+      {
+        "id": "2021-business-q24",
+        "number": 24,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "国际铁路联运运单具有( )功能。",
+        "options": [
+          {
+            "key": "A",
+            "text": "运输合同证明和物权凭证"
+          },
+          {
+            "key": "B",
+            "text": "运输合同证明和货物收据"
+          },
+          {
+            "key": "C",
+            "text": "货物收据和货物凭证"
+          },
+          {
+            "key": "D",
+            "text": "货物收据和流通性"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "国际铁路联运运单属于 UCP600 规定的公路、铁路或内河运单的范畴，它仅具有运输合同证明和货物收据的功能，不具有物权凭证的功能，不具有流通性。因此，《国际货协》和《国际货约》均明确规定铁路联运运单中的收货人一栏必须是记名的。",
+        "sourcePage": 7
+      },
+      {
+        "id": "2021-business-q25",
+        "number": 25,
+        "section": "单项选择题",
+        "type": "single",
+        "prompt": "( )是物品在从生产地到使用地的过程中，根据需要施加包装、分割、组配等作业，并按时送达指定地点的物流活动。",
+        "options": [
+          {
+            "key": "A",
+            "text": "配送"
+          },
+          {
+            "key": "B",
+            "text": "流通加工"
+          },
+          {
+            "key": "C",
+            "text": "运输"
+          },
+          {
+            "key": "D",
+            "text": "仓储"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "国家标准《物流术语》中对配送的定义是:配送是在经济合理区域范围内,根据用户要求,对物品进行拣选、加工、包装、分割、组配等作业,并按时送达指定地点的物流活动，它将“配”和“送”有机结合起来。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2021-business-q26",
+        "number": 26,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "伦敦货物保险协会(ICC)的A条款对承保风险采取列明风险方式。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "ICC 的A条款大致采用概括方式说明承保的风险，除明文规定的除外责任外，承保一切原因导致的损失。B条款和C条款采用了列明风险法。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2021-business-q27",
+        "number": 27,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "当国际买卖合同的具体约定与FOB、CIF等国际贸易术语规定的义务发生冲突时，买卖双方的权利义务应以合同的具体约定为准。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "买卖双方的权利义务应以合同的具体约定为准，只有当合同没有约定或者引入FOB、CIF等国际贸易术语规定时才适用。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2021-business-q28",
+        "number": 28,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "航次租船下，如果船长递交NOR时船舶尚未做好装卸准备，则NOR视为自始至终无效。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "在航次租船下，船长递交NOR的前提条件是船舶做好装卸准备，如果船舶未做好准备便递交NOR，则NOR视为自始至终无效。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2021-business-q29",
+        "number": 29,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "我国的国际货运代理企业既可以作为代理人从事国际货运代理业务，也可以作为独立经营人从事国际货运代理业务。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "根据我国国际货运代理管理规定，国际货物运输代理企业既可以作为代理人从事国际货运代理业务，也可以作为独立经营人从事国际货运代理业务，并承担相应责任。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2021-business-q30",
+        "number": 30,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "当发生货损后，国际货运代理人可以在任何情况下作为货主的代理人以索赔人的身份向有关方提出索赔。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "国际货运代理人只有在接受货主的委托情况下可以作为货主的代理人向有关方提出索赔。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2021-business-q31",
+        "number": 31,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "在国际海上货物运输中使用指示提单，且提单中收货人( Consignee )一栏记载为：“TO ORDER”的情况下，当该提单背书转让时，应当由收货人首先背书。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "提单的收货人一栏只填写“TO ORDER”时称为托运人指示提单，与记载“TO ORDER OF THE SHIPPER”是一样的托运人指示提单，在托运人未指定收货人或受让人之前，货物仍属于托运人，托运人是第一背书人。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2021-business-q32",
+        "number": 32,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "承运人在提单中列明有关运价本的条款，当承运人的运价本与提单正面所记载的运价不一致时，以运价本为准。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "提单条款通常规定承运人的运价本与提单正面所记载的运价不一致时，应以提单正面记载的条款运价为准。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2021-business-q33",
+        "number": 33,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "广义上的货运事故不仅指运输中发生的货损货差事故，还包括运输单证差错、迟延交付货物、海运中的“无单放货”等情况，所以货物的潜在缺陷也属于货运事故。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "广义上的货运事故是指运输中发生的货损货差事故还可以包括运输单证差错、迟延交付货物、海运中的“无单放货”等情况。很显然，货物潜在缺陷不属于运输中发生的货损货差事故。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2021-business-q34",
+        "number": 34,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "为了保持在一定时期内基本费率的稳定，又能正确反映出各港的各种货物的航运成本，班轮公司在基本费率之外，又规定了各种附加运费，例如 AMS/ACI、 ENS、GRI、PSS、VAD、CGS等各种海运附加费，其中AMS/ACI称作自动舱单系统录入费。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "AMS——Automatic Manifest System自动舱单系统录入费：用于美加航线，美国特有——所有到美国的货物或经美国中转至其他国家或地区的货物都要进行AMS申报（装船前24小时）。AMS也叫24小时舱单系统/美国反恐舱单系统。加拿大的舱单申报叫做ACI——Advance Commercial Information（加拿大海关的规定，所有到加拿大的货物或经加拿大中转到其他国家的货物都必须在装船前24小时向加拿大海关申报），跟美国的AMS十分相似。",
+        "sourcePage": 10
+      },
+      {
+        "id": "2021-business-q35",
+        "number": 35,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "根据航次租船合同的规定，船舶应该在预定期限内抵达装货港准备装货，这个期限称为宣载期。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "宣载期是船长根据本航次所需要的物料、油水等因素，在装港宣布可以装载的货物数量的时间；受载期是规定船舶到达约定装货港做好装货准备的期限。",
+        "sourcePage": 10
+      },
+      {
+        "id": "2021-business-q36",
+        "number": 36,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "在航空运输中，英文缩写“CCA”表示“货物运费更改通知书”。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "在航空运输中，英文缩写“CCA”表示“货物运费更改通知书”。",
+        "sourcePage": 10
+      },
+      {
+        "id": "2021-business-q37",
+        "number": 37,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "当一票普通航空货物计费重量很小时，航空公司规定按特种运价计收运费。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "最低运费是航空公司在考虑办理即使是一笔很小的货物运输所产生的固定费用后所制定的。",
+        "sourcePage": 10
+      },
+      {
+        "id": "2021-business-q38",
+        "number": 38,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "在国际航空货物运输中，如果托运人没有为货物办理运输声明价值，在航空货运单中“Declared Value for Carriage”栏中必须打印“NVD”。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "NVD: No Value Declared 托运人没有办理声明价值。",
+        "sourcePage": 11
+      },
+      {
+        "id": "2021-business-q39",
+        "number": 39,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "在国际航空货物运输中，航空货运代理人和航空公司之间的货物交接凭证是 HAWB。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "在国际航空货物集中托运的情况下，主运单MAWB是国际航空货运代理人与承运人交接货物的凭证，分运单HAWB是国际航空货运代理人与发货人交接货物的凭证。",
+        "sourcePage": 11
+      },
+      {
+        "id": "2021-business-q40",
+        "number": 40,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "在国际海上集装箱货物运输实践中，货物在装货港装船后，承运人签发提单，托运人再将全套提单交回承运人，并指定收货人，承运人以电讯方式授权其在卸货港的代理人，在收货人不出具提单的情况下，交付货物的做法被称为电放。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "订舱一般是指托运人或其代理人向承运人进行订舱，然后在装货港船开以后承运人签单（提单）给托运人。背书是在提单转让过程中出现，本题主要讲的是提单电放事宜。",
+        "sourcePage": 11
+      },
+      {
+        "id": "2021-business-q41",
+        "number": 41,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "在国际海上危险货物运输中，危险货物外包装表面必须张贴《国际海运危险货物规则》规定的危险品标志和标记。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "《国际海运危险货物规则》规定如此。",
+        "sourcePage": 11
+      },
+      {
+        "id": "2021-business-q42",
+        "number": 42,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "危险易燃液体货物的闪点越高，其易燃性越大，易燃危险性也越大。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "危险易燃液体货物的闪点应该是越低，其易燃性越大，易燃危险性也越大。",
+        "sourcePage": 11
+      },
+      {
+        "id": "2021-business-q43",
+        "number": 43,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "一票货物装船后，A国际货运代理企业派工作人员去承运人处取回提单，该工作人员在路上不慎将全套提单遗失。A国际货运代理企业作为货主的代理人不承担责任。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "该提单遗失是由货运代理人本身疏忽过失造成的，应由国际货运代理人承担责任。",
+        "sourcePage": 12
+      },
+      {
+        "id": "2021-business-q44",
+        "number": 44,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "House Bill of Lading 不能换取提货的权利。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "House Bill of Lading 可以换取提货的权利。",
+        "sourcePage": 12
+      },
+      {
+        "id": "2021-business-q45",
+        "number": 45,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "清洁提单上一定记载有“Clean”字样。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "清洁提单是指没有任何有关货物残损、包装不良或其他有碍于结汇的批注的提单。",
+        "sourcePage": 12
+      },
+      {
+        "id": "2021-business-q46",
+        "number": 46,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "货物积载因数的大小说明货物的轻重程度。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "货物积载因数是指每一吨货物在正常堆装时实际所占的容积，所占的容积越大，说明该货物越轻，所以货物积载因数的大小说明货物的轻重程度。",
+        "sourcePage": 12
+      },
+      {
+        "id": "2021-business-q47",
+        "number": 47,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "在国际航空货物运输中，对于收运的危险货物，除按危险品规则收运并收取航空运费外，还应收取危险货物收运手续费，该费用必须填制在货运单“其他费用”栏内，其代码为RAC。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "SUA表示代理人将货物运输到始发地机场的地面运输费。DBC表示垫付费，是对于垫付款的数额而确定的费用。在货运单中，危险品处理费表示为\nRAC。",
+        "sourcePage": 12
+      },
+      {
+        "id": "2021-business-q48",
+        "number": 48,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "集装箱提单背面条款中一般都规定，承运人或其代理人对于事先不知其性质而载运的危险品，途中可根据情况需要进行处置而不负任何责任。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "根据有关海上运输国际公约和我国《海商法》的规定，承运人或其代理人对于事先不知其性质而载运的危险品，途中可任意处置而不负任何责任。提单上的规定符合法律的规定。",
+        "sourcePage": 13
+      },
+      {
+        "id": "2021-business-q49",
+        "number": 49,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "物流本身不创造商品的使用价值，物流活动仅使商品在流通过程中实现时间与空间的位移，因此物流活动不具备增值作用。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "通过物流活动增加物流增值服务是物流的重要作用之一。",
+        "sourcePage": 13
+      },
+      {
+        "id": "2021-business-q50",
+        "number": 50,
+        "section": "判断题",
+        "type": "boolean",
+        "prompt": "仓单是提取仓储物的凭证。存货人或者仓单持有人在仓单上背书并经保管人签字或者盖章的，可以转让提取仓储物的权利。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "存货人交付仓储物的，保管人应当给付仓单。保管人应当在仓单上签字或者盖章。仓单是提取仓储物的凭证。存货人或者仓单持有人在仓单上背书并经保管人签字或者盖章的，可以转让提取仓储物的权利。",
+        "sourcePage": 13
+      },
+      {
+        "id": "2021-business-q51",
+        "number": 51,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "海关对综保区内企业实施的“四自一简”监管制度指的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "企业设立电子账册时，可自主备案商品信息"
+          },
+          {
+            "key": "B",
+            "text": "企业可根据实际经营情况，自主确定核销周期"
+          },
+          {
+            "key": "C",
+            "text": "企业可自主核定保税货物耗用情况，自主办理核销手续"
+          },
+          {
+            "key": "D",
+            "text": "企业可按照“自报自缴”方式对需要缴税的保税货物自主补缴税款"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "在综保区内实施“四自一简”监管制度，综保区内企业（以下简称\n“企业”）可自主备案、合理自定核销周期、自主核报、自主补缴税款，海关简化业务核准手续。",
+        "sourcePage": 13
+      },
+      {
+        "id": "2021-business-q52",
+        "number": 52,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "下列( )不属于航空货物指定商品运价的类别代码。",
+        "options": [
+          {
+            "key": "A",
+            "text": "M"
+          },
+          {
+            "key": "B",
+            "text": "C"
+          },
+          {
+            "key": "C",
+            "text": "N"
+          },
+          {
+            "key": "D",
+            "text": "Q"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "国际航协规定指定商品运价的类别代码是C , M 表示最低运费，N表示标准普通货物运价，Q表示45公斤以上的运价。",
+        "sourcePage": 14
+      },
+      {
+        "id": "2021-business-q53",
+        "number": 53,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "国际航空运输中，有关贵重货物托运方面的说明中，( )是正确的。",
+        "options": [
+          {
+            "key": "A",
+            "text": "托运人交运贵重货物必须办理声明价值"
+          },
+          {
+            "key": "B",
+            "text": "每票货运单货物的声明价值不得超过10万美元"
+          },
+          {
+            "key": "C",
+            "text": "每次班机所装载的贵重货物，价值不得超过100万美元"
+          },
+          {
+            "key": "D",
+            "text": "贵重货物不得与其他货物作为一票货物托运"
+          }
+        ],
+        "answer": [
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "",
+        "sourcePage": 14
+      },
+      {
+        "id": "2021-business-q54",
+        "number": 54,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "在国际航空货物集中托运的情况下，航空货运单分为主运单和分运单。下列关于主运单和分运单的表述中，正确的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "主运单是国际航空货运代理人与承运人交接货物的凭证"
+          },
+          {
+            "key": "B",
+            "text": "分运单是国际航空货运代理人与发货人交接货物的凭证"
+          },
+          {
+            "key": "C",
+            "text": "在主运单中托运人栏和收货人栏都是实际的托运人和收货人"
+          },
+          {
+            "key": "D",
+            "text": "在分运单中托运人栏和收货人栏都是实际的托运人和收货人"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "在国际航空货物集中托运的情况下，主运单是国际航空货运代理人与承运人交接货物的凭证，分运单是国际航空货运代理人与发货人交接货物的凭证。因此，在主运单中托运人栏和收货人栏都是国际航空货运代理人，在分运单中托运人栏和收货人栏都是实际的托运人和收货人。",
+        "sourcePage": 14
+      },
+      {
+        "id": "2021-business-q55",
+        "number": 55,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "供应链“四流”互为存在，密不可分，相互作用，既是独立存在的单一系列，又是一个组合体。其中商流是前提，( )是支撑。",
+        "options": [
+          {
+            "key": "A",
+            "text": "商流"
+          },
+          {
+            "key": "B",
+            "text": "物流"
+          },
+          {
+            "key": "C",
+            "text": "资金流"
+          },
+          {
+            "key": "D",
+            "text": "信息流"
+          }
+        ],
+        "answer": [
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "商流是物流、资金流和信息流的起点，也可以说是后\"三流\"的前提，没有商流一般不可能发生物流、资金流和信息流。",
+        "sourcePage": 14
+      },
+      {
+        "id": "2021-business-q56",
+        "number": 56,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "下列( )符合航空集装货物的基本原则。",
+        "options": [
+          {
+            "key": "A",
+            "text": "底部为金属的货物须使用垫板"
+          },
+          {
+            "key": "B",
+            "text": "在集装箱内的货物应码放紧凑，间隙越小越好"
+          },
+          {
+            "key": "C",
+            "text": "一般情况下可以组装低探板货物"
+          },
+          {
+            "key": "D",
+            "text": "一票货物应尽可能集中装在一个集装器上"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "探板货物组装：一般情况下不组装低探板货物。若因货物多，需充分利用舱位，且货物包装适合装低探板时，允许装低探板。但是，装低探板货物要按照标准码放，码放货物要合理牢固，网套要挂紧，必要时要用尼龙带捆绑，保证集装货物在运输过程中不发生散落或倾斜。特别重的货物放在下层，底部为金属的货物和底部面积较小重量较大的货物必须使用垫板，以防金属货物损坏集装板，同时可以分散货物对集装器底板的压力。",
+        "sourcePage": 15
+      },
+      {
+        "id": "2021-business-q57",
+        "number": 57,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "根据我国海洋货物运输保险条款的规定，基本险有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "水渍险"
+          },
+          {
+            "key": "B",
+            "text": "战争险"
+          },
+          {
+            "key": "C",
+            "text": "平安险"
+          },
+          {
+            "key": "D",
+            "text": "一切险"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "PICC 海运货物保险条款主险有平安险、水渍险和一切险，战争险、罢工险均属于特殊附加险。",
+        "sourcePage": 15
+      },
+      {
+        "id": "2021-business-q58",
+        "number": 58,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "依据 INCOTERMS® 2020 的规定，仅适用水上运输方式的贸易术语有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "CIF、CFR"
+          },
+          {
+            "key": "B",
+            "text": "DPU、DDP"
+          },
+          {
+            "key": "C",
+            "text": "DAP、EXW"
+          },
+          {
+            "key": "D",
+            "text": "FOB、FAS"
+          }
+        ],
+        "answer": [
+          "A",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "依据 INCOTERM® 2020 的规定，仅适用于水上运输的方式的贸易术语有：FAS、FOB、CFR、CIF。因此，上述四个组合选项中，AD 是正确的。",
+        "sourcePage": 15
+      },
+      {
+        "id": "2021-business-q59",
+        "number": 59,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "关税的征税主体是国家，由海关代表国家向纳税义务人征收，下列( )属于纳税义务人。",
+        "options": [
+          {
+            "key": "A",
+            "text": "进出境运输工具负责人"
+          },
+          {
+            "key": "B",
+            "text": "进出境物品的所有人"
+          },
+          {
+            "key": "C",
+            "text": "进口货物的收货人"
+          },
+          {
+            "key": "D",
+            "text": "出口货物的发货人"
+          }
+        ],
+        "answer": [
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "根据我国海关法律法规的规定，进出口货物的收发货人、进出境物品的所有人是关税的纳税义务人。",
+        "sourcePage": 15
+      },
+      {
+        "id": "2021-business-q60",
+        "number": 60,
+        "section": "多项选择题",
+        "type": "multiple",
+        "prompt": "( )不属于我国《海商法》和《合同法》采纳的多式联运经营人责任制度。",
+        "options": [
+          {
+            "key": "A",
+            "text": "分割责任制"
+          },
+          {
+            "key": "B",
+            "text": "网状责任制"
+          },
+          {
+            "key": "C",
+            "text": "统一责任制"
+          },
+          {
+            "key": "D",
+            "text": "经修正的统一责任制"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "目前，国际上使用的国际多式联运单据大都采用网状责任制，我国\n《海商法》和《合同法》采纳的多式联运经营人责任制度是网状责任制。",
+        "sourcePage": 16
+      },
+      {
+        "id": "2021-business-q61",
+        "number": 61,
+        "section": "计算题（一）",
+        "type": "single",
+        "prompt": "该票货物运费吨为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "8.5"
+          },
+          {
+            "key": "B",
+            "text": "9.6"
+          },
+          {
+            "key": "C",
+            "text": "10"
+          },
+          {
+            "key": "D",
+            "text": "25"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "体积；0.2*0.3*0.4=0.024 立方米，毛重=25 公斤=0.025 公吨，因为毛重>体积,所以应按毛重 10MT 计收运费。 0.2m*0.3m*0.4m = 0.024m3, 8500KG =\n8.5MT,故该票货物运费吨为 10。",
+        "sourcePage": 16,
+        "context": "（一）出口某商品 10 公吨，400 箱装，每箱毛重 25 公斤，体积 20 厘米 30 厘米\n40 厘米，单价 CFR 马赛每箱 55 美元，查海运运价本知该货为 8 级，计费标准为\nW/M，每运费吨运费 80 美元，另征收转船附加费 20%，燃油附加费 10%。根据题意，请回答下列问题："
+      },
+      {
+        "id": "2021-business-q62",
+        "number": 62,
+        "section": "计算题（一）",
+        "type": "single",
+        "prompt": "该票货物基本运费为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "USD3009.6"
+          },
+          {
+            "key": "B",
+            "text": "USD800"
+          },
+          {
+            "key": "C",
+            "text": "USD768"
+          },
+          {
+            "key": "D",
+            "text": "USD2000"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "10x80 = USD800。",
+        "sourcePage": 16,
+        "context": "（一）出口某商品 10 公吨，400 箱装，每箱毛重 25 公斤，体积 20 厘米 30 厘米\n40 厘米，单价 CFR 马赛每箱 55 美元，查海运运价本知该货为 8 级，计费标准为\nW/M，每运费吨运费 80 美元，另征收转船附加费 20%，燃油附加费 10%。根据题意，请回答下列问题："
+      },
+      {
+        "id": "2021-business-q63",
+        "number": 63,
+        "section": "计算题（一）",
+        "type": "single",
+        "prompt": "该票货物转船附加费为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "USD3009.6"
+          },
+          {
+            "key": "B",
+            "text": "USD700"
+          },
+          {
+            "key": "C",
+            "text": "USD752.4"
+          },
+          {
+            "key": "D",
+            "text": "USD160"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "转船附加费为 800x0.2 = USD160。",
+        "sourcePage": 17,
+        "context": "（一）出口某商品 10 公吨，400 箱装，每箱毛重 25 公斤，体积 20 厘米 30 厘米\n40 厘米，单价 CFR 马赛每箱 55 美元，查海运运价本知该货为 8 级，计费标准为\nW/M，每运费吨运费 80 美元，另征收转船附加费 20%，燃油附加费 10%。根据题意，请回答下列问题："
+      },
+      {
+        "id": "2021-business-q64",
+        "number": 64,
+        "section": "计算题（一）",
+        "type": "single",
+        "prompt": "该票货物燃油附加费为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "USD80"
+          },
+          {
+            "key": "B",
+            "text": "USD700"
+          },
+          {
+            "key": "C",
+            "text": "USD752.4"
+          },
+          {
+            "key": "D",
+            "text": "USD75"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "燃油附加费为 800X0.1=80USD。",
+        "sourcePage": 17,
+        "context": "（一）出口某商品 10 公吨，400 箱装，每箱毛重 25 公斤，体积 20 厘米 30 厘米\n40 厘米，单价 CFR 马赛每箱 55 美元，查海运运价本知该货为 8 级，计费标准为\nW/M，每运费吨运费 80 美元，另征收转船附加费 20%，燃油附加费 10%。根据题意，请回答下列问题："
+      },
+      {
+        "id": "2021-business-q65",
+        "number": 65,
+        "section": "计算题（一）",
+        "type": "single",
+        "prompt": "该票货物的总运费为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "USD3009.6"
+          },
+          {
+            "key": "B",
+            "text": "USD700"
+          },
+          {
+            "key": "C",
+            "text": "USD1040"
+          },
+          {
+            "key": "D",
+            "text": "USD4462"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "总运费=基本运费+转船附加费+燃油附加费。",
+        "sourcePage": 17,
+        "context": "（一）出口某商品 10 公吨，400 箱装，每箱毛重 25 公斤，体积 20 厘米 30 厘米\n40 厘米，单价 CFR 马赛每箱 55 美元，查海运运价本知该货为 8 级，计费标准为\nW/M，每运费吨运费 80 美元，另征收转船附加费 20%，燃油附加费 10%。根据题意，请回答下列问题："
+      },
+      {
+        "id": "2021-business-q66",
+        "number": 66,
+        "section": "计算题（二）",
+        "type": "single",
+        "prompt": "按普通运价使用规则计算，Applicable Rate 应是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "52.81 CNY/KG"
+          },
+          {
+            "key": "B",
+            "text": "44.46 CNY/KG"
+          },
+          {
+            "key": "C",
+            "text": "CNY 320.00"
+          },
+          {
+            "key": "D",
+            "text": "40.93 CNY/KG"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "Applicable Rate：CNY 320.00",
+        "sourcePage": 18,
+        "context": "（二）从上海运往巴黎一件玩具样品，毛重 5.3 公斤，体积尺寸为 41*33*20CM，计算其航空运费。公布运价如下：\nRouting : SHANGHAI, CHINA (SHA) to PARIS, FRANCE（PAR）\nCommodity : TOY\nGross Weight : 5.3KGS\nDimensions : 41cm x 33 cm x 20cm x1\nApplicable Published Rates :\nSHANGHAI CN SHA\nY.RENMINBI CNY KGS\nPARIS FR M 320.00\nN 52.81\n45 44.46\n100 40.93"
+      },
+      {
+        "id": "2021-business-q67",
+        "number": 67,
+        "section": "计算题（二）",
+        "type": "single",
+        "prompt": "按普通运价使用规则计算，Chargeable Weight 应是( )KGS。",
+        "options": [
+          {
+            "key": "A",
+            "text": "5.0"
+          },
+          {
+            "key": "B",
+            "text": "4.51"
+          },
+          {
+            "key": "C",
+            "text": "5.3"
+          },
+          {
+            "key": "D",
+            "text": "5.5"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "Volume Weight： 27060cm3/6000 cm3/kg = 4.51kgs = 5.0kgs\nGross Weight：5.3 kgs；按国际航协规定，国际货物的计费重量取体积重量和毛重二者中较大者，且以 0.5 千克为最小单位，重量尾数不足 0.5 千克的，按 0.5 千克计算，所以 Chargeable Weight 应是 5.5 kgs 。",
+        "sourcePage": 18,
+        "context": "（二）从上海运往巴黎一件玩具样品，毛重 5.3 公斤，体积尺寸为 41*33*20CM，计算其航空运费。公布运价如下：\nRouting : SHANGHAI, CHINA (SHA) to PARIS, FRANCE（PAR）\nCommodity : TOY\nGross Weight : 5.3KGS\nDimensions : 41cm x 33 cm x 20cm x1\nApplicable Published Rates :\nSHANGHAI CN SHA\nY.RENMINBI CNY KGS\nPARIS FR M 320.00\nN 52.81\n45 44.46\n100 40.93"
+      },
+      {
+        "id": "2021-business-q68",
+        "number": 68,
+        "section": "计算题（二）",
+        "type": "single",
+        "prompt": "按普通运价使用规则计算,Weight Charge 应是 CNY ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "230.00"
+          },
+          {
+            "key": "B",
+            "text": "5470.80"
+          },
+          {
+            "key": "C",
+            "text": "320.00"
+          },
+          {
+            "key": "D",
+            "text": "10915.041"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "Volume Weight： 27060cm36000 cm3/kg = 4.51kgs = 5.0kgs\nGross Weight： 5.3 kgs; Weight charge: CNY320.00",
+        "sourcePage": 18,
+        "context": "（二）从上海运往巴黎一件玩具样品，毛重 5.3 公斤，体积尺寸为 41*33*20CM，计算其航空运费。公布运价如下：\nRouting : SHANGHAI, CHINA (SHA) to PARIS, FRANCE（PAR）\nCommodity : TOY\nGross Weight : 5.3KGS\nDimensions : 41cm x 33 cm x 20cm x1\nApplicable Published Rates :\nSHANGHAI CN SHA\nY.RENMINBI CNY KGS\nPARIS FR M 320.00\nN 52.81\n45 44.46\n100 40.93"
+      },
+      {
+        "id": "2021-business-q69",
+        "number": 69,
+        "section": "计算题（二）",
+        "type": "single",
+        "prompt": "运价表中 M 表示( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "Normal Rate"
+          },
+          {
+            "key": "B",
+            "text": "Minimum Charge(最低运费)"
+          },
+          {
+            "key": "C",
+            "text": "45 公斤以上普通货物运价"
+          },
+          {
+            "key": "D",
+            "text": "Specific Commodity Rates（指定商品运价）"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 18,
+        "context": "（二）从上海运往巴黎一件玩具样品，毛重 5.3 公斤，体积尺寸为 41*33*20CM，计算其航空运费。公布运价如下：\nRouting : SHANGHAI, CHINA (SHA) to PARIS, FRANCE（PAR）\nCommodity : TOY\nGross Weight : 5.3KGS\nDimensions : 41cm x 33 cm x 20cm x1\nApplicable Published Rates :\nSHANGHAI CN SHA\nY.RENMINBI CNY KGS\nPARIS FR M 320.00\nN 52.81\n45 44.46\n100 40.93"
+      },
+      {
+        "id": "2021-business-q70",
+        "number": 70,
+        "section": "计算题（二）",
+        "type": "single",
+        "prompt": "按普通运价使用规则计算,若出口商托运 10 件同样的玩具样品，其航空运费应为 CNY( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "1843.00"
+          },
+          {
+            "key": "B",
+            "text": "2356.38"
+          },
+          {
+            "key": "C",
+            "text": "8185.83"
+          },
+          {
+            "key": "D",
+            "text": "10305.00"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "单件玩具Volume Weight： 27060cm3/6000 cm3/kg = 4.51kgs = 5.0kgs ，\n10件玩具航空运费应为：5.3 x 10 x 44.46 = CNY2356.38",
+        "sourcePage": 18,
+        "context": "（二）从上海运往巴黎一件玩具样品，毛重 5.3 公斤，体积尺寸为 41*33*20CM，计算其航空运费。公布运价如下：\nRouting : SHANGHAI, CHINA (SHA) to PARIS, FRANCE（PAR）\nCommodity : TOY\nGross Weight : 5.3KGS\nDimensions : 41cm x 33 cm x 20cm x1\nApplicable Published Rates :\nSHANGHAI CN SHA\nY.RENMINBI CNY KGS\nPARIS FR M 320.00\nN 52.81\n45 44.46\n100 40.93"
+      },
+      {
+        "id": "2021-business-q71",
+        "number": 71,
+        "section": "案例分析题（一）",
+        "type": "single",
+        "prompt": "本案中的托运人是 ( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "“承运人”"
+          },
+          {
+            "key": "B",
+            "text": "“收货人”"
+          },
+          {
+            "key": "C",
+            "text": "“货运站”"
+          },
+          {
+            "key": "D",
+            "text": "“货主”"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "货主委托运输。",
+        "sourcePage": 19,
+        "context": "（一）货主委托承运人将 1000 箱小五金装载进集装箱进行拼箱货运输，承运人委托某货运站装箱。货运站在收到 1000 箱货物后出具仓库收据给货主。货运站在装箱时，根据装箱情况的装箱单上记载 980 箱。货运抵进口国货运站，根据拆箱情况的拆箱单上记载 980 箱。拼箱货的提单上记载 1000 箱小五金货物，同时提单上又加注“由货主装箱、计数”。收货人发现货物 980 箱，便向承运人提出索赔，但承运人拒赔。根据题意，请回答下列问题："
+      },
+      {
+        "id": "2021-business-q72",
+        "number": 72,
+        "section": "案例分析题（一）",
+        "type": "single",
+        "prompt": "对收货人而言，应承担“装箱、计数”义务的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "“货运站”"
+          },
+          {
+            "key": "B",
+            "text": "“货主”"
+          },
+          {
+            "key": "C",
+            "text": "“承运人”"
+          },
+          {
+            "key": "D",
+            "text": "“收货人”"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "承运人的货运站代表承运人收货并装箱的。",
+        "sourcePage": 19,
+        "context": "（一）货主委托承运人将 1000 箱小五金装载进集装箱进行拼箱货运输，承运人委托某货运站装箱。货运站在收到 1000 箱货物后出具仓库收据给货主。货运站在装箱时，根据装箱情况的装箱单上记载 980 箱。货运抵进口国货运站，根据拆箱情况的拆箱单上记载 980 箱。拼箱货的提单上记载 1000 箱小五金货物，同时提单上又加注“由货主装箱、计数”。收货人发现货物 980 箱，便向承运人提出索赔，但承运人拒赔。根据题意，请回答下列问题："
+      },
+      {
+        "id": "2021-business-q73",
+        "number": 73,
+        "section": "案例分析题（一）",
+        "type": "single",
+        "prompt": "适合此货物的交接方式是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "CY-CY"
+          },
+          {
+            "key": "B",
+            "text": "CFS-CFS"
+          },
+          {
+            "key": "C",
+            "text": "CFS-CY"
+          },
+          {
+            "key": "D",
+            "text": "CY-CFS"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "货运站装箱、拆箱。",
+        "sourcePage": 19,
+        "context": "（一）货主委托承运人将 1000 箱小五金装载进集装箱进行拼箱货运输，承运人委托某货运站装箱。货运站在收到 1000 箱货物后出具仓库收据给货主。货运站在装箱时，根据装箱情况的装箱单上记载 980 箱。货运抵进口国货运站，根据拆箱情况的拆箱单上记载 980 箱。拼箱货的提单上记载 1000 箱小五金货物，同时提单上又加注“由货主装箱、计数”。收货人发现货物 980 箱，便向承运人提出索赔，但承运人拒赔。根据题意，请回答下列问题："
+      },
+      {
+        "id": "2021-business-q74",
+        "number": 74,
+        "section": "案例分析题（一）",
+        "type": "single",
+        "prompt": "根据提单，需要对收货人承担货物损失赔偿责任的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "“承运人”"
+          },
+          {
+            "key": "B",
+            "text": "“货主”"
+          },
+          {
+            "key": "C",
+            "text": "“保险公司”"
+          },
+          {
+            "key": "D",
+            "text": "“装箱工人”"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "提单在承运人与收货人之间是绝对证据，收货人有权以承运人未按提单记载数量交货而提出赔偿要求。",
+        "sourcePage": 19,
+        "context": "（一）货主委托承运人将 1000 箱小五金装载进集装箱进行拼箱货运输，承运人委托某货运站装箱。货运站在收到 1000 箱货物后出具仓库收据给货主。货运站在装箱时，根据装箱情况的装箱单上记载 980 箱。货运抵进口国货运站，根据拆箱情况的拆箱单上记载 980 箱。拼箱货的提单上记载 1000 箱小五金货物，同时提单上又加注“由货主装箱、计数”。收货人发现货物 980 箱，便向承运人提出索赔，但承运人拒赔。根据题意，请回答下列问题："
+      },
+      {
+        "id": "2021-business-q75",
+        "number": 75,
+        "section": "案例分析题（一）",
+        "type": "single",
+        "prompt": "如果承担赔偿责任，应当赔偿( )箱。",
+        "options": [
+          {
+            "key": "A",
+            "text": "30"
+          },
+          {
+            "key": "B",
+            "text": "20"
+          },
+          {
+            "key": "C",
+            "text": "40"
+          },
+          {
+            "key": "D",
+            "text": "60"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "差 20 箱。",
+        "sourcePage": 19,
+        "context": "（一）货主委托承运人将 1000 箱小五金装载进集装箱进行拼箱货运输，承运人委托某货运站装箱。货运站在收到 1000 箱货物后出具仓库收据给货主。货运站在装箱时，根据装箱情况的装箱单上记载 980 箱。货运抵进口国货运站，根据拆箱情况的拆箱单上记载 980 箱。拼箱货的提单上记载 1000 箱小五金货物，同时提单上又加注“由货主装箱、计数”。收货人发现货物 980 箱，便向承运人提出索赔，但承运人拒赔。根据题意，请回答下列问题："
+      },
+      {
+        "id": "2021-business-q76",
+        "number": 76,
+        "section": "案例分析题（二）",
+        "type": "single",
+        "prompt": "收货人可以向( )提出索赔。",
+        "options": [
+          {
+            "key": "A",
+            "text": "船舶公司"
+          },
+          {
+            "key": "B",
+            "text": "B 株式会社"
+          },
+          {
+            "key": "C",
+            "text": "长崎港务公司"
+          },
+          {
+            "key": "D",
+            "text": "银行"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "A 公司的损失可要求船舶公司赔偿，因为它没有如实签发提单。",
+        "sourcePage": 20,
+        "context": "（二）我国 A 公司向日本 B 株式会社订购血压检测仪 800 台，合同规定：价格为每台 600 美元 CIF 宁波，2019 年 6 月 30 日长崎港装货。货物于 6 月 30 日在长崎港码头装船，装船时外包装有严重破损，B 株式会社向船舶公司出具了货物品质的保函。船长应该 B 株式会社的请求，出具了清洁提单，B 株式会社据此从银行取得了货款。货物到达宁波后，A 公司发现，血压检测仪外包装箱有严重破损，船舶公司出示了B株式会社提供的保函，认为该事应向B株式会社索赔。 根据题意，请回答下列问题："
+      },
+      {
+        "id": "2021-business-q77",
+        "number": 77,
+        "section": "案例分析题（二）",
+        "type": "single",
+        "prompt": "收货人的索赔依据是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "保险单"
+          },
+          {
+            "key": "B",
+            "text": "保函"
+          },
+          {
+            "key": "C",
+            "text": "清洁提单"
+          },
+          {
+            "key": "D",
+            "text": "码头装卸合同"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "船舶公司出具清洁提单应当承担交货与提单不符的责任。",
+        "sourcePage": 20,
+        "context": "（二）我国 A 公司向日本 B 株式会社订购血压检测仪 800 台，合同规定：价格为每台 600 美元 CIF 宁波，2019 年 6 月 30 日长崎港装货。货物于 6 月 30 日在长崎港码头装船，装船时外包装有严重破损，B 株式会社向船舶公司出具了货物品质的保函。船长应该 B 株式会社的请求，出具了清洁提单，B 株式会社据此从银行取得了货款。货物到达宁波后，A 公司发现，血压检测仪外包装箱有严重破损，船舶公司出示了B株式会社提供的保函，认为该事应向B株式会社索赔。 根据题意，请回答下列问题："
+      },
+      {
+        "id": "2021-business-q78",
+        "number": 78,
+        "section": "案例分析题（二）",
+        "type": "single",
+        "prompt": "对于此次提单没有记载货物不良情况，( )不应该承担责任。",
+        "options": [
+          {
+            "key": "A",
+            "text": "B 株式会社"
+          },
+          {
+            "key": "B",
+            "text": "保险公司"
+          },
+          {
+            "key": "C",
+            "text": "船长"
+          },
+          {
+            "key": "D",
+            "text": "船舶公司"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "因为根据海商法的规定，除合同另有约定以外，对包装不当造成货物损失的，保险人不负赔偿责任。",
+        "sourcePage": 20,
+        "context": "（二）我国 A 公司向日本 B 株式会社订购血压检测仪 800 台，合同规定：价格为每台 600 美元 CIF 宁波，2019 年 6 月 30 日长崎港装货。货物于 6 月 30 日在长崎港码头装船，装船时外包装有严重破损，B 株式会社向船舶公司出具了货物品质的保函。船长应该 B 株式会社的请求，出具了清洁提单，B 株式会社据此从银行取得了货款。货物到达宁波后，A 公司发现，血压检测仪外包装箱有严重破损，船舶公司出示了B株式会社提供的保函，认为该事应向B株式会社索赔。 根据题意，请回答下列问题："
+      },
+      {
+        "id": "2021-business-q79",
+        "number": 79,
+        "section": "案例分析题（二）",
+        "type": "single",
+        "prompt": "船舶公司的损失可能可能向( )追偿",
+        "options": [
+          {
+            "key": "A",
+            "text": "B 株式会社"
+          },
+          {
+            "key": "B",
+            "text": "宁波港"
+          },
+          {
+            "key": "C",
+            "text": "长崎港"
+          },
+          {
+            "key": "D",
+            "text": "A 公司"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "因为 B 株式会社出具保函，因而 B 株式会社依保函对船舶公司承担责任。",
+        "sourcePage": 20,
+        "context": "（二）我国 A 公司向日本 B 株式会社订购血压检测仪 800 台，合同规定：价格为每台 600 美元 CIF 宁波，2019 年 6 月 30 日长崎港装货。货物于 6 月 30 日在长崎港码头装船，装船时外包装有严重破损，B 株式会社向船舶公司出具了货物品质的保函。船长应该 B 株式会社的请求，出具了清洁提单，B 株式会社据此从银行取得了货款。货物到达宁波后，A 公司发现，血压检测仪外包装箱有严重破损，船舶公司出示了B株式会社提供的保函，认为该事应向B株式会社索赔。 根据题意，请回答下列问题："
+      },
+      {
+        "id": "2021-business-q80",
+        "number": 80,
+        "section": "案例分析题（二）",
+        "type": "single",
+        "prompt": "有“外包装破损”批注的提单，称为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "清洁提单"
+          },
+          {
+            "key": "B",
+            "text": "不清洁提单"
+          },
+          {
+            "key": "C",
+            "text": "已装船提单"
+          },
+          {
+            "key": "D",
+            "text": "指示提单"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "在货物装船时，承运人若发现货物包装不牢、破残、渗漏、玷污、标志不清等现象时，大副将在收货单上对此加以批注，并将此批注转移到提单上，这种提单称为不清洁提单。",
+        "sourcePage": 20,
+        "context": "（二）我国 A 公司向日本 B 株式会社订购血压检测仪 800 台，合同规定：价格为每台 600 美元 CIF 宁波，2019 年 6 月 30 日长崎港装货。货物于 6 月 30 日在长崎港码头装船，装船时外包装有严重破损，B 株式会社向船舶公司出具了货物品质的保函。船长应该 B 株式会社的请求，出具了清洁提单，B 株式会社据此从银行取得了货款。货物到达宁波后，A 公司发现，血压检测仪外包装箱有严重破损，船舶公司出示了B株式会社提供的保函，认为该事应向B株式会社索赔。 根据题意，请回答下列问题："
+      },
+      {
+        "id": "2021-business-q81",
+        "number": 81,
+        "section": "操作题（一）",
+        "type": "single",
+        "prompt": "作为收货人的代理人，应当到( )处提取本票货物。",
+        "options": [
+          {
+            "key": "A",
+            "text": "WUJIANG NEW LIGHT GARDEN FURNITURE CO.,LTD"
+          },
+          {
+            "key": "B",
+            "text": "COSCO SHIPPING LINES CO., LTD"
+          },
+          {
+            "key": "C",
+            "text": "MBS LOGISTICS GMBH WAHLER STR. 37, D-40472 DUESSELDORF, GERMANY"
+          },
+          {
+            "key": "D",
+            "text": "ON TIME EXPRESS LTD.(SHANGHAI)"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "这张海运单是中远与海运单收货人之间处理货物的主要依据，因此，其中没有真正的货主，收货人就是 MSB，应该去中远提货。",
+        "sourcePage": 22,
+        "context": "依照所附 SEA WAYBILL，回答下列问题。请查看海运单原图。",
+        "image": "/paper-assets/2021-business-seawaybill.png"
+      },
+      {
+        "id": "2021-business-q82",
+        "number": 82,
+        "section": "操作题（一）",
+        "type": "single",
+        "prompt": "该票货物有( )个集装箱。",
+        "options": [
+          {
+            "key": "A",
+            "text": "1"
+          },
+          {
+            "key": "B",
+            "text": "2"
+          },
+          {
+            "key": "C",
+            "text": "3"
+          },
+          {
+            "key": "D",
+            "text": "4"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 23,
+        "context": "依照所附 SEA WAYBILL，回答下列问题。请查看海运单原图。",
+        "image": "/paper-assets/2021-business-seawaybill.png"
+      },
+      {
+        "id": "2021-business-q83",
+        "number": 83,
+        "section": "操作题（一）",
+        "type": "single",
+        "prompt": "该票货物的卸货港是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "上海"
+          },
+          {
+            "key": "B",
+            "text": "鹿特丹"
+          },
+          {
+            "key": "C",
+            "text": "横滨"
+          },
+          {
+            "key": "D",
+            "text": "莱思罗普"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 23,
+        "context": "依照所附 SEA WAYBILL，回答下列问题。请查看海运单原图。",
+        "image": "/paper-assets/2021-business-seawaybill.png"
+      },
+      {
+        "id": "2021-business-q84",
+        "number": 84,
+        "section": "操作题（一）",
+        "type": "single",
+        "prompt": "该票货物交接的运输条款是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "CY-CY"
+          },
+          {
+            "key": "B",
+            "text": "CY-DOOR"
+          },
+          {
+            "key": "C",
+            "text": "CFS-CY"
+          },
+          {
+            "key": "D",
+            "text": "CY-CFS"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 23,
+        "context": "依照所附 SEA WAYBILL，回答下列问题。请查看海运单原图。",
+        "image": "/paper-assets/2021-business-seawaybill.png"
+      },
+      {
+        "id": "2021-business-q85",
+        "number": 85,
+        "section": "操作题（一）",
+        "type": "single",
+        "prompt": "该票提单是由( )签署。",
+        "options": [
+          {
+            "key": "A",
+            "text": "WUJIANG NEW LIGHT GARDEN FURNITURE CO.,LTD"
+          },
+          {
+            "key": "B",
+            "text": "ADW ECOMMERCE,LLC."
+          },
+          {
+            "key": "C",
+            "text": "DEF CO., LTD."
+          },
+          {
+            "key": "D",
+            "text": "COSCO SHIPPING LINES AGENCY (SHANGHAI) CO.,LTD."
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 23,
+        "context": "依照所附 SEA WAYBILL，回答下列问题。请查看海运单原图。",
+        "image": "/paper-assets/2021-business-seawaybill.png"
+      },
+      {
+        "id": "2021-business-q86",
+        "number": 86,
+        "section": "操作题（二）",
+        "type": "single",
+        "prompt": "在 Airport of Departure and Requested Routing 栏应填写( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "BEIJING"
+          },
+          {
+            "key": "B",
+            "text": "NEW YORK"
+          },
+          {
+            "key": "C",
+            "text": "BAIYUN"
+          },
+          {
+            "key": "D",
+            "text": "LHR"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 24,
+        "context": "(二)根据以下要求填制航空货运单。我国某货主有一批空运出口货物，始发地机场是广州白云国际机场，目的地机场是德国慕尼黑国际机场，运费预付，计费重量是 300.0KGS，没有办理供运输用的声明价值，也没有办理货物保险。"
+      },
+      {
+        "id": "2021-business-q87",
+        "number": 87,
+        "section": "操作题（二）",
+        "type": "single",
+        "prompt": "在货运单上 Declared Value for Carriage 栏应填写( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "CNY"
+          },
+          {
+            "key": "B",
+            "text": "NVD"
+          },
+          {
+            "key": "C",
+            "text": "PPD"
+          },
+          {
+            "key": "D",
+            "text": "XXX"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 24,
+        "context": "(二)根据以下要求填制航空货运单。我国某货主有一批空运出口货物，始发地机场是广州白云国际机场，目的地机场是德国慕尼黑国际机场，运费预付，计费重量是 300.0KGS，没有办理供运输用的声明价值，也没有办理货物保险。"
+      },
+      {
+        "id": "2021-business-q88",
+        "number": 88,
+        "section": "操作题（二）",
+        "type": "single",
+        "prompt": "如果运费是预付，在货运单中应填入它的英文名称( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "FREIGHT COLLECT"
+          },
+          {
+            "key": "B",
+            "text": "FREIGHT PREPAID"
+          },
+          {
+            "key": "C",
+            "text": "CHARGES COLLECT"
+          },
+          {
+            "key": "D",
+            "text": "CHARGES PREPAID"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 24,
+        "context": "(二)根据以下要求填制航空货运单。我国某货主有一批空运出口货物，始发地机场是广州白云国际机场，目的地机场是德国慕尼黑国际机场，运费预付，计费重量是 300.0KGS，没有办理供运输用的声明价值，也没有办理货物保险。"
+      },
+      {
+        "id": "2021-business-q89",
+        "number": 89,
+        "section": "操作题（二）",
+        "type": "single",
+        "prompt": "在货运单上 Amount of Insurance 栏应填写( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "CNY"
+          },
+          {
+            "key": "B",
+            "text": "NVD"
+          },
+          {
+            "key": "C",
+            "text": "PPD"
+          },
+          {
+            "key": "D",
+            "text": "XXX"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 24,
+        "context": "(二)根据以下要求填制航空货运单。我国某货主有一批空运出口货物，始发地机场是广州白云国际机场，目的地机场是德国慕尼黑国际机场，运费预付，计费重量是 300.0KGS，没有办理供运输用的声明价值，也没有办理货物保险。"
+      },
+      {
+        "id": "2021-business-q90",
+        "number": 90,
+        "section": "操作题（二）",
+        "type": "single",
+        "prompt": "在货运单中相应的位置上应填入它的货币代码为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "USD"
+          },
+          {
+            "key": "B",
+            "text": "EUR"
+          },
+          {
+            "key": "C",
+            "text": "CNY"
+          },
+          {
+            "key": "D",
+            "text": "RMB"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 24,
+        "context": "(二)根据以下要求填制航空货运单。我国某货主有一批空运出口货物，始发地机场是广州白云国际机场，目的地机场是德国慕尼黑国际机场，运费预付，计费重量是 300.0KGS，没有办理供运输用的声明价值，也没有办理货物保险。"
+      },
+      {
+        "id": "2021-business-q91",
+        "number": 91,
+        "section": "FIATA 附加·单项选择题",
+        "type": "single",
+        "prompt": "2020 年 11 月 30 日，一架完全采用可持续航空燃料（SAF）的货运航班成功完成了往返飞行，这在商业航空领域尚属首次。作为综合物流服务供应商，德铁信可与德国汉莎货运航空开展合作，共同推出了首个( )货运航班，并通过这次航班为西门子医疗等公司运输货物。",
+        "options": [
+          {
+            "key": "A",
+            "text": "碳中和"
+          },
+          {
+            "key": "B",
+            "text": "中欧班列"
+          },
+          {
+            "key": "C",
+            "text": "空铁联运"
+          },
+          {
+            "key": "D",
+            "text": "海铁快线"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 24
+      },
+      {
+        "id": "2021-business-q92",
+        "number": 92,
+        "section": "FIATA 附加·单项选择题",
+        "type": "single",
+        "prompt": "下列( )是计算船舶各种港口使费，如引航费、灯塔费、停泊费等各项费用的依据。",
+        "options": [
+          {
+            "key": "A",
+            "text": "GT"
+          },
+          {
+            "key": "B",
+            "text": "DWT"
+          },
+          {
+            "key": "C",
+            "text": "NT"
+          },
+          {
+            "key": "D",
+            "text": "CP"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 25
+      },
+      {
+        "id": "2021-business-q93",
+        "number": 93,
+        "section": "FIATA 附加·单项选择题",
+        "type": "single",
+        "prompt": "集装箱号“COSU 800121 5”中，最后一位数字“5”为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "箱主序号"
+          },
+          {
+            "key": "B",
+            "text": "箱型代号"
+          },
+          {
+            "key": "C",
+            "text": "核对数"
+          },
+          {
+            "key": "D",
+            "text": "航次代号"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 25
+      },
+      {
+        "id": "2021-business-q94",
+        "number": 94,
+        "section": "FIATA 附加·判断题",
+        "type": "boolean",
+        "prompt": "受载期是船舶在租船合同规定的日期内到达约定的装货港，并装货完毕的最后期限。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 25
+      },
+      {
+        "id": "2021-business-q95",
+        "number": 95,
+        "section": "FIATA 附加·判断题",
+        "type": "boolean",
+        "prompt": "2019 年 12 月 12 日，在瑞士日内瓦全球媒体日活动上，IATA 联合 GSF、 FIATA 和 TIACA，呼吁各国政府严惩伪劣电池制造商和供应链内错误标签和不符合要求的货物运输行为，追究刑事责任，确保锂电池的安全运输，其中 TIACA 是指国际货运代理协会联合会。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "TIACA 是指国际航空货运协会",
+        "sourcePage": 25
+      },
+      {
+        "id": "2021-business-q96",
+        "number": 96,
+        "section": "FIATA 附加·判断题",
+        "type": "boolean",
+        "prompt": "安全标识中，全色标红色的含义是禁止和紧急停止，也表示防火。( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "",
+        "sourcePage": 25
+      },
+      {
+        "id": "2021-business-q97",
+        "number": 97,
+        "section": "FIATA 附加·多项选择题",
+        "type": "multiple",
+        "prompt": "按我国相关规定，对拟交付船舶运输的集装箱危险货物，托运人在办理危险货物申报时需要递交的单证通常包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "危险货物安全适运申报单"
+          },
+          {
+            "key": "B",
+            "text": "集装箱装运危险货物装箱证明书"
+          },
+          {
+            "key": "C",
+            "text": "危险货物包装检验证明书"
+          },
+          {
+            "key": "D",
+            "text": "危险货物舱单"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "points": 2,
+        "explanation": "在我国，对拟交付船舶运输的危险货物，托运人在办理危险货物申报时需要递交的单证通常包括危险货物安全适运申报单、集装箱装运危险货物装箱证明书、危险货物包装检验证明书。",
+        "sourcePage": 26
+      },
+      {
+        "id": "2021-business-q98",
+        "number": 98,
+        "section": "FIATA 附加·多项选择题",
+        "type": "multiple",
+        "prompt": "智慧物流未来发展的重要方向和能否进一步迭代升级的关键技术主要包括 ( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "物联网"
+          },
+          {
+            "key": "B",
+            "text": "大数据"
+          },
+          {
+            "key": "C",
+            "text": "人工智能"
+          },
+          {
+            "key": "D",
+            "text": "密集存储技术"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "points": 2,
+        "explanation": "",
+        "sourcePage": 26
+      }
+    ]
+  }
+]

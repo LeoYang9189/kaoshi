@@ -1,0 +1,5321 @@
+[
+  {
+    "id": "2023-business",
+    "year": 2023,
+    "subject": "business",
+    "title": "2023 年国际货代业务模拟考试",
+    "durationMinutes": 120,
+    "totalPoints": 110,
+    "sourceFiles": [
+      "2023年货代业务试题.pdf",
+      "2023年货代业务参考答案.pdf"
+    ],
+    "instructions": "单选题只能选择一个答案；判断题 A 为正确、B 为错误；多选题多选、少选、错选均不得分。默认考试时长 120 分钟，可在开始前调整。评分依据上传的参考答案；源文件疑误已在相关题目解析注明。常规题 100 分，另完整保留 FIATA 附加题 10 分，本卷共 110 分。",
+    "questions": [
+      {
+        "id": "2023-business-q1",
+        "number": 1,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "按照《国际贸易术语解释通则 2020》的解释,FAS 术语条件下装货港的驳船费由( ) 负担。",
+        "options": [
+          {
+            "key": "A",
+            "text": "船方"
+          },
+          {
+            "key": "B",
+            "text": "卖方"
+          },
+          {
+            "key": "C",
+            "text": "买方"
+          },
+          {
+            "key": "D",
+            "text": "买方和船方共同"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-business-q2",
+        "number": 2,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "下列贸易术语中,( )术语条件下的装船通知,对于安排保险具有更为重要的意义。",
+        "options": [
+          {
+            "key": "A",
+            "text": "FAS"
+          },
+          {
+            "key": "B",
+            "text": "CIF"
+          },
+          {
+            "key": "C",
+            "text": "FOB"
+          },
+          {
+            "key": "D",
+            "text": "CFR"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-business-q3",
+        "number": 3,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "使用 FREIGHT RPEPAID 的方式支付运费的贸易术语通常是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "FCA"
+          },
+          {
+            "key": "B",
+            "text": "FOB"
+          },
+          {
+            "key": "C",
+            "text": "CIF"
+          },
+          {
+            "key": "D",
+            "text": "FAS"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-business-q4",
+        "number": 4,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "船方提供给租方一定吨位的运力,在确定的港口之间,以事先约定的时间、航次周期和每航次较均等的运量,完成运输合同规定的全部货运量的租船方式是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "航次租船"
+          },
+          {
+            "key": "B",
+            "text": "包运租船"
+          },
+          {
+            "key": "C",
+            "text": "定期租船"
+          },
+          {
+            "key": "D",
+            "text": "光船租船"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-business-q5",
+        "number": 5,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "国际海上集装箱班轮运输实践中可能使用 “货主箱”(SOC),该类箱在海上运输过程中灭失或者损坏需要赔偿时,可以认为它是一种( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "货物的包装"
+          },
+          {
+            "key": "B",
+            "text": "运输设备"
+          },
+          {
+            "key": "C",
+            "text": "运输工具"
+          },
+          {
+            "key": "D",
+            "text": "货物"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-business-q6",
+        "number": 6,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "以下( )原则,不属于液体类航空货物包装必须要遵循的。",
+        "options": [
+          {
+            "key": "A",
+            "text": "容器内至少有 5% ～ 10% 的空隙"
+          },
+          {
+            "key": "B",
+            "text": "封盖严密"
+          },
+          {
+            "key": "C",
+            "text": "每一容器的容量不得超过 500 毫升"
+          },
+          {
+            "key": "D",
+            "text": "每件重量不超过 25 公斤"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-business-q7",
+        "number": 7,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "在国际航空货物运输中 , 航空货运代理和航空公司之间的货物交接凭证是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "HAWB"
+          },
+          {
+            "key": "B",
+            "text": "MAWB"
+          },
+          {
+            "key": "C",
+            "text": "B/L"
+          },
+          {
+            "key": "D",
+            "text": "SLI"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-business-q8",
+        "number": 8,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "在国际海运件杂货运输中,如果单件货物既超长又超重,则超长与超重的附加费通常( )计收。",
+        "options": [
+          {
+            "key": "A",
+            "text": "择大"
+          },
+          {
+            "key": "B",
+            "text": "择小"
+          },
+          {
+            "key": "C",
+            "text": "求和"
+          },
+          {
+            "key": "D",
+            "text": "加倍"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-business-q9",
+        "number": 9,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "标准航空运单正本为三联,每联均注明其用途,注有 “original for consignee ”字样一联的用途是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "送交托运人作为接受货物的证明"
+          },
+          {
+            "key": "B",
+            "text": "交目的地收货人作为核收货物的依据"
+          },
+          {
+            "key": "C",
+            "text": "由承运人留做运费账单和记账凭证"
+          },
+          {
+            "key": "D",
+            "text": "交空运代理人作为代收运费的依据"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-business-q10",
+        "number": 10,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "一般来说,航空运费计价货币应该选择( )货币。",
+        "options": [
+          {
+            "key": "A",
+            "text": "始发国"
+          },
+          {
+            "key": "B",
+            "text": "目的国"
+          },
+          {
+            "key": "C",
+            "text": "美元"
+          },
+          {
+            "key": "D",
+            "text": "都可以"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-business-q11",
+        "number": 11,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "海运提单中必须经背书才能转让的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "记名提单"
+          },
+          {
+            "key": "B",
+            "text": "不记名提单"
+          },
+          {
+            "key": "C",
+            "text": "指示提单"
+          },
+          {
+            "key": "D",
+            "text": "副本提单"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-business-q12",
+        "number": 12,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "航空货运术语中, SCR 表示( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "指定商品运价"
+          },
+          {
+            "key": "B",
+            "text": "比例运价"
+          },
+          {
+            "key": "C",
+            "text": "普通货物运价"
+          },
+          {
+            "key": "D",
+            "text": "等级货物运价"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-business-q13",
+        "number": 13,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "在集装箱集拼业务中,当货物在港口装船出运后,货代公司应及时将( )交给货主,并将装运信息预报给海外拆箱代理人或收货人。",
+        "options": [
+          {
+            "key": "A",
+            "text": "舱单"
+          },
+          {
+            "key": "B",
+            "text": "提单"
+          },
+          {
+            "key": "C",
+            "text": "收货单"
+          },
+          {
+            "key": "D",
+            "text": "托运单"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2023-business-q14",
+        "number": 14,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "提单收货人栏记载: TO THE HOLDER,这表明( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "该提单是记名提单"
+          },
+          {
+            "key": "B",
+            "text": "该提单是不记名提单"
+          },
+          {
+            "key": "C",
+            "text": "收货人是“THE HOLDER”公司"
+          },
+          {
+            "key": "D",
+            "text": "A 和 C"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2023-business-q15",
+        "number": 15,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "集装箱货物的交接方式 CY/ CFS 是指( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "承运人在装货港或其指定的内陆集装箱堆场接受集装箱,并运至卸货港或其指定的内陆集装箱堆场交付给收货人"
+          },
+          {
+            "key": "B",
+            "text": "承运人在装货港或其指定的内陆集装箱货运站装箱,然后将集装箱运至卸货港或其指定的内陆集装箱堆场交付给收货人"
+          },
+          {
+            "key": "C",
+            "text": "承运人在装货港或其指定的内陆集装箱货运站装箱,并运至卸货港或其指定的内陆集装箱货运站拆箱后将货物交付给收货人"
+          },
+          {
+            "key": "D",
+            "text": "承运人在装货港或其指定的内陆集装箱堆场接受集装箱,并运至卸货港或其指定的内陆集装箱货运站拆箱后将货物交付给收货人"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2023-business-q16",
+        "number": 16,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "2016 年 7 月 1 日起,国际海事组织(IMO)发布集装箱强制称重规定。如一辆装载集装箱的拖车过磅重量为 35 吨,车辆自重为 15 吨,集装箱重量为 2 吨,则该集装箱的 VGM 重量应为( )吨。",
+        "options": [
+          {
+            "key": "A",
+            "text": "20"
+          },
+          {
+            "key": "B",
+            "text": "18"
+          },
+          {
+            "key": "C",
+            "text": "35"
+          },
+          {
+            "key": "D",
+            "text": "22"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2023-business-q17",
+        "number": 17,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "布里斯班港(BRISBANE)是中国国际海上集装箱货物运输船舶挂靠的主要港口之一,该港口位于( )上。",
+        "options": [
+          {
+            "key": "A",
+            "text": "远东 - 北美西海岸航线"
+          },
+          {
+            "key": "B",
+            "text": "澳新航线"
+          },
+          {
+            "key": "C",
+            "text": "远东 - 北美东海岸航线"
+          },
+          {
+            "key": "D",
+            "text": "欧地线"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2023-business-q18",
+        "number": 18,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "国际海运集装箱按用途分成不同类型,其中 FR 代表( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "干货箱"
+          },
+          {
+            "key": "B",
+            "text": "冷藏箱"
+          },
+          {
+            "key": "C",
+            "text": "超高箱"
+          },
+          {
+            "key": "D",
+            "text": "框架箱"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2023-business-q19",
+        "number": 19,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "多式联运经营人的性质是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "发货人的代理人或代表"
+          },
+          {
+            "key": "B",
+            "text": "承运人的代理人或代表"
+          },
+          {
+            "key": "C",
+            "text": "多式联运合同中的承运人,运输合同的当事人"
+          },
+          {
+            "key": "D",
+            "text": "A 和 B"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2023-business-q20",
+        "number": 20,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "下列不属于班轮运输特征的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "固定的港口"
+          },
+          {
+            "key": "B",
+            "text": "固定的航线"
+          },
+          {
+            "key": "C",
+            "text": "固定的船舶"
+          },
+          {
+            "key": "D",
+            "text": "固定的船期"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2023-business-q21",
+        "number": 21,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "依据《海关监管作业场所(场地)设置规范》的规定,海关集约封闭式集装箱查验场地对设置独立的冷链货物查验区,应保证查验区域温度控制在( )以下。",
+        "options": [
+          {
+            "key": "A",
+            "text": "25°C"
+          },
+          {
+            "key": "B",
+            "text": "20°C"
+          },
+          {
+            "key": "C",
+            "text": "15°C"
+          },
+          {
+            "key": "D",
+            "text": "12°C"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-business-q22",
+        "number": 22,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "在租船合同中明示“Free in”,主要解决使用( )时货物的装船费用承担问题。",
+        "options": [
+          {
+            "key": "A",
+            "text": "班轮运输"
+          },
+          {
+            "key": "B",
+            "text": "航次租船"
+          },
+          {
+            "key": "C",
+            "text": "定期租船"
+          },
+          {
+            "key": "D",
+            "text": "光船租船"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-business-q23",
+        "number": 23,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "在航空货运操作代码中,表示贵重货物的代码是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "AOG"
+          },
+          {
+            "key": "B",
+            "text": "AVI"
+          },
+          {
+            "key": "C",
+            "text": "VAL"
+          },
+          {
+            "key": "D",
+            "text": "WET"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-business-q24",
+        "number": 24,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "在国际贸易货物运输中,已装船提单的签发日期是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "货物开始装船的日期"
+          },
+          {
+            "key": "B",
+            "text": "货物已经装船完毕的日期"
+          },
+          {
+            "key": "C",
+            "text": "装载船只到达装运港口的日期"
+          },
+          {
+            "key": "D",
+            "text": "大副签发装船收据的日期"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-business-q25",
+        "number": 25,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "当海运提单被善意的第三人持有时,则构成承运人收到货物的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "表面证据"
+          },
+          {
+            "key": "B",
+            "text": "初步证据"
+          },
+          {
+            "key": "C",
+            "text": "相对证据"
+          },
+          {
+            "key": "D",
+            "text": "绝对证据"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-business-q26",
+        "number": 26,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "负责制定《国际贸易术语解释通则 2020》的组织是国际法协会。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-business-q27",
+        "number": 27,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "一切险是水渍险和各种附加险的总和,是保险范围最广的险别。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-business-q28",
+        "number": 28,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "中国《海商法》规定,承运人对每一件货物赔偿责任限额为 666.67SDR。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-business-q29",
+        "number": 29,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "班轮运价按制定形式划分,通常可分为单项费率运价、等级运价和航线运价。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-business-q30",
+        "number": 30,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "货物装船完毕后,托运人要求承运人以晚于该票货物实际装船完毕的日期作为提单签发日期的提单称为顺签提单。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-business-q31",
+        "number": 31,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "通过租船经纪人签订租船合同后,通常由船舶出租人向租船经纪人支付 “经纪人佣金”。航次租船下,因为一方当事人的过错,导致租船合同不能履行时,为了保护租船经纪人的利益,应当在合同中载明如何处理租船经纪人的佣金问题。 1994 年《金康合同》范本规定,在这种情况下由过错方支付原定佣金的 1/4 给租船经纪人。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-business-q32",
+        "number": 32,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "特殊货物如散装油料、冷藏货物及鲜活货物的订舱,应在订舱联系单上列明具体货运温度等要求。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-business-q33",
+        "number": 33,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "国际海运集装箱按用途不同可以分成不同类型的集装箱,其中 “GP”代表超高箱。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-business-q34",
+        "number": 34,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "国际航空货物的计费重量以 0.5kg 为最小单位。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-business-q35",
+        "number": 35,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "航空运输最低运费包括声明价值附加费。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q36",
+        "number": 36,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "采用 GCR 计算运价,如果计算结果低于最低运费,则按最低运费计算。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q37",
+        "number": 37,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "Land Bridge 运输就是“海 - 陆 - 海”的连贯运输。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q38",
+        "number": 38,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "在航空货物运输中,BUC 给予比 ULD 费率更低的运价。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q39",
+        "number": 39,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "航空货物运输中使用集装器时 , 货主可能需要支付诸如集装器滞期费、装拆箱(板) 服务费。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q40",
+        "number": 40,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "对于存入出口监管仓库的货物应支付海关监管手续费。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q41",
+        "number": 41,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "6000cm3/kg 是区分航空货物的重货与轻泡货的基准。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q42",
+        "number": 42,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "从上海运往大阪的一票航空货物,品名是报纸,计费重量是 65 公斤,适用特种货物运价。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q43",
+        "number": 43,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "在航空货物集中托运模式下,货运代理作为集运商向货主出具分运单 , 航空公司向货运代理出具总运单。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q44",
+        "number": 44,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "国际航空快递承接的货物以商业函件和小型样品为主。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q45",
+        "number": 45,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "拼箱货一般不能接受指定某具体船公司,船公司只接受整箱货物的订舱,而不直接接受拼箱货的订舱。一般的货运代理由于货源的局限性,只能集中向几家船公司订舱,很少能满足指定船公司的需求,因此在与货主成交拼箱货运输时,尽量不要接受指定船公司的要求,以免在办理托运时无法满足该要求。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q46",
+        "number": 46,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "从中国内蒙古自治区乌兰察布市开往欧洲的国际铁路联运中欧班列不需要换装作业。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q47",
+        "number": 47,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "中国加入的国际铁路联运公约是《国际货约》。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q48",
+        "number": 48,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "在集装箱运输中,“TEU”和“FEU”二者在集装箱船的载箱量、港口集装箱吞吐量、 允许装载的货物重量和体积等方面都按照两倍关系来进行计算。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q49",
+        "number": 49,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "《国际货协》运单与《国际货约》运单可以互换使用。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q50",
+        "number": 50,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "货物积载因数的大小说明货物的轻重程度。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。\n【源文件核对提示】本题参考答案为 B；同一表述“货物积载因数的大小说明货物的轻重程度”在所附其他年份试卷答案中为 A，源答案存在不一致，复习时请另行核对。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q51",
+        "number": 51,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "根据中国人民保险公司海洋运输货物保险条款的规定 , 下列不属于一般附加险的有 ( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "罢工险"
+          },
+          {
+            "key": "B",
+            "text": "战争险"
+          },
+          {
+            "key": "C",
+            "text": "钩损险"
+          },
+          {
+            "key": "D",
+            "text": "舱面险"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：ABD。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-business-q52",
+        "number": 52,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "国际铁路货物联运运单中发货人添附的文件包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "装箱单"
+          },
+          {
+            "key": "B",
+            "text": "出口货物报关单"
+          },
+          {
+            "key": "C",
+            "text": "出口货物明细单"
+          },
+          {
+            "key": "D",
+            "text": "品质证明书"
+          }
+        ],
+        "answer": [
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：BCD。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2023-business-q53",
+        "number": 53,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "目前 , 自中国运出的货物 , 采用 SCR 运价的主要为中国至( )的食品、海产品、 药品、纺织品等。",
+        "options": [
+          {
+            "key": "A",
+            "text": "日本"
+          },
+          {
+            "key": "B",
+            "text": "美国"
+          },
+          {
+            "key": "C",
+            "text": "加拿大"
+          },
+          {
+            "key": "D",
+            "text": "新加坡"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：ABCD。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2023-business-q54",
+        "number": 54,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "班轮运输中,件杂货的运费计收方式有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "按毛重计费,运价表以“W”表示"
+          },
+          {
+            "key": "B",
+            "text": "按体积计费,运价表以“M”表示"
+          },
+          {
+            "key": "C",
+            "text": "按毛重或体积的高者计费,运价表以 “ W/M ”表示"
+          },
+          {
+            "key": "D",
+            "text": "按商品的价格或件数计费"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：ABCD。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2023-business-q55",
+        "number": 55,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "对装运出口易腐烂变质的食品、冷冻品的船舱、集装箱等运载工具或设备,承运人或集装单位必须在装运前向检验检疫机构申请( )等适载检验。",
+        "options": [
+          {
+            "key": "A",
+            "text": "清洁"
+          },
+          {
+            "key": "B",
+            "text": "卫生"
+          },
+          {
+            "key": "C",
+            "text": "冷藏"
+          },
+          {
+            "key": "D",
+            "text": "密固"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：ABCD。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2023-business-q56",
+        "number": 56,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "在海上集装箱运输中,与缮制普通货物托运单相比,货运代理人缮制危险货物托运单时,需增加( )等内容。",
+        "options": [
+          {
+            "key": "A",
+            "text": "危险货物包装类"
+          },
+          {
+            "key": "B",
+            "text": "危险货物类别"
+          },
+          {
+            "key": "C",
+            "text": "危险货物别名"
+          },
+          {
+            "key": "D",
+            "text": "危险货物联合国编号"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：ABD。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2023-business-q57",
+        "number": 57,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "船舶出租人和承租人签订航次期租订租确认书,在订租确认书中一般应包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "装卸港名称"
+          },
+          {
+            "key": "B",
+            "text": "交还船时间和地点"
+          },
+          {
+            "key": "C",
+            "text": "租金和支付方法"
+          },
+          {
+            "key": "D",
+            "text": "合同范本"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：ACD。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2023-business-q58",
+        "number": 58,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "承运人凭保函签发清洁提单所带来的风险有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "承运人不能以保函对抗善意第三人"
+          },
+          {
+            "key": "B",
+            "text": "承运人可能丧失责任限制的权利"
+          },
+          {
+            "key": "C",
+            "text": "船东保赔协会通常不负责给予赔偿"
+          },
+          {
+            "key": "D",
+            "text": "向托运人追偿也比较困难"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：ABCD。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2023-business-q59",
+        "number": 59,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "下列城市属于 IATA 三个航空运输业务区中的 TC3 的有（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "伦敦"
+          },
+          {
+            "key": "B",
+            "text": "开罗"
+          },
+          {
+            "key": "C",
+            "text": "大阪"
+          },
+          {
+            "key": "D",
+            "text": "釜山"
+          }
+        ],
+        "answer": [
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：CD。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2023-business-q60",
+        "number": 60,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "下列有关“推定全损”的描述,正确的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "被保险货物受损后,修理费用超过货物修复后的价值"
+          },
+          {
+            "key": "B",
+            "text": "被保险货物受损后,修理和续运至目的地的费用,超过货物到达目的地的价值"
+          },
+          {
+            "key": "C",
+            "text": "必须是属于非常性质的损失"
+          },
+          {
+            "key": "D",
+            "text": "为避免实际全损需要花费的施救费用,超过施救后的标的价值"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：ABD。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2023-business-q61",
+        "number": 61,
+        "section": "四、计算题",
+        "type": "single",
+        "prompt": "该票货物的运费吨为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "21.3"
+          },
+          {
+            "key": "B",
+            "text": "17.8"
+          },
+          {
+            "key": "C",
+            "text": "15"
+          },
+          {
+            "key": "D",
+            "text": "40"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 7,
+        "context": "(一)某货船从上海装运件杂货蛋制品 15 吨,21.3 立方米,到英国普利茅斯港, 要求直航,经查:蛋制品的运费计算标准是 W/M,中国-欧洲地中海航线等级费率表属 10 级货物,基本费率为 116 美元 / 吨,普利茅斯港直航附加费,每计费吨为 18 美元, 燃油附加费为 35%。请问:"
+      },
+      {
+        "id": "2023-business-q62",
+        "number": 62,
+        "section": "四、计算题",
+        "type": "single",
+        "prompt": "该票货物每运费吨的附加费总共为 USD( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "80.5"
+          },
+          {
+            "key": "B",
+            "text": "58.6"
+          },
+          {
+            "key": "C",
+            "text": "160.0"
+          },
+          {
+            "key": "D",
+            "text": "16.6"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 7,
+        "context": "(一)某货船从上海装运件杂货蛋制品 15 吨,21.3 立方米,到英国普利茅斯港, 要求直航,经查:蛋制品的运费计算标准是 W/M,中国-欧洲地中海航线等级费率表属 10 级货物,基本费率为 116 美元 / 吨,普利茅斯港直航附加费,每计费吨为 18 美元, 燃油附加费为 35%。请问:"
+      },
+      {
+        "id": "2023-business-q63",
+        "number": 63,
+        "section": "四、计算题",
+        "type": "single",
+        "prompt": "如果改用集装箱运输(该批货物可以装入 1 个 TEU),海运费的基本费率为 USD1500.0/TEU,货币附加费 10%,燃油附加费 20%。改用集装箱运输时,该托运人应支付的运费为 USD( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "1980"
+          },
+          {
+            "key": "B",
+            "text": "700"
+          },
+          {
+            "key": "C",
+            "text": "752.4"
+          },
+          {
+            "key": "D",
+            "text": "1600"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 7,
+        "context": "(一)某货船从上海装运件杂货蛋制品 15 吨,21.3 立方米,到英国普利茅斯港, 要求直航,经查:蛋制品的运费计算标准是 W/M,中国-欧洲地中海航线等级费率表属 10 级货物,基本费率为 116 美元 / 吨,普利茅斯港直航附加费,每计费吨为 18 美元, 燃油附加费为 35%。请问:"
+      },
+      {
+        "id": "2023-business-q64",
+        "number": 64,
+        "section": "四、计算题",
+        "type": "single",
+        "prompt": "下列港口不属中国-欧洲地中海航线的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "MILANO"
+          },
+          {
+            "key": "B",
+            "text": "ISTANBUL"
+          },
+          {
+            "key": "C",
+            "text": "BARCELONA"
+          },
+          {
+            "key": "D",
+            "text": "SANJOSE"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 7,
+        "context": "(一)某货船从上海装运件杂货蛋制品 15 吨,21.3 立方米,到英国普利茅斯港, 要求直航,经查:蛋制品的运费计算标准是 W/M,中国-欧洲地中海航线等级费率表属 10 级货物,基本费率为 116 美元 / 吨,普利茅斯港直航附加费,每计费吨为 18 美元, 燃油附加费为 35%。请问:"
+      },
+      {
+        "id": "2023-business-q65",
+        "number": 65,
+        "section": "四、计算题",
+        "type": "single",
+        "prompt": "如果这批货物以件杂货班轮运输,该托运人应支付总运费为 USD( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "1805.5"
+          },
+          {
+            "key": "B",
+            "text": "1320.0"
+          },
+          {
+            "key": "C",
+            "text": "3718.6"
+          },
+          {
+            "key": "D",
+            "text": "1660.0"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。\n【源文件核对提示】按题干数据计算 (116 + 18 + 116 × 35%) × 21.3 = 3718.98；原选项 C 印为 3718.6，金额存在差异。网站保留原选项并按参考答案 C 评分。",
+        "sourcePage": 7,
+        "context": "(一)某货船从上海装运件杂货蛋制品 15 吨,21.3 立方米,到英国普利茅斯港, 要求直航,经查:蛋制品的运费计算标准是 W/M,中国-欧洲地中海航线等级费率表属 10 级货物,基本费率为 116 美元 / 吨,普利茅斯港直航附加费,每计费吨为 18 美元, 燃油附加费为 35%。请问:"
+      },
+      {
+        "id": "2023-business-q66",
+        "number": 66,
+        "section": "四、计算题",
+        "type": "single",
+        "prompt": "该票货物的 Volume 是( )cm3。",
+        "options": [
+          {
+            "key": "A",
+            "text": "2298460"
+          },
+          {
+            "key": "B",
+            "text": "130662"
+          },
+          {
+            "key": "C",
+            "text": "375"
+          },
+          {
+            "key": "D",
+            "text": "630"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 8,
+        "context": "（二）中国出口商 A 公司交付的一票集中托运出口空运货物，航线为北京至美国波士顿，已知普通货物运价如下：\nRouting: Beijing, CHINA (BJS) to Boston, U.S.A. (BOS)\nCommodity: Gold Watch\nGross Weight: 32.0kgs\nDimensions: 1 Piece 61cm × 51cm × 42cm\n公布运价如下图。",
+        "image": "/paper-assets/2023-business-air-rates.png"
+      },
+      {
+        "id": "2023-business-q67",
+        "number": 67,
+        "section": "四、计算题",
+        "type": "single",
+        "prompt": "该票货物的 Volume Weight 是( )KGS。",
+        "options": [
+          {
+            "key": "A",
+            "text": "50.0"
+          },
+          {
+            "key": "B",
+            "text": "32.0"
+          },
+          {
+            "key": "C",
+            "text": "22.0"
+          },
+          {
+            "key": "D",
+            "text": "35.0"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 8,
+        "context": "（二）中国出口商 A 公司交付的一票集中托运出口空运货物，航线为北京至美国波士顿，已知普通货物运价如下：\nRouting: Beijing, CHINA (BJS) to Boston, U.S.A. (BOS)\nCommodity: Gold Watch\nGross Weight: 32.0kgs\nDimensions: 1 Piece 61cm × 51cm × 42cm\n公布运价如下图。",
+        "image": "/paper-assets/2023-business-air-rates.png"
+      },
+      {
+        "id": "2023-business-q68",
+        "number": 68,
+        "section": "四、计算题",
+        "type": "single",
+        "prompt": "该票货物的 Applicable Rate 是( )CNY/KG。",
+        "options": [
+          {
+            "key": "A",
+            "text": "630.00"
+          },
+          {
+            "key": "B",
+            "text": "159.94"
+          },
+          {
+            "key": "C",
+            "text": "79.97"
+          },
+          {
+            "key": "D",
+            "text": "60.16"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 8,
+        "context": "（二）中国出口商 A 公司交付的一票集中托运出口空运货物，航线为北京至美国波士顿，已知普通货物运价如下：\nRouting: Beijing, CHINA (BJS) to Boston, U.S.A. (BOS)\nCommodity: Gold Watch\nGross Weight: 32.0kgs\nDimensions: 1 Piece 61cm × 51cm × 42cm\n公布运价如下图。",
+        "image": "/paper-assets/2023-business-air-rates.png"
+      },
+      {
+        "id": "2023-business-q69",
+        "number": 69,
+        "section": "四、计算题",
+        "type": "single",
+        "prompt": "该票货物的 Chargeable Weight 是( )KGS。",
+        "options": [
+          {
+            "key": "A",
+            "text": "32.0"
+          },
+          {
+            "key": "B",
+            "text": "50.0"
+          },
+          {
+            "key": "C",
+            "text": "45.0"
+          },
+          {
+            "key": "D",
+            "text": "48.0"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 8,
+        "context": "（二）中国出口商 A 公司交付的一票集中托运出口空运货物，航线为北京至美国波士顿，已知普通货物运价如下：\nRouting: Beijing, CHINA (BJS) to Boston, U.S.A. (BOS)\nCommodity: Gold Watch\nGross Weight: 32.0kgs\nDimensions: 1 Piece 61cm × 51cm × 42cm\n公布运价如下图。",
+        "image": "/paper-assets/2023-business-air-rates.png"
+      },
+      {
+        "id": "2023-business-q70",
+        "number": 70,
+        "section": "四、计算题",
+        "type": "single",
+        "prompt": "该票货物的 Weight Charge 是 CNY( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "14000.00"
+          },
+          {
+            "key": "B",
+            "text": "1375.00"
+          },
+          {
+            "key": "C",
+            "text": "2559.04"
+          },
+          {
+            "key": "D",
+            "text": "5118.08"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 8,
+        "context": "（二）中国出口商 A 公司交付的一票集中托运出口空运货物，航线为北京至美国波士顿，已知普通货物运价如下：\nRouting: Beijing, CHINA (BJS) to Boston, U.S.A. (BOS)\nCommodity: Gold Watch\nGross Weight: 32.0kgs\nDimensions: 1 Piece 61cm × 51cm × 42cm\n公布运价如下图。",
+        "image": "/paper-assets/2023-business-air-rates.png"
+      },
+      {
+        "id": "2023-business-q71",
+        "number": 71,
+        "section": "五、案例分析题",
+        "type": "single",
+        "prompt": "下列( )表示集装箱设备交接单。",
+        "options": [
+          {
+            "key": "A",
+            "text": "EIR"
+          },
+          {
+            "key": "B",
+            "text": "BAF"
+          },
+          {
+            "key": "C",
+            "text": "CY"
+          },
+          {
+            "key": "D",
+            "text": "ETD"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 8,
+        "context": "(一)2022 年 2 月,中国服装进出口公司委托远东贸易运输公司办理 600 个纸箱的男士服装出口手续并投保了一切险。集装箱代理人签发了《集装箱设备交接单》, 远东贸易运输公司将货装上中海航运有限公司所属的“红海”轮,并签发了远东贸易运输公司的清洁联运提单,提单记载:托运人为中国服装进出口公司,收货人凭指示, 装货港中国上海,卸货港日本神户,货物数量 600 个纸箱,分装 6 个 40ft 集装箱。2 月 27 日,该轮抵达目的港日本神户,同日集装箱驳卸到岸。 3 月 4 日,日方收货人 Fast Co., Ltd. 在港口开箱,日本诚信公司出具的拆箱报告称:箱号为 MSCU3784217 的集装箱中,有 15 个纸箱严重湿损,30 个纸箱轻微湿损,2 个纸箱外观完好但箱内所装男士服装数量短少。3 月 6 日,6 个集装箱由卡车运至东京某仓库,同日由新日本商检协会检验。该协会于 3 月 11 日出具商检报告称:51 个纸箱有不同程度的湿损,将湿损衣物的残值冲抵后,实际货损约为 32 000 美元,湿损系集装箱里档左侧顶部有裂痕所致。 请根据上述事例,回答以下问题:"
+      },
+      {
+        "id": "2023-business-q72",
+        "number": 72,
+        "section": "五、案例分析题",
+        "type": "single",
+        "prompt": "集装箱设备交接单上的记录代码 BR、DR、DL 分别代表( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "危标、凹损、丢失"
+          },
+          {
+            "key": "B",
+            "text": "污箱、破损、凹损"
+          },
+          {
+            "key": "C",
+            "text": "破损、丢失、危标"
+          },
+          {
+            "key": "D",
+            "text": "破损、污箱、危标"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 8,
+        "context": "(一)2022 年 2 月,中国服装进出口公司委托远东贸易运输公司办理 600 个纸箱的男士服装出口手续并投保了一切险。集装箱代理人签发了《集装箱设备交接单》, 远东贸易运输公司将货装上中海航运有限公司所属的“红海”轮,并签发了远东贸易运输公司的清洁联运提单,提单记载:托运人为中国服装进出口公司,收货人凭指示, 装货港中国上海,卸货港日本神户,货物数量 600 个纸箱,分装 6 个 40ft 集装箱。2 月 27 日,该轮抵达目的港日本神户,同日集装箱驳卸到岸。 3 月 4 日,日方收货人 Fast Co., Ltd. 在港口开箱,日本诚信公司出具的拆箱报告称:箱号为 MSCU3784217 的集装箱中,有 15 个纸箱严重湿损,30 个纸箱轻微湿损,2 个纸箱外观完好但箱内所装男士服装数量短少。3 月 6 日,6 个集装箱由卡车运至东京某仓库,同日由新日本商检协会检验。该协会于 3 月 11 日出具商检报告称:51 个纸箱有不同程度的湿损,将湿损衣物的残值冲抵后,实际货损约为 32 000 美元,湿损系集装箱里档左侧顶部有裂痕所致。 请根据上述事例,回答以下问题:"
+      },
+      {
+        "id": "2023-business-q73",
+        "number": 73,
+        "section": "五、案例分析题",
+        "type": "single",
+        "prompt": "本案中的提单按收货人的抬头划分属( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "记名提单"
+          },
+          {
+            "key": "B",
+            "text": "空白提单"
+          },
+          {
+            "key": "C",
+            "text": "收货待运提单"
+          },
+          {
+            "key": "D",
+            "text": "指示提单"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 9,
+        "context": "(一)2022 年 2 月,中国服装进出口公司委托远东贸易运输公司办理 600 个纸箱的男士服装出口手续并投保了一切险。集装箱代理人签发了《集装箱设备交接单》, 远东贸易运输公司将货装上中海航运有限公司所属的“红海”轮,并签发了远东贸易运输公司的清洁联运提单,提单记载:托运人为中国服装进出口公司,收货人凭指示, 装货港中国上海,卸货港日本神户,货物数量 600 个纸箱,分装 6 个 40ft 集装箱。2 月 27 日,该轮抵达目的港日本神户,同日集装箱驳卸到岸。 3 月 4 日,日方收货人 Fast Co., Ltd. 在港口开箱,日本诚信公司出具的拆箱报告称:箱号为 MSCU3784217 的集装箱中,有 15 个纸箱严重湿损,30 个纸箱轻微湿损,2 个纸箱外观完好但箱内所装男士服装数量短少。3 月 6 日,6 个集装箱由卡车运至东京某仓库,同日由新日本商检协会检验。该协会于 3 月 11 日出具商检报告称:51 个纸箱有不同程度的湿损,将湿损衣物的残值冲抵后,实际货损约为 32 000 美元,湿损系集装箱里档左侧顶部有裂痕所致。 请根据上述事例,回答以下问题:"
+      },
+      {
+        "id": "2023-business-q74",
+        "number": 74,
+        "section": "五、案例分析题",
+        "type": "single",
+        "prompt": "中国服装进出口公司的出口货物共 6 个 FEU,相当于( )个 TEU。",
+        "options": [
+          {
+            "key": "A",
+            "text": "18"
+          },
+          {
+            "key": "B",
+            "text": "6"
+          },
+          {
+            "key": "C",
+            "text": "12"
+          },
+          {
+            "key": "D",
+            "text": "24"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 9,
+        "context": "(一)2022 年 2 月,中国服装进出口公司委托远东贸易运输公司办理 600 个纸箱的男士服装出口手续并投保了一切险。集装箱代理人签发了《集装箱设备交接单》, 远东贸易运输公司将货装上中海航运有限公司所属的“红海”轮,并签发了远东贸易运输公司的清洁联运提单,提单记载:托运人为中国服装进出口公司,收货人凭指示, 装货港中国上海,卸货港日本神户,货物数量 600 个纸箱,分装 6 个 40ft 集装箱。2 月 27 日,该轮抵达目的港日本神户,同日集装箱驳卸到岸。 3 月 4 日,日方收货人 Fast Co., Ltd. 在港口开箱,日本诚信公司出具的拆箱报告称:箱号为 MSCU3784217 的集装箱中,有 15 个纸箱严重湿损,30 个纸箱轻微湿损,2 个纸箱外观完好但箱内所装男士服装数量短少。3 月 6 日,6 个集装箱由卡车运至东京某仓库,同日由新日本商检协会检验。该协会于 3 月 11 日出具商检报告称:51 个纸箱有不同程度的湿损,将湿损衣物的残值冲抵后,实际货损约为 32 000 美元,湿损系集装箱里档左侧顶部有裂痕所致。 请根据上述事例,回答以下问题:"
+      },
+      {
+        "id": "2023-business-q75",
+        "number": 75,
+        "section": "五、案例分析题",
+        "type": "single",
+        "prompt": "针对外观完好但箱内所装男士服装数量短少的2 个纸箱的货物损失,收货人向( ) 索赔最为方便。",
+        "options": [
+          {
+            "key": "A",
+            "text": "中国服装进出口公司"
+          },
+          {
+            "key": "B",
+            "text": "中海航运有限公司"
+          },
+          {
+            "key": "C",
+            "text": "保险公司"
+          },
+          {
+            "key": "D",
+            "text": "远东贸易运输公司"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 9,
+        "context": "(一)2022 年 2 月,中国服装进出口公司委托远东贸易运输公司办理 600 个纸箱的男士服装出口手续并投保了一切险。集装箱代理人签发了《集装箱设备交接单》, 远东贸易运输公司将货装上中海航运有限公司所属的“红海”轮,并签发了远东贸易运输公司的清洁联运提单,提单记载:托运人为中国服装进出口公司,收货人凭指示, 装货港中国上海,卸货港日本神户,货物数量 600 个纸箱,分装 6 个 40ft 集装箱。2 月 27 日,该轮抵达目的港日本神户,同日集装箱驳卸到岸。 3 月 4 日,日方收货人 Fast Co., Ltd. 在港口开箱,日本诚信公司出具的拆箱报告称:箱号为 MSCU3784217 的集装箱中,有 15 个纸箱严重湿损,30 个纸箱轻微湿损,2 个纸箱外观完好但箱内所装男士服装数量短少。3 月 6 日,6 个集装箱由卡车运至东京某仓库,同日由新日本商检协会检验。该协会于 3 月 11 日出具商检报告称:51 个纸箱有不同程度的湿损,将湿损衣物的残值冲抵后,实际货损约为 32 000 美元,湿损系集装箱里档左侧顶部有裂痕所致。 请根据上述事例,回答以下问题:"
+      },
+      {
+        "id": "2023-business-q76",
+        "number": 76,
+        "section": "五、案例分析题",
+        "type": "single",
+        "prompt": "收货人可以向( )提出索赔。",
+        "options": [
+          {
+            "key": "A",
+            "text": "托运人"
+          },
+          {
+            "key": "B",
+            "text": "保险公司"
+          },
+          {
+            "key": "C",
+            "text": "承运人(航空公司)"
+          },
+          {
+            "key": "D",
+            "text": "货运代理人"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 9,
+        "context": "(二)南京某货主将一批价值 USD10000,计 10 箱的桑蚕丝睡衣通过 A 航空公司办理空运经北京出口至英国伦敦(没有向保险公司投保)。货物交付后,由 B 航空公司的代理人 A 航空公司于 2023 年 1 月 1 日出具了航空货运单。该货运单注明:第一承运人为 B 航空公司,第二承运人是 C 航空公司,货物共 10 箱,重 250 千克 , 货物未声明价值。B航空公司将货物由南京运抵北京,1 月 3日准备按约将货物转交C航空公司时, 发现货物灭失。B 航空公司当日即通过 A 航空公司向货主通知了货物已灭失。为此, 货主向 A 航空公司提出书面索赔要求,要求 A 航空公司全额赔偿。请分析:"
+      },
+      {
+        "id": "2023-business-q77",
+        "number": 77,
+        "section": "五、案例分析题",
+        "type": "single",
+        "prompt": "收货人的索赔依据是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "保险单"
+          },
+          {
+            "key": "B",
+            "text": "航空货运单"
+          },
+          {
+            "key": "C",
+            "text": "清洁提单"
+          },
+          {
+            "key": "D",
+            "text": "码头装卸合同"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 9,
+        "context": "(二)南京某货主将一批价值 USD10000,计 10 箱的桑蚕丝睡衣通过 A 航空公司办理空运经北京出口至英国伦敦(没有向保险公司投保)。货物交付后,由 B 航空公司的代理人 A 航空公司于 2023 年 1 月 1 日出具了航空货运单。该货运单注明:第一承运人为 B 航空公司,第二承运人是 C 航空公司,货物共 10 箱,重 250 千克 , 货物未声明价值。B航空公司将货物由南京运抵北京,1 月 3日准备按约将货物转交C航空公司时, 发现货物灭失。B 航空公司当日即通过 A 航空公司向货主通知了货物已灭失。为此, 货主向 A 航空公司提出书面索赔要求,要求 A 航空公司全额赔偿。请分析:"
+      },
+      {
+        "id": "2023-business-q78",
+        "number": 78,
+        "section": "五、案例分析题",
+        "type": "single",
+        "prompt": "如果赔偿,( )能够享受责任限额。",
+        "options": [
+          {
+            "key": "A",
+            "text": "托运人"
+          },
+          {
+            "key": "B",
+            "text": "保险公司"
+          },
+          {
+            "key": "C",
+            "text": "承运人"
+          },
+          {
+            "key": "D",
+            "text": "货运代理人"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 9,
+        "context": "(二)南京某货主将一批价值 USD10000,计 10 箱的桑蚕丝睡衣通过 A 航空公司办理空运经北京出口至英国伦敦(没有向保险公司投保)。货物交付后,由 B 航空公司的代理人 A 航空公司于 2023 年 1 月 1 日出具了航空货运单。该货运单注明:第一承运人为 B 航空公司,第二承运人是 C 航空公司,货物共 10 箱,重 250 千克 , 货物未声明价值。B航空公司将货物由南京运抵北京,1 月 3日准备按约将货物转交C航空公司时, 发现货物灭失。B 航空公司当日即通过 A 航空公司向货主通知了货物已灭失。为此, 货主向 A 航空公司提出书面索赔要求,要求 A 航空公司全额赔偿。请分析:"
+      },
+      {
+        "id": "2023-business-q79",
+        "number": 79,
+        "section": "五、案例分析题",
+        "type": "single",
+        "prompt": "如果货主要求 A 航空公司赔偿,按照国际航空运输相关规定,最高的赔偿额为 USD( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "5000"
+          },
+          {
+            "key": "B",
+            "text": "3000"
+          },
+          {
+            "key": "C",
+            "text": "8000"
+          },
+          {
+            "key": "D",
+            "text": "9000"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 9,
+        "context": "(二)南京某货主将一批价值 USD10000,计 10 箱的桑蚕丝睡衣通过 A 航空公司办理空运经北京出口至英国伦敦(没有向保险公司投保)。货物交付后,由 B 航空公司的代理人 A 航空公司于 2023 年 1 月 1 日出具了航空货运单。该货运单注明:第一承运人为 B 航空公司,第二承运人是 C 航空公司,货物共 10 箱,重 250 千克 , 货物未声明价值。B航空公司将货物由南京运抵北京,1 月 3日准备按约将货物转交C航空公司时, 发现货物灭失。B 航空公司当日即通过 A 航空公司向货主通知了货物已灭失。为此, 货主向 A 航空公司提出书面索赔要求,要求 A 航空公司全额赔偿。请分析:"
+      },
+      {
+        "id": "2023-business-q80",
+        "number": 80,
+        "section": "五、案例分析题",
+        "type": "single",
+        "prompt": "A 航空公司赔偿后,可以向( )追偿。",
+        "options": [
+          {
+            "key": "A",
+            "text": "托运人"
+          },
+          {
+            "key": "B",
+            "text": "保险公司"
+          },
+          {
+            "key": "C",
+            "text": "承运人"
+          },
+          {
+            "key": "D",
+            "text": "B 航空公司"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 9,
+        "context": "(二)南京某货主将一批价值 USD10000,计 10 箱的桑蚕丝睡衣通过 A 航空公司办理空运经北京出口至英国伦敦(没有向保险公司投保)。货物交付后,由 B 航空公司的代理人 A 航空公司于 2023 年 1 月 1 日出具了航空货运单。该货运单注明:第一承运人为 B 航空公司,第二承运人是 C 航空公司,货物共 10 箱,重 250 千克 , 货物未声明价值。B航空公司将货物由南京运抵北京,1 月 3日准备按约将货物转交C航空公司时, 发现货物灭失。B 航空公司当日即通过 A 航空公司向货主通知了货物已灭失。为此, 货主向 A 航空公司提出书面索赔要求,要求 A 航空公司全额赔偿。请分析:"
+      },
+      {
+        "id": "2023-business-q81",
+        "number": 81,
+        "section": "六、操作题",
+        "type": "single",
+        "prompt": "载运本票货物的集装箱的规格是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "40GP"
+          },
+          {
+            "key": "B",
+            "text": "20GP"
+          },
+          {
+            "key": "C",
+            "text": "40HQ"
+          },
+          {
+            "key": "D",
+            "text": "45HC"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 11,
+        "context": "依照所附 SEA WAYBILL（原卷第 10 页）回答下列问题。",
+        "image": "/paper-assets/2023-business-sea-waybill.png"
+      },
+      {
+        "id": "2023-business-q82",
+        "number": 82,
+        "section": "六、操作题",
+        "type": "single",
+        "prompt": "该票货物有( )个集装箱。",
+        "options": [
+          {
+            "key": "A",
+            "text": "5"
+          },
+          {
+            "key": "B",
+            "text": "1"
+          },
+          {
+            "key": "C",
+            "text": "3"
+          },
+          {
+            "key": "D",
+            "text": "8"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 11,
+        "context": "依照所附 SEA WAYBILL（原卷第 10 页）回答下列问题。",
+        "image": "/paper-assets/2023-business-sea-waybill.png"
+      },
+      {
+        "id": "2023-business-q83",
+        "number": 83,
+        "section": "六、操作题",
+        "type": "single",
+        "prompt": "该票货物的包装总件数是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "730"
+          },
+          {
+            "key": "B",
+            "text": "455"
+          },
+          {
+            "key": "C",
+            "text": "755"
+          },
+          {
+            "key": "D",
+            "text": "775"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 11,
+        "context": "依照所附 SEA WAYBILL（原卷第 10 页）回答下列问题。",
+        "image": "/paper-assets/2023-business-sea-waybill.png"
+      },
+      {
+        "id": "2023-business-q84",
+        "number": 84,
+        "section": "六、操作题",
+        "type": "single",
+        "prompt": "该票货物交接的运输条款是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "CY-CY"
+          },
+          {
+            "key": "B",
+            "text": "CY-DOOR"
+          },
+          {
+            "key": "C",
+            "text": "CFS-CY"
+          },
+          {
+            "key": "D",
+            "text": "CY-CFS"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 11,
+        "context": "依照所附 SEA WAYBILL（原卷第 10 页）回答下列问题。",
+        "image": "/paper-assets/2023-business-sea-waybill.png"
+      },
+      {
+        "id": "2023-business-q85",
+        "number": 85,
+        "section": "六、操作题",
+        "type": "single",
+        "prompt": "该单据属( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "指示提单"
+          },
+          {
+            "key": "B",
+            "text": "不记名提单"
+          },
+          {
+            "key": "C",
+            "text": "海运单"
+          },
+          {
+            "key": "D",
+            "text": "不清洁提单"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 11,
+        "context": "依照所附 SEA WAYBILL（原卷第 10 页）回答下列问题。",
+        "image": "/paper-assets/2023-business-sea-waybill.png"
+      },
+      {
+        "id": "2023-business-q86",
+        "number": 86,
+        "section": "六、操作题",
+        "type": "single",
+        "prompt": "在“Airport of Departure and Requested Routing”栏应填写（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "BEIJING"
+          },
+          {
+            "key": "B",
+            "text": "SZX"
+          },
+          {
+            "key": "C",
+            "text": "PVG"
+          },
+          {
+            "key": "D",
+            "text": "LHR"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 11,
+        "context": "一货主有整套流水线机器需托运,始发地是深圳宝安国际机场,目的地是阿姆斯特丹史基浦机场,运费到付。由于机器比较庞大、件数较多,用了 6 个箱子装运,每箱重量 60 公斤,整套机器的价值 USD6000 ,没有办理供海关用的声明价值。"
+      },
+      {
+        "id": "2023-business-q87",
+        "number": 87,
+        "section": "六、操作题",
+        "type": "single",
+        "prompt": "货运单上“Declared Value for Customs”一栏应填写（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "NVD"
+          },
+          {
+            "key": "B",
+            "text": "XXX"
+          },
+          {
+            "key": "C",
+            "text": "PPD"
+          },
+          {
+            "key": "D",
+            "text": "NCV"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 11,
+        "context": "一货主有整套流水线机器需托运,始发地是深圳宝安国际机场,目的地是阿姆斯特丹史基浦机场,运费到付。由于机器比较庞大、件数较多,用了 6 个箱子装运,每箱重量 60 公斤,整套机器的价值 USD6000 ,没有办理供海关用的声明价值。"
+      },
+      {
+        "id": "2023-business-q88",
+        "number": 88,
+        "section": "六、操作题",
+        "type": "single",
+        "prompt": "如果运费是到付,在货运单中应填入的英文名称为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "FREIGHT COLLECT"
+          },
+          {
+            "key": "B",
+            "text": "FREIGHT PREPAID"
+          },
+          {
+            "key": "C",
+            "text": "CHARGES COLLECT"
+          },
+          {
+            "key": "D",
+            "text": "CHARGES PREPAID"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 11,
+        "context": "一货主有整套流水线机器需托运,始发地是深圳宝安国际机场,目的地是阿姆斯特丹史基浦机场,运费到付。由于机器比较庞大、件数较多,用了 6 个箱子装运,每箱重量 60 公斤,整套机器的价值 USD6000 ,没有办理供海关用的声明价值。"
+      },
+      {
+        "id": "2023-business-q89",
+        "number": 89,
+        "section": "六、操作题",
+        "type": "single",
+        "prompt": "如果这票货物因包含锂电池而产生危险品处理费,则在航空货运单“其他费用(Other charges)”栏应填写的代号为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "AT"
+          },
+          {
+            "key": "B",
+            "text": "PK"
+          },
+          {
+            "key": "C",
+            "text": "AW"
+          },
+          {
+            "key": "D",
+            "text": "RA"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 11,
+        "context": "一货主有整套流水线机器需托运,始发地是深圳宝安国际机场,目的地是阿姆斯特丹史基浦机场,运费到付。由于机器比较庞大、件数较多,用了 6 个箱子装运,每箱重量 60 公斤,整套机器的价值 USD6000 ,没有办理供海关用的声明价值。"
+      },
+      {
+        "id": "2023-business-q90",
+        "number": 90,
+        "section": "六、操作题",
+        "type": "single",
+        "prompt": "在货运单中相应的位置上应填写它的货币代号为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "USD"
+          },
+          {
+            "key": "B",
+            "text": "EUR"
+          },
+          {
+            "key": "C",
+            "text": "CNY"
+          },
+          {
+            "key": "D",
+            "text": "RMB"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 11,
+        "context": "一货主有整套流水线机器需托运,始发地是深圳宝安国际机场,目的地是阿姆斯特丹史基浦机场,运费到付。由于机器比较庞大、件数较多,用了 6 个箱子装运,每箱重量 60 公斤,整套机器的价值 USD6000 ,没有办理供海关用的声明价值。"
+      },
+      {
+        "id": "2023-business-q91",
+        "number": 91,
+        "section": "FIATA 附加题 · 单项选择题",
+        "type": "single",
+        "prompt": "国际道路运输中,运输证也称为( ),实行一车一证制度。",
+        "options": [
+          {
+            "key": "A",
+            "text": "行车许可证"
+          },
+          {
+            "key": "B",
+            "text": "行车路单"
+          },
+          {
+            "key": "C",
+            "text": "货物运单"
+          },
+          {
+            "key": "D",
+            "text": "营运证"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 12
+      },
+      {
+        "id": "2023-business-q92",
+        "number": 92,
+        "section": "FIATA 附加题 · 单项选择题",
+        "type": "single",
+        "prompt": "对多式联运货运事故承担责任的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "多式联运经营人"
+          },
+          {
+            "key": "B",
+            "text": "最后区段承运人"
+          },
+          {
+            "key": "C",
+            "text": "第一区段承运人"
+          },
+          {
+            "key": "D",
+            "text": "造成货损事故的承运人"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 12
+      },
+      {
+        "id": "2023-business-q93",
+        "number": 93,
+        "section": "FIATA 附加题 · 单项选择题",
+        "type": "single",
+        "prompt": "《国际海运危险货物规则》中的第 1 类危险货物是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "放射性物质"
+          },
+          {
+            "key": "B",
+            "text": "易燃液体"
+          },
+          {
+            "key": "C",
+            "text": "爆炸品"
+          },
+          {
+            "key": "D",
+            "text": "腐蚀性物质"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 12
+      },
+      {
+        "id": "2023-business-q94",
+        "number": 94,
+        "section": "FIATA 附加题 · 判断题",
+        "type": "boolean",
+        "prompt": "中欧班列属于国际铁路货物联运方式。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 12
+      },
+      {
+        "id": "2023-business-q95",
+        "number": 95,
+        "section": "FIATA 附加题 · 判断题",
+        "type": "boolean",
+        "prompt": "液体危险货物的闪点越低,说明其危险性越小。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。\n【源文件核对提示】本题参考答案为 A；同一表述“液体危险货物的闪点越低，说明其危险性越小”在所附 2022 年试卷答案中为 B，源答案存在不一致，复习时请另行核对。",
+        "sourcePage": 12
+      },
+      {
+        "id": "2023-business-q96",
+        "number": 96,
+        "section": "FIATA 附加题 · 判断题",
+        "type": "boolean",
+        "prompt": "数字交通“十四五”发展规划提出:推进货运电子运单广泛应用,加快推进危险货物道路运输、冷链物流、零担物流等重点领域实现电子运单管理,推动铁路、公路、 水路、民航、邮政快递等单证信息共享互认,推进电子商务和城市货运配送供应链信息交互共享,推动形成 “一单到底”的高效多式联运体系。 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 12
+      },
+      {
+        "id": "2023-business-q97",
+        "number": 97,
+        "section": "FIATA 附加题 · 多项选择题",
+        "type": "multiple",
+        "prompt": "以下特性属于多式联运方案设计中客户需求特点的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "无限扩展性"
+          },
+          {
+            "key": "B",
+            "text": "可诱导性"
+          },
+          {
+            "key": "C",
+            "text": "多层次性"
+          },
+          {
+            "key": "D",
+            "text": "相对固定性"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：ABC。",
+        "sourcePage": 12
+      },
+      {
+        "id": "2023-business-q98",
+        "number": 98,
+        "section": "FIATA 附加题 · 多项选择题",
+        "type": "multiple",
+        "prompt": "实现“ 双碳 ” 目标已成为国家发展战略,这将带来社会经济各个领域低碳转型的重大变革和挑战。物流行业作为国民经济发展的支柱产业之一,既是能源消耗大户, 也是碳排放大户,肩负着节能降碳的重要使命。其中, “双碳 ” 指的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "碳达峰"
+          },
+          {
+            "key": "B",
+            "text": "碳中和"
+          },
+          {
+            "key": "C",
+            "text": "碳交易"
+          },
+          {
+            "key": "D",
+            "text": "碳储存"
+          }
+        ],
+        "answer": [
+          "A",
+          "B"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：AB。",
+        "sourcePage": 12
+      }
+    ]
+  },
+  {
+    "id": "2023-english",
+    "year": 2023,
+    "subject": "english",
+    "title": "2023 年国际货代英语模拟考试",
+    "durationMinutes": 120,
+    "totalPoints": 100,
+    "sourceFiles": [
+      "2023年货代英语试题.pdf",
+      "2023年货代英语参考答案.pdf"
+    ],
+    "instructions": "单选题只能选择一个答案；判断题 A 为正确、B 为错误；多选题多选、少选、错选均不得分。默认考试时长 120 分钟，可在开始前调整。评分依据上传的参考答案；源文件疑误已在相关题目解析注明。本卷共 100 分。",
+    "questions": [
+      {
+        "id": "2023-english-q1",
+        "number": 1,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "According to INCOTERMS® 2020, the term CIF should be followed by ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "port of loading"
+          },
+          {
+            "key": "B",
+            "text": "port of discharge"
+          },
+          {
+            "key": "C",
+            "text": "place of loading"
+          },
+          {
+            "key": "D",
+            "text": "port of destination"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-english-q2",
+        "number": 2,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "The ( ) is issued by the shipper to the carrier requesting allocation of shipping space.",
+        "options": [
+          {
+            "key": "A",
+            "text": "booking note"
+          },
+          {
+            "key": "B",
+            "text": "mate’s receipt"
+          },
+          {
+            "key": "C",
+            "text": "bill of lading"
+          },
+          {
+            "key": "D",
+            "text": "delivery order"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-english-q3",
+        "number": 3,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "In designing a logistical system, a delicate balance must be maintained between transportation cost and ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "management"
+          },
+          {
+            "key": "B",
+            "text": "information flow"
+          },
+          {
+            "key": "C",
+            "text": "service quality"
+          },
+          {
+            "key": "D",
+            "text": "service quantity"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-english-q4",
+        "number": 4,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "Both TEU and FEU refer to ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "ship"
+          },
+          {
+            "key": "B",
+            "text": "vessel"
+          },
+          {
+            "key": "C",
+            "text": "package"
+          },
+          {
+            "key": "D",
+            "text": "container"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-english-q5",
+        "number": 5,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "A container with several consignments from various shippers is normally called ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "LCL"
+          },
+          {
+            "key": "B",
+            "text": "FCL"
+          },
+          {
+            "key": "C",
+            "text": "DOOR"
+          },
+          {
+            "key": "D",
+            "text": "CFS"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-english-q6",
+        "number": 6,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "The freight forwarder as a consolidator will provide the service in his own name and issue ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "master bill of lading"
+          },
+          {
+            "key": "B",
+            "text": "house bill of lading"
+          },
+          {
+            "key": "C",
+            "text": "direct bill of lading"
+          },
+          {
+            "key": "D",
+            "text": "through bill of lading"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-english-q7",
+        "number": 7,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "Which of the following modes of container transport may not be FCL/FCL? ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "CY/CY"
+          },
+          {
+            "key": "B",
+            "text": "DOOR/DOOR"
+          },
+          {
+            "key": "C",
+            "text": "DOOR/CY"
+          },
+          {
+            "key": "D",
+            "text": "CFS/CFS"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-english-q8",
+        "number": 8,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "( ) can speed up the logistic activity such as handling, loading and unloading, storing, transporting, etc.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Packing"
+          },
+          {
+            "key": "B",
+            "text": "Container"
+          },
+          {
+            "key": "C",
+            "text": "Containerization"
+          },
+          {
+            "key": "D",
+            "text": "Automation"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-english-q9",
+        "number": 9,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "A consignor refers to the person who ( ) goods.",
+        "options": [
+          {
+            "key": "A",
+            "text": "receives"
+          },
+          {
+            "key": "B",
+            "text": "attends to"
+          },
+          {
+            "key": "C",
+            "text": "sends"
+          },
+          {
+            "key": "D",
+            "text": "takes delivery of"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 2
+      },
+      {
+        "id": "2023-english-q10",
+        "number": 10,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "A freight forwarder originally was a(n) ( ) performing on behalf of the exporter/ importer routine tasks.",
+        "options": [
+          {
+            "key": "A",
+            "text": "importer"
+          },
+          {
+            "key": "B",
+            "text": "exporter"
+          },
+          {
+            "key": "C",
+            "text": "shipper"
+          },
+          {
+            "key": "D",
+            "text": "commission agent"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2023-english-q11",
+        "number": 11,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "( ) can be used to exchange for the bill of lading.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Cargo manifest"
+          },
+          {
+            "key": "B",
+            "text": "Shipping note"
+          },
+          {
+            "key": "C",
+            "text": "Delivery order"
+          },
+          {
+            "key": "D",
+            "text": "Mate’s receipt"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2023-english-q12",
+        "number": 12,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "FIATA is a(n) ( ) in the field of transportation.",
+        "options": [
+          {
+            "key": "A",
+            "text": "inter-government organization"
+          },
+          {
+            "key": "B",
+            "text": "non-government organization"
+          },
+          {
+            "key": "C",
+            "text": "profit organization"
+          },
+          {
+            "key": "D",
+            "text": "world trade organization"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2023-english-q13",
+        "number": 13,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "Please point out which of the following descriptions is the characteristic of an air waybill. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "flexible"
+          },
+          {
+            "key": "B",
+            "text": "negotiable"
+          },
+          {
+            "key": "C",
+            "text": "non-negotiable"
+          },
+          {
+            "key": "D",
+            "text": "transferable"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2023-english-q14",
+        "number": 14,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "( ) is used to complete the standardized logistics order processing and system warehousing management mode.",
+        "options": [
+          {
+            "key": "A",
+            "text": "A production data management system"
+          },
+          {
+            "key": "B",
+            "text": "A human resource management system"
+          },
+          {
+            "key": "C",
+            "text": "A customer relationship management"
+          },
+          {
+            "key": "D",
+            "text": "An enterprise resource planning information system"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2023-english-q15",
+        "number": 15,
+        "section": "一、单项选择题",
+        "type": "single",
+        "prompt": "The IMDG Code was formed to ( ) at sea.",
+        "options": [
+          {
+            "key": "A",
+            "text": "keep transport safely"
+          },
+          {
+            "key": "B",
+            "text": "promote trade"
+          },
+          {
+            "key": "C",
+            "text": "keep the peace"
+          },
+          {
+            "key": "D",
+            "text": "prevent all types of pollution"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2023-english-q16",
+        "number": 16,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "The date marked on the S/O is the date on which the carrier takes delivery of the goods. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 3
+      },
+      {
+        "id": "2023-english-q17",
+        "number": 17,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "The first three-digits of an air waybill number stands for the airline that issues the document. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-english-q18",
+        "number": 18,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "Equipment Interchange Receipt is given by the container operator to the container user. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-english-q19",
+        "number": 19,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "The consignee for import goods, the consignor for export goods and the owner of inward and outward articles shall be the person obligated to pay Customs duties. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-english-q20",
+        "number": 20,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "Land bridge and mini-bridge are a combination of transport by road and rail. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-english-q21",
+        "number": 21,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "The forwarders should always arrange for cargo insurance on behalf of the consignor when the consignor has made a sales contract with the buyer under the CFR term. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-english-q22",
+        "number": 22,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "In international air cargo transportation, Specific Commodity Rate is only applicable to named types of cargo. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-english-q23",
+        "number": 23,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "A dock receipt is a document issued by shipper to acknowledge receipt of cargo at the carrier’s shipping terminal. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-english-q24",
+        "number": 24,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "Overseas warehouses occupy large capital and cannot reduce logistics cost. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-english-q25",
+        "number": 25,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "The International Maritime Dangerous Goods Code is applicable to all container cargo- carrying ships around the world. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-english-q26",
+        "number": 26,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "Cross-border e-commerce is different from the traditional trade business. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-english-q27",
+        "number": 27,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "Cross-border e-commerce logistics can not effectively control the inventory backlog. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-english-q28",
+        "number": 28,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "Supply Chain is the management of the flow of resources between the point of origin and the point of consumption in order to meet some requirements. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-english-q29",
+        "number": 29,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "Logistics stage involves the transportation of the products through various channels into the hands of the ultimate customers. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。\n【源文件核对提示】源答案将该表述判为 B，题干关于 logistics stage 的描述可能存在争议，网站保留上传答案供复习核对。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-english-q30",
+        "number": 30,
+        "section": "二、判断题",
+        "type": "boolean",
+        "prompt": "World Skill Competition is organized by World Skill International every two years. ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "正确"
+          },
+          {
+            "key": "B",
+            "text": "错误"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 4
+      },
+      {
+        "id": "2023-english-q31",
+        "number": 31,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "Documents used for container transport include ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "EIR"
+          },
+          {
+            "key": "B",
+            "text": "C/O"
+          },
+          {
+            "key": "C",
+            "text": "CLP"
+          },
+          {
+            "key": "D",
+            "text": "D/R"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：ACD。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-english-q32",
+        "number": 32,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "Bills of lading should be signed by the ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "shipper"
+          },
+          {
+            "key": "B",
+            "text": "duly authorized agent"
+          },
+          {
+            "key": "C",
+            "text": "carrier"
+          },
+          {
+            "key": "D",
+            "text": "consignee"
+          }
+        ],
+        "answer": [
+          "B",
+          "C"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：BC。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-english-q33",
+        "number": 33,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "The processing of orders involves all aspects of managing customer requirements involving ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "order receipt"
+          },
+          {
+            "key": "B",
+            "text": "invoicing"
+          },
+          {
+            "key": "C",
+            "text": "delivery"
+          },
+          {
+            "key": "D",
+            "text": "collection"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：ABCD。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-english-q34",
+        "number": 34,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "The interrelated nature of logistical work involves ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "order processing"
+          },
+          {
+            "key": "B",
+            "text": "transportation"
+          },
+          {
+            "key": "C",
+            "text": "inventory"
+          },
+          {
+            "key": "D",
+            "text": "warehousing, materials handling, and packing"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：ABCD。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-english-q35",
+        "number": 35,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "Cross-border e-commerce is an international business activity that belongs to different Transaction entities in different customs, through e-commerce platforms to ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "conclude transactions"
+          },
+          {
+            "key": "B",
+            "text": "conduct payments and settlements"
+          },
+          {
+            "key": "C",
+            "text": "deliver goods"
+          },
+          {
+            "key": "D",
+            "text": "complete transactions"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：ABCD。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-english-q36",
+        "number": 36,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "The cross-border e-commerce logistics emphasizes the following characteristics: ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "fast logistics response speed"
+          },
+          {
+            "key": "B",
+            "text": "integration of logistics functions"
+          },
+          {
+            "key": "C",
+            "text": "normalization of logistics operation"
+          },
+          {
+            "key": "D",
+            "text": "electronic logistics information"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：ABCD。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-english-q37",
+        "number": 37,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "Dangerous goods may be ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "a pure chemical substance"
+          },
+          {
+            "key": "B",
+            "text": "mixtures"
+          },
+          {
+            "key": "C",
+            "text": "manufactured articles"
+          },
+          {
+            "key": "D",
+            "text": "buildings"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：ABC。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-english-q38",
+        "number": 38,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "The route “Far East to Europe and Mediterranean” in ocean transport covers major European ports of ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "Rotterdam"
+          },
+          {
+            "key": "B",
+            "text": "Antwerp"
+          },
+          {
+            "key": "C",
+            "text": "Vancouver"
+          },
+          {
+            "key": "D",
+            "text": "Hamburg"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：ABD。",
+        "sourcePage": 5
+      },
+      {
+        "id": "2023-english-q39",
+        "number": 39,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "Container freight rates mainly include ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "tramp rate"
+          },
+          {
+            "key": "B",
+            "text": "loading rate"
+          },
+          {
+            "key": "C",
+            "text": "FAK"
+          },
+          {
+            "key": "D",
+            "text": "CBR"
+          }
+        ],
+        "answer": [
+          "C",
+          "D"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：CD。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2023-english-q40",
+        "number": 40,
+        "section": "三、多项选择题",
+        "type": "multiple",
+        "prompt": "FIATA’s main objectives are ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "to unite the freight forwarding industry worldwide"
+          },
+          {
+            "key": "B",
+            "text": "to assist with vocational training for freight forwarders"
+          },
+          {
+            "key": "C",
+            "text": "to unite the transport industry worldwide"
+          },
+          {
+            "key": "D",
+            "text": "to assist with vocational training for importer and exporters"
+          }
+        ],
+        "answer": [
+          "A",
+          "B"
+        ],
+        "points": 2,
+        "explanation": "上传参考答案：AB。",
+        "sourcePage": 6
+      },
+      {
+        "id": "2023-english-q41",
+        "number": 41,
+        "section": "四、完形填空",
+        "type": "single",
+        "prompt": "根据完形填空对话，选择第 41 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "shipment"
+          },
+          {
+            "key": "B",
+            "text": "carry"
+          },
+          {
+            "key": "C",
+            "text": "send"
+          },
+          {
+            "key": "D",
+            "text": "deliver"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 7,
+        "context": "Talking about Forwarding Business\n\nBackground: A Works in Eagle Freight Forwarding Company, who is responsible for client service. B Works in Senda Foreign Trade Company. A received a phone call on Sept. 1st.\n\nA: This is Eagle Freight Forwarding Company, what can I do for you?\n\nB: I’m from Senda Foreign Trade Company. Recently, I have 10,000 sets of jeans ready for ( 41 ) from Shanghai to Rotterdam, so I’d like to make a(n) ( 42 ).\n\nA: Thanks for your inquiry. First, I’d like to ask you some details. What’s your ( 43 ) for shipment?\n\nB: The goods need to be shipped around Sept. 15th and to be delivered before Nov. 10th. (2 minutes later...)\n\nA: There are 2 voyages for your reference. One is that M.V. “Pioneer” will depart on Sept. 15th and arrive on Nov. 6th, the freight ( 44 ) is USD 1400 per TEU. The other is that M.V. “Venture” will depart on Sept. 14th and arrive on Nov. 4th, the freight rate is USD 1500 per TEU. Additional fees apply if you want, like inland transport, port handling, customs fees, and so on.\n\nB: I’d like to appoint your company for the shipment, including inland transport. And I choose ( 45 ) “Pioneer”.\n\nA: Thanks a lot. I will fax you the standard form of power of ( 46 ) in five minutes. Please fill in details such as schedule, number of items, type and size of containers, number of containers, gross weight, volume, trade terms and CFS/CFS or CY/CY selection etc. Please fax back the form with your stamp in 1 hour.\n\nB: OK. In case of commodity inspection, anything else should I send you?\n\nA: Yes, the following things are required: ( 47 ) , trademark license, foreign exchange sales statement, verification form and invoice. We will contact you as soon as possible for extra materials.\n\nB: Thanks.\n\nA: In case of emergency or problems, please contact me as soon as possible. May we have a pleasant cooperation!\n\nB: OK, bye.\n\nBackground: 10,000 sets of jeans were shipped on schedule. A made a phone call to B for further confirmation on Sept. 16th.\n\nA: Is that Senda Foreign Trade Company? This is Eagle Freight Forwarding Company. I’d like to inform you that your 10,000 sets of jeans were shipped on ( 48 ) yesterday. Is there any requirement when making the bill(s) of lading?\n\nB: I need to revise the name of ( 49 ) showed in B/L.\n\nA: I see. I will fax you the standard form of Letter of ( 50 ) for revising name of notify party Showed in the B/L. Please fill in the letter of indemnity. Thanks.\n\nB: OK."
+      },
+      {
+        "id": "2023-english-q42",
+        "number": 42,
+        "section": "四、完形填空",
+        "type": "single",
+        "prompt": "根据完形填空对话，选择第 42 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "offer"
+          },
+          {
+            "key": "B",
+            "text": "counter-offer"
+          },
+          {
+            "key": "C",
+            "text": "complaint"
+          },
+          {
+            "key": "D",
+            "text": "inquiry"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 7,
+        "context": "Talking about Forwarding Business\n\nBackground: A Works in Eagle Freight Forwarding Company, who is responsible for client service. B Works in Senda Foreign Trade Company. A received a phone call on Sept. 1st.\n\nA: This is Eagle Freight Forwarding Company, what can I do for you?\n\nB: I’m from Senda Foreign Trade Company. Recently, I have 10,000 sets of jeans ready for ( 41 ) from Shanghai to Rotterdam, so I’d like to make a(n) ( 42 ).\n\nA: Thanks for your inquiry. First, I’d like to ask you some details. What’s your ( 43 ) for shipment?\n\nB: The goods need to be shipped around Sept. 15th and to be delivered before Nov. 10th. (2 minutes later...)\n\nA: There are 2 voyages for your reference. One is that M.V. “Pioneer” will depart on Sept. 15th and arrive on Nov. 6th, the freight ( 44 ) is USD 1400 per TEU. The other is that M.V. “Venture” will depart on Sept. 14th and arrive on Nov. 4th, the freight rate is USD 1500 per TEU. Additional fees apply if you want, like inland transport, port handling, customs fees, and so on.\n\nB: I’d like to appoint your company for the shipment, including inland transport. And I choose ( 45 ) “Pioneer”.\n\nA: Thanks a lot. I will fax you the standard form of power of ( 46 ) in five minutes. Please fill in details such as schedule, number of items, type and size of containers, number of containers, gross weight, volume, trade terms and CFS/CFS or CY/CY selection etc. Please fax back the form with your stamp in 1 hour.\n\nB: OK. In case of commodity inspection, anything else should I send you?\n\nA: Yes, the following things are required: ( 47 ) , trademark license, foreign exchange sales statement, verification form and invoice. We will contact you as soon as possible for extra materials.\n\nB: Thanks.\n\nA: In case of emergency or problems, please contact me as soon as possible. May we have a pleasant cooperation!\n\nB: OK, bye.\n\nBackground: 10,000 sets of jeans were shipped on schedule. A made a phone call to B for further confirmation on Sept. 16th.\n\nA: Is that Senda Foreign Trade Company? This is Eagle Freight Forwarding Company. I’d like to inform you that your 10,000 sets of jeans were shipped on ( 48 ) yesterday. Is there any requirement when making the bill(s) of lading?\n\nB: I need to revise the name of ( 49 ) showed in B/L.\n\nA: I see. I will fax you the standard form of Letter of ( 50 ) for revising name of notify party Showed in the B/L. Please fill in the letter of indemnity. Thanks.\n\nB: OK."
+      },
+      {
+        "id": "2023-english-q43",
+        "number": 43,
+        "section": "四、完形填空",
+        "type": "single",
+        "prompt": "根据完形填空对话，选择第 43 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "in time"
+          },
+          {
+            "key": "B",
+            "text": "on time"
+          },
+          {
+            "key": "C",
+            "text": "deadline"
+          },
+          {
+            "key": "D",
+            "text": "overtime"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 7,
+        "context": "Talking about Forwarding Business\n\nBackground: A Works in Eagle Freight Forwarding Company, who is responsible for client service. B Works in Senda Foreign Trade Company. A received a phone call on Sept. 1st.\n\nA: This is Eagle Freight Forwarding Company, what can I do for you?\n\nB: I’m from Senda Foreign Trade Company. Recently, I have 10,000 sets of jeans ready for ( 41 ) from Shanghai to Rotterdam, so I’d like to make a(n) ( 42 ).\n\nA: Thanks for your inquiry. First, I’d like to ask you some details. What’s your ( 43 ) for shipment?\n\nB: The goods need to be shipped around Sept. 15th and to be delivered before Nov. 10th. (2 minutes later...)\n\nA: There are 2 voyages for your reference. One is that M.V. “Pioneer” will depart on Sept. 15th and arrive on Nov. 6th, the freight ( 44 ) is USD 1400 per TEU. The other is that M.V. “Venture” will depart on Sept. 14th and arrive on Nov. 4th, the freight rate is USD 1500 per TEU. Additional fees apply if you want, like inland transport, port handling, customs fees, and so on.\n\nB: I’d like to appoint your company for the shipment, including inland transport. And I choose ( 45 ) “Pioneer”.\n\nA: Thanks a lot. I will fax you the standard form of power of ( 46 ) in five minutes. Please fill in details such as schedule, number of items, type and size of containers, number of containers, gross weight, volume, trade terms and CFS/CFS or CY/CY selection etc. Please fax back the form with your stamp in 1 hour.\n\nB: OK. In case of commodity inspection, anything else should I send you?\n\nA: Yes, the following things are required: ( 47 ) , trademark license, foreign exchange sales statement, verification form and invoice. We will contact you as soon as possible for extra materials.\n\nB: Thanks.\n\nA: In case of emergency or problems, please contact me as soon as possible. May we have a pleasant cooperation!\n\nB: OK, bye.\n\nBackground: 10,000 sets of jeans were shipped on schedule. A made a phone call to B for further confirmation on Sept. 16th.\n\nA: Is that Senda Foreign Trade Company? This is Eagle Freight Forwarding Company. I’d like to inform you that your 10,000 sets of jeans were shipped on ( 48 ) yesterday. Is there any requirement when making the bill(s) of lading?\n\nB: I need to revise the name of ( 49 ) showed in B/L.\n\nA: I see. I will fax you the standard form of Letter of ( 50 ) for revising name of notify party Showed in the B/L. Please fill in the letter of indemnity. Thanks.\n\nB: OK."
+      },
+      {
+        "id": "2023-english-q44",
+        "number": 44,
+        "section": "四、完形填空",
+        "type": "single",
+        "prompt": "根据完形填空对话，选择第 44 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "cost"
+          },
+          {
+            "key": "B",
+            "text": "rate"
+          },
+          {
+            "key": "C",
+            "text": "price"
+          },
+          {
+            "key": "D",
+            "text": "fee"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 7,
+        "context": "Talking about Forwarding Business\n\nBackground: A Works in Eagle Freight Forwarding Company, who is responsible for client service. B Works in Senda Foreign Trade Company. A received a phone call on Sept. 1st.\n\nA: This is Eagle Freight Forwarding Company, what can I do for you?\n\nB: I’m from Senda Foreign Trade Company. Recently, I have 10,000 sets of jeans ready for ( 41 ) from Shanghai to Rotterdam, so I’d like to make a(n) ( 42 ).\n\nA: Thanks for your inquiry. First, I’d like to ask you some details. What’s your ( 43 ) for shipment?\n\nB: The goods need to be shipped around Sept. 15th and to be delivered before Nov. 10th. (2 minutes later...)\n\nA: There are 2 voyages for your reference. One is that M.V. “Pioneer” will depart on Sept. 15th and arrive on Nov. 6th, the freight ( 44 ) is USD 1400 per TEU. The other is that M.V. “Venture” will depart on Sept. 14th and arrive on Nov. 4th, the freight rate is USD 1500 per TEU. Additional fees apply if you want, like inland transport, port handling, customs fees, and so on.\n\nB: I’d like to appoint your company for the shipment, including inland transport. And I choose ( 45 ) “Pioneer”.\n\nA: Thanks a lot. I will fax you the standard form of power of ( 46 ) in five minutes. Please fill in details such as schedule, number of items, type and size of containers, number of containers, gross weight, volume, trade terms and CFS/CFS or CY/CY selection etc. Please fax back the form with your stamp in 1 hour.\n\nB: OK. In case of commodity inspection, anything else should I send you?\n\nA: Yes, the following things are required: ( 47 ) , trademark license, foreign exchange sales statement, verification form and invoice. We will contact you as soon as possible for extra materials.\n\nB: Thanks.\n\nA: In case of emergency or problems, please contact me as soon as possible. May we have a pleasant cooperation!\n\nB: OK, bye.\n\nBackground: 10,000 sets of jeans were shipped on schedule. A made a phone call to B for further confirmation on Sept. 16th.\n\nA: Is that Senda Foreign Trade Company? This is Eagle Freight Forwarding Company. I’d like to inform you that your 10,000 sets of jeans were shipped on ( 48 ) yesterday. Is there any requirement when making the bill(s) of lading?\n\nB: I need to revise the name of ( 49 ) showed in B/L.\n\nA: I see. I will fax you the standard form of Letter of ( 50 ) for revising name of notify party Showed in the B/L. Please fill in the letter of indemnity. Thanks.\n\nB: OK."
+      },
+      {
+        "id": "2023-english-q45",
+        "number": 45,
+        "section": "四、完形填空",
+        "type": "single",
+        "prompt": "根据完形填空对话，选择第 45 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "M.S"
+          },
+          {
+            "key": "B",
+            "text": "A.V"
+          },
+          {
+            "key": "C",
+            "text": "S.B"
+          },
+          {
+            "key": "D",
+            "text": "M.V."
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 7,
+        "context": "Talking about Forwarding Business\n\nBackground: A Works in Eagle Freight Forwarding Company, who is responsible for client service. B Works in Senda Foreign Trade Company. A received a phone call on Sept. 1st.\n\nA: This is Eagle Freight Forwarding Company, what can I do for you?\n\nB: I’m from Senda Foreign Trade Company. Recently, I have 10,000 sets of jeans ready for ( 41 ) from Shanghai to Rotterdam, so I’d like to make a(n) ( 42 ).\n\nA: Thanks for your inquiry. First, I’d like to ask you some details. What’s your ( 43 ) for shipment?\n\nB: The goods need to be shipped around Sept. 15th and to be delivered before Nov. 10th. (2 minutes later...)\n\nA: There are 2 voyages for your reference. One is that M.V. “Pioneer” will depart on Sept. 15th and arrive on Nov. 6th, the freight ( 44 ) is USD 1400 per TEU. The other is that M.V. “Venture” will depart on Sept. 14th and arrive on Nov. 4th, the freight rate is USD 1500 per TEU. Additional fees apply if you want, like inland transport, port handling, customs fees, and so on.\n\nB: I’d like to appoint your company for the shipment, including inland transport. And I choose ( 45 ) “Pioneer”.\n\nA: Thanks a lot. I will fax you the standard form of power of ( 46 ) in five minutes. Please fill in details such as schedule, number of items, type and size of containers, number of containers, gross weight, volume, trade terms and CFS/CFS or CY/CY selection etc. Please fax back the form with your stamp in 1 hour.\n\nB: OK. In case of commodity inspection, anything else should I send you?\n\nA: Yes, the following things are required: ( 47 ) , trademark license, foreign exchange sales statement, verification form and invoice. We will contact you as soon as possible for extra materials.\n\nB: Thanks.\n\nA: In case of emergency or problems, please contact me as soon as possible. May we have a pleasant cooperation!\n\nB: OK, bye.\n\nBackground: 10,000 sets of jeans were shipped on schedule. A made a phone call to B for further confirmation on Sept. 16th.\n\nA: Is that Senda Foreign Trade Company? This is Eagle Freight Forwarding Company. I’d like to inform you that your 10,000 sets of jeans were shipped on ( 48 ) yesterday. Is there any requirement when making the bill(s) of lading?\n\nB: I need to revise the name of ( 49 ) showed in B/L.\n\nA: I see. I will fax you the standard form of Letter of ( 50 ) for revising name of notify party Showed in the B/L. Please fill in the letter of indemnity. Thanks.\n\nB: OK."
+      },
+      {
+        "id": "2023-english-q46",
+        "number": 46,
+        "section": "四、完形填空",
+        "type": "single",
+        "prompt": "根据完形填空对话，选择第 46 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "attorney"
+          },
+          {
+            "key": "B",
+            "text": "law"
+          },
+          {
+            "key": "C",
+            "text": "knowledge"
+          },
+          {
+            "key": "D",
+            "text": "line"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 7,
+        "context": "Talking about Forwarding Business\n\nBackground: A Works in Eagle Freight Forwarding Company, who is responsible for client service. B Works in Senda Foreign Trade Company. A received a phone call on Sept. 1st.\n\nA: This is Eagle Freight Forwarding Company, what can I do for you?\n\nB: I’m from Senda Foreign Trade Company. Recently, I have 10,000 sets of jeans ready for ( 41 ) from Shanghai to Rotterdam, so I’d like to make a(n) ( 42 ).\n\nA: Thanks for your inquiry. First, I’d like to ask you some details. What’s your ( 43 ) for shipment?\n\nB: The goods need to be shipped around Sept. 15th and to be delivered before Nov. 10th. (2 minutes later...)\n\nA: There are 2 voyages for your reference. One is that M.V. “Pioneer” will depart on Sept. 15th and arrive on Nov. 6th, the freight ( 44 ) is USD 1400 per TEU. The other is that M.V. “Venture” will depart on Sept. 14th and arrive on Nov. 4th, the freight rate is USD 1500 per TEU. Additional fees apply if you want, like inland transport, port handling, customs fees, and so on.\n\nB: I’d like to appoint your company for the shipment, including inland transport. And I choose ( 45 ) “Pioneer”.\n\nA: Thanks a lot. I will fax you the standard form of power of ( 46 ) in five minutes. Please fill in details such as schedule, number of items, type and size of containers, number of containers, gross weight, volume, trade terms and CFS/CFS or CY/CY selection etc. Please fax back the form with your stamp in 1 hour.\n\nB: OK. In case of commodity inspection, anything else should I send you?\n\nA: Yes, the following things are required: ( 47 ) , trademark license, foreign exchange sales statement, verification form and invoice. We will contact you as soon as possible for extra materials.\n\nB: Thanks.\n\nA: In case of emergency or problems, please contact me as soon as possible. May we have a pleasant cooperation!\n\nB: OK, bye.\n\nBackground: 10,000 sets of jeans were shipped on schedule. A made a phone call to B for further confirmation on Sept. 16th.\n\nA: Is that Senda Foreign Trade Company? This is Eagle Freight Forwarding Company. I’d like to inform you that your 10,000 sets of jeans were shipped on ( 48 ) yesterday. Is there any requirement when making the bill(s) of lading?\n\nB: I need to revise the name of ( 49 ) showed in B/L.\n\nA: I see. I will fax you the standard form of Letter of ( 50 ) for revising name of notify party Showed in the B/L. Please fill in the letter of indemnity. Thanks.\n\nB: OK."
+      },
+      {
+        "id": "2023-english-q47",
+        "number": 47,
+        "section": "四、完形填空",
+        "type": "single",
+        "prompt": "根据完形填空对话，选择第 47 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "C/N"
+          },
+          {
+            "key": "B",
+            "text": "C/D"
+          },
+          {
+            "key": "C",
+            "text": "D/O"
+          },
+          {
+            "key": "D",
+            "text": "C/O"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 7,
+        "context": "Talking about Forwarding Business\n\nBackground: A Works in Eagle Freight Forwarding Company, who is responsible for client service. B Works in Senda Foreign Trade Company. A received a phone call on Sept. 1st.\n\nA: This is Eagle Freight Forwarding Company, what can I do for you?\n\nB: I’m from Senda Foreign Trade Company. Recently, I have 10,000 sets of jeans ready for ( 41 ) from Shanghai to Rotterdam, so I’d like to make a(n) ( 42 ).\n\nA: Thanks for your inquiry. First, I’d like to ask you some details. What’s your ( 43 ) for shipment?\n\nB: The goods need to be shipped around Sept. 15th and to be delivered before Nov. 10th. (2 minutes later...)\n\nA: There are 2 voyages for your reference. One is that M.V. “Pioneer” will depart on Sept. 15th and arrive on Nov. 6th, the freight ( 44 ) is USD 1400 per TEU. The other is that M.V. “Venture” will depart on Sept. 14th and arrive on Nov. 4th, the freight rate is USD 1500 per TEU. Additional fees apply if you want, like inland transport, port handling, customs fees, and so on.\n\nB: I’d like to appoint your company for the shipment, including inland transport. And I choose ( 45 ) “Pioneer”.\n\nA: Thanks a lot. I will fax you the standard form of power of ( 46 ) in five minutes. Please fill in details such as schedule, number of items, type and size of containers, number of containers, gross weight, volume, trade terms and CFS/CFS or CY/CY selection etc. Please fax back the form with your stamp in 1 hour.\n\nB: OK. In case of commodity inspection, anything else should I send you?\n\nA: Yes, the following things are required: ( 47 ) , trademark license, foreign exchange sales statement, verification form and invoice. We will contact you as soon as possible for extra materials.\n\nB: Thanks.\n\nA: In case of emergency or problems, please contact me as soon as possible. May we have a pleasant cooperation!\n\nB: OK, bye.\n\nBackground: 10,000 sets of jeans were shipped on schedule. A made a phone call to B for further confirmation on Sept. 16th.\n\nA: Is that Senda Foreign Trade Company? This is Eagle Freight Forwarding Company. I’d like to inform you that your 10,000 sets of jeans were shipped on ( 48 ) yesterday. Is there any requirement when making the bill(s) of lading?\n\nB: I need to revise the name of ( 49 ) showed in B/L.\n\nA: I see. I will fax you the standard form of Letter of ( 50 ) for revising name of notify party Showed in the B/L. Please fill in the letter of indemnity. Thanks.\n\nB: OK."
+      },
+      {
+        "id": "2023-english-q48",
+        "number": 48,
+        "section": "四、完形填空",
+        "type": "single",
+        "prompt": "根据完形填空对话，选择第 48 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "schedule"
+          },
+          {
+            "key": "B",
+            "text": "time"
+          },
+          {
+            "key": "C",
+            "text": "display"
+          },
+          {
+            "key": "D",
+            "text": "aboard"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。\n【源文件核对提示】原题短文印为“shipped on (48)”，而参考答案 D 为 aboard，搭配存在疑问；网站保留原题及上传答案。",
+        "sourcePage": 8,
+        "context": "Talking about Forwarding Business\n\nBackground: A Works in Eagle Freight Forwarding Company, who is responsible for client service. B Works in Senda Foreign Trade Company. A received a phone call on Sept. 1st.\n\nA: This is Eagle Freight Forwarding Company, what can I do for you?\n\nB: I’m from Senda Foreign Trade Company. Recently, I have 10,000 sets of jeans ready for ( 41 ) from Shanghai to Rotterdam, so I’d like to make a(n) ( 42 ).\n\nA: Thanks for your inquiry. First, I’d like to ask you some details. What’s your ( 43 ) for shipment?\n\nB: The goods need to be shipped around Sept. 15th and to be delivered before Nov. 10th. (2 minutes later...)\n\nA: There are 2 voyages for your reference. One is that M.V. “Pioneer” will depart on Sept. 15th and arrive on Nov. 6th, the freight ( 44 ) is USD 1400 per TEU. The other is that M.V. “Venture” will depart on Sept. 14th and arrive on Nov. 4th, the freight rate is USD 1500 per TEU. Additional fees apply if you want, like inland transport, port handling, customs fees, and so on.\n\nB: I’d like to appoint your company for the shipment, including inland transport. And I choose ( 45 ) “Pioneer”.\n\nA: Thanks a lot. I will fax you the standard form of power of ( 46 ) in five minutes. Please fill in details such as schedule, number of items, type and size of containers, number of containers, gross weight, volume, trade terms and CFS/CFS or CY/CY selection etc. Please fax back the form with your stamp in 1 hour.\n\nB: OK. In case of commodity inspection, anything else should I send you?\n\nA: Yes, the following things are required: ( 47 ) , trademark license, foreign exchange sales statement, verification form and invoice. We will contact you as soon as possible for extra materials.\n\nB: Thanks.\n\nA: In case of emergency or problems, please contact me as soon as possible. May we have a pleasant cooperation!\n\nB: OK, bye.\n\nBackground: 10,000 sets of jeans were shipped on schedule. A made a phone call to B for further confirmation on Sept. 16th.\n\nA: Is that Senda Foreign Trade Company? This is Eagle Freight Forwarding Company. I’d like to inform you that your 10,000 sets of jeans were shipped on ( 48 ) yesterday. Is there any requirement when making the bill(s) of lading?\n\nB: I need to revise the name of ( 49 ) showed in B/L.\n\nA: I see. I will fax you the standard form of Letter of ( 50 ) for revising name of notify party Showed in the B/L. Please fill in the letter of indemnity. Thanks.\n\nB: OK."
+      },
+      {
+        "id": "2023-english-q49",
+        "number": 49,
+        "section": "四、完形填空",
+        "type": "single",
+        "prompt": "根据完形填空对话，选择第 49 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "shipper"
+          },
+          {
+            "key": "B",
+            "text": "consignor"
+          },
+          {
+            "key": "C",
+            "text": "notify party"
+          },
+          {
+            "key": "D",
+            "text": "consignee"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 8,
+        "context": "Talking about Forwarding Business\n\nBackground: A Works in Eagle Freight Forwarding Company, who is responsible for client service. B Works in Senda Foreign Trade Company. A received a phone call on Sept. 1st.\n\nA: This is Eagle Freight Forwarding Company, what can I do for you?\n\nB: I’m from Senda Foreign Trade Company. Recently, I have 10,000 sets of jeans ready for ( 41 ) from Shanghai to Rotterdam, so I’d like to make a(n) ( 42 ).\n\nA: Thanks for your inquiry. First, I’d like to ask you some details. What’s your ( 43 ) for shipment?\n\nB: The goods need to be shipped around Sept. 15th and to be delivered before Nov. 10th. (2 minutes later...)\n\nA: There are 2 voyages for your reference. One is that M.V. “Pioneer” will depart on Sept. 15th and arrive on Nov. 6th, the freight ( 44 ) is USD 1400 per TEU. The other is that M.V. “Venture” will depart on Sept. 14th and arrive on Nov. 4th, the freight rate is USD 1500 per TEU. Additional fees apply if you want, like inland transport, port handling, customs fees, and so on.\n\nB: I’d like to appoint your company for the shipment, including inland transport. And I choose ( 45 ) “Pioneer”.\n\nA: Thanks a lot. I will fax you the standard form of power of ( 46 ) in five minutes. Please fill in details such as schedule, number of items, type and size of containers, number of containers, gross weight, volume, trade terms and CFS/CFS or CY/CY selection etc. Please fax back the form with your stamp in 1 hour.\n\nB: OK. In case of commodity inspection, anything else should I send you?\n\nA: Yes, the following things are required: ( 47 ) , trademark license, foreign exchange sales statement, verification form and invoice. We will contact you as soon as possible for extra materials.\n\nB: Thanks.\n\nA: In case of emergency or problems, please contact me as soon as possible. May we have a pleasant cooperation!\n\nB: OK, bye.\n\nBackground: 10,000 sets of jeans were shipped on schedule. A made a phone call to B for further confirmation on Sept. 16th.\n\nA: Is that Senda Foreign Trade Company? This is Eagle Freight Forwarding Company. I’d like to inform you that your 10,000 sets of jeans were shipped on ( 48 ) yesterday. Is there any requirement when making the bill(s) of lading?\n\nB: I need to revise the name of ( 49 ) showed in B/L.\n\nA: I see. I will fax you the standard form of Letter of ( 50 ) for revising name of notify party Showed in the B/L. Please fill in the letter of indemnity. Thanks.\n\nB: OK."
+      },
+      {
+        "id": "2023-english-q50",
+        "number": 50,
+        "section": "四、完形填空",
+        "type": "single",
+        "prompt": "根据完形填空对话，选择第 50 空的最佳答案。",
+        "options": [
+          {
+            "key": "A",
+            "text": "Credit"
+          },
+          {
+            "key": "B",
+            "text": "Indemnity"
+          },
+          {
+            "key": "C",
+            "text": "Authorization"
+          },
+          {
+            "key": "D",
+            "text": "Appointment"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 8,
+        "context": "Talking about Forwarding Business\n\nBackground: A Works in Eagle Freight Forwarding Company, who is responsible for client service. B Works in Senda Foreign Trade Company. A received a phone call on Sept. 1st.\n\nA: This is Eagle Freight Forwarding Company, what can I do for you?\n\nB: I’m from Senda Foreign Trade Company. Recently, I have 10,000 sets of jeans ready for ( 41 ) from Shanghai to Rotterdam, so I’d like to make a(n) ( 42 ).\n\nA: Thanks for your inquiry. First, I’d like to ask you some details. What’s your ( 43 ) for shipment?\n\nB: The goods need to be shipped around Sept. 15th and to be delivered before Nov. 10th. (2 minutes later...)\n\nA: There are 2 voyages for your reference. One is that M.V. “Pioneer” will depart on Sept. 15th and arrive on Nov. 6th, the freight ( 44 ) is USD 1400 per TEU. The other is that M.V. “Venture” will depart on Sept. 14th and arrive on Nov. 4th, the freight rate is USD 1500 per TEU. Additional fees apply if you want, like inland transport, port handling, customs fees, and so on.\n\nB: I’d like to appoint your company for the shipment, including inland transport. And I choose ( 45 ) “Pioneer”.\n\nA: Thanks a lot. I will fax you the standard form of power of ( 46 ) in five minutes. Please fill in details such as schedule, number of items, type and size of containers, number of containers, gross weight, volume, trade terms and CFS/CFS or CY/CY selection etc. Please fax back the form with your stamp in 1 hour.\n\nB: OK. In case of commodity inspection, anything else should I send you?\n\nA: Yes, the following things are required: ( 47 ) , trademark license, foreign exchange sales statement, verification form and invoice. We will contact you as soon as possible for extra materials.\n\nB: Thanks.\n\nA: In case of emergency or problems, please contact me as soon as possible. May we have a pleasant cooperation!\n\nB: OK, bye.\n\nBackground: 10,000 sets of jeans were shipped on schedule. A made a phone call to B for further confirmation on Sept. 16th.\n\nA: Is that Senda Foreign Trade Company? This is Eagle Freight Forwarding Company. I’d like to inform you that your 10,000 sets of jeans were shipped on ( 48 ) yesterday. Is there any requirement when making the bill(s) of lading?\n\nB: I need to revise the name of ( 49 ) showed in B/L.\n\nA: I see. I will fax you the standard form of Letter of ( 50 ) for revising name of notify party Showed in the B/L. Please fill in the letter of indemnity. Thanks.\n\nB: OK."
+      },
+      {
+        "id": "2023-english-q51",
+        "number": 51,
+        "section": "五、英译汉",
+        "type": "single",
+        "prompt": "Cargo Canvassing ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "揽货"
+          },
+          {
+            "key": "B",
+            "text": "送货"
+          },
+          {
+            "key": "C",
+            "text": "出货"
+          },
+          {
+            "key": "D",
+            "text": "理货"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2023-english-q52",
+        "number": 52,
+        "section": "五、英译汉",
+        "type": "single",
+        "prompt": "Cargo Manifest ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "货物收据"
+          },
+          {
+            "key": "B",
+            "text": "货物凭证"
+          },
+          {
+            "key": "C",
+            "text": "货物舱单"
+          },
+          {
+            "key": "D",
+            "text": "提货单"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2023-english-q53",
+        "number": 53,
+        "section": "五、英译汉",
+        "type": "single",
+        "prompt": "NVOCC ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "国际航空运输协会"
+          },
+          {
+            "key": "B",
+            "text": "海运货物运价手册"
+          },
+          {
+            "key": "C",
+            "text": "陆运货物运价手册"
+          },
+          {
+            "key": "D",
+            "text": "无船承运人"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2023-english-q54",
+        "number": 54,
+        "section": "五、英译汉",
+        "type": "single",
+        "prompt": "Letter of Instruction ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "委托书"
+          },
+          {
+            "key": "B",
+            "text": "律师函"
+          },
+          {
+            "key": "C",
+            "text": "保函"
+          },
+          {
+            "key": "D",
+            "text": "代理费"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2023-english-q55",
+        "number": 55,
+        "section": "五、英译汉",
+        "type": "single",
+        "prompt": "Cold Chain Logistics ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "冷链物流"
+          },
+          {
+            "key": "B",
+            "text": "物流"
+          },
+          {
+            "key": "C",
+            "text": "冷链"
+          },
+          {
+            "key": "D",
+            "text": "寒流"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2023-english-q56",
+        "number": 56,
+        "section": "五、英译汉",
+        "type": "single",
+        "prompt": "Inventory Strategy ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "库存策略"
+          },
+          {
+            "key": "B",
+            "text": "货物凭证"
+          },
+          {
+            "key": "C",
+            "text": "货物舱单"
+          },
+          {
+            "key": "D",
+            "text": "库存积压"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2023-english-q57",
+        "number": 57,
+        "section": "五、英译汉",
+        "type": "single",
+        "prompt": "Cross-border E-commerce ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "电子商务"
+          },
+          {
+            "key": "B",
+            "text": "跨境电子商务"
+          },
+          {
+            "key": "C",
+            "text": "跨国界贸易"
+          },
+          {
+            "key": "D",
+            "text": "国际贸易"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2023-english-q58",
+        "number": 58,
+        "section": "五、英译汉",
+        "type": "single",
+        "prompt": "Overseas Warehouse ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "海外贸易"
+          },
+          {
+            "key": "B",
+            "text": "仓库"
+          },
+          {
+            "key": "C",
+            "text": "海外仓"
+          },
+          {
+            "key": "D",
+            "text": "跨海仓库"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2023-english-q59",
+        "number": 59,
+        "section": "五、英译汉",
+        "type": "single",
+        "prompt": "Dangerous Goods Regulations ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "普通货物"
+          },
+          {
+            "key": "B",
+            "text": "货物规则"
+          },
+          {
+            "key": "C",
+            "text": "危险物品"
+          },
+          {
+            "key": "D",
+            "text": "危险品规则"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2023-english-q60",
+        "number": 60,
+        "section": "五、英译汉",
+        "type": "single",
+        "prompt": "Uniform Code ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "联合代码"
+          },
+          {
+            "key": "B",
+            "text": "统一编码"
+          },
+          {
+            "key": "C",
+            "text": "统一法律"
+          },
+          {
+            "key": "D",
+            "text": "军服号码"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 8
+      },
+      {
+        "id": "2023-english-q61",
+        "number": 61,
+        "section": "六、汉译英",
+        "type": "single",
+        "prompt": "移动终端 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Full Container Ship"
+          },
+          {
+            "key": "B",
+            "text": "Container Terminal"
+          },
+          {
+            "key": "C",
+            "text": "Mobile Terminal"
+          },
+          {
+            "key": "D",
+            "text": "Container Freight Station"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2023-english-q62",
+        "number": 62,
+        "section": "六、汉译英",
+        "type": "single",
+        "prompt": "第三方物流 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Three Logistics"
+          },
+          {
+            "key": "B",
+            "text": "The Third Logistics"
+          },
+          {
+            "key": "C",
+            "text": "Third Party Logistics"
+          },
+          {
+            "key": "D",
+            "text": "Third Side Logistics"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2023-english-q63",
+        "number": 63,
+        "section": "六、汉译英",
+        "type": "single",
+        "prompt": "中欧班列 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Tax Free Train"
+          },
+          {
+            "key": "B",
+            "text": "China-Europe Railway Express"
+          },
+          {
+            "key": "C",
+            "text": "Export Transfer Train"
+          },
+          {
+            "key": "D",
+            "text": "Boned Warehouse"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2023-english-q64",
+        "number": 64,
+        "section": "六、汉译英",
+        "type": "single",
+        "prompt": "入境通关单 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Import Goods Clearance Slip"
+          },
+          {
+            "key": "B",
+            "text": "Import Manifest"
+          },
+          {
+            "key": "C",
+            "text": "Export Goods Clearance Slip"
+          },
+          {
+            "key": "D",
+            "text": "Export Manifest"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2023-english-q65",
+        "number": 65,
+        "section": "六、汉译英",
+        "type": "single",
+        "prompt": "关键业绩指标 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Condition Transport"
+          },
+          {
+            "key": "B",
+            "text": "Key Performance Indicator"
+          },
+          {
+            "key": "C",
+            "text": "Enterprise Resource Planning"
+          },
+          {
+            "key": "D",
+            "text": "Joint Transport"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2023-english-q66",
+        "number": 66,
+        "section": "六、汉译英",
+        "type": "single",
+        "prompt": "危险品安全说明书 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Plat Form Based Container"
+          },
+          {
+            "key": "B",
+            "text": "General Purpose Container"
+          },
+          {
+            "key": "C",
+            "text": "Material Safety Data Sheet"
+          },
+          {
+            "key": "D",
+            "text": "High Cubic Container"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2023-english-q67",
+        "number": 67,
+        "section": "六、汉译英",
+        "type": "single",
+        "prompt": "理货 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Customs Broker"
+          },
+          {
+            "key": "B",
+            "text": "Customs Declaration"
+          },
+          {
+            "key": "C",
+            "text": "Commodity Inspection"
+          },
+          {
+            "key": "D",
+            "text": "Tally"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2023-english-q68",
+        "number": 68,
+        "section": "六、汉译英",
+        "type": "single",
+        "prompt": "供应链 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Value Chain"
+          },
+          {
+            "key": "B",
+            "text": "Container Yard"
+          },
+          {
+            "key": "C",
+            "text": "Demand Chain"
+          },
+          {
+            "key": "D",
+            "text": "Supply Chain"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2023-english-q69",
+        "number": 69,
+        "section": "六、汉译英",
+        "type": "single",
+        "prompt": "外包 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Outsource"
+          },
+          {
+            "key": "B",
+            "text": "Purchase"
+          },
+          {
+            "key": "C",
+            "text": "Buyer"
+          },
+          {
+            "key": "D",
+            "text": "Recourse"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2023-english-q70",
+        "number": 70,
+        "section": "六、汉译英",
+        "type": "single",
+        "prompt": "采购 ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "Goods Shelf"
+          },
+          {
+            "key": "B",
+            "text": "Goods Yard"
+          },
+          {
+            "key": "C",
+            "text": "Warehouse"
+          },
+          {
+            "key": "D",
+            "text": "Procurement"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 9
+      },
+      {
+        "id": "2023-english-q71",
+        "number": 71,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "Shipper’s Letter of Instruction is used in international transport ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "by sea"
+          },
+          {
+            "key": "B",
+            "text": "by air"
+          },
+          {
+            "key": "C",
+            "text": "by land"
+          },
+          {
+            "key": "D",
+            "text": "by truck"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 11,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q72",
+        "number": 72,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "Shipper’s Letter of Instruction is a form used by the ( ) to entrust the carrier or his Agent to fill out the air waybill.",
+        "options": [
+          {
+            "key": "A",
+            "text": "carrier"
+          },
+          {
+            "key": "B",
+            "text": "consignee"
+          },
+          {
+            "key": "C",
+            "text": "shipper"
+          },
+          {
+            "key": "D",
+            "text": "captain"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 11,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q73",
+        "number": 73,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "In international air cargo transportation, Shipper’s Letter of Instruction serves as the evidence of ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "booking for the client"
+          },
+          {
+            "key": "B",
+            "text": "title to the goods"
+          },
+          {
+            "key": "C",
+            "text": "contract of warehouse"
+          },
+          {
+            "key": "D",
+            "text": "receipt of airplane"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 11,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q74",
+        "number": 74,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "As a consolidator, the ( ) provides the service in his own name and issues a house air waybill.",
+        "options": [
+          {
+            "key": "A",
+            "text": "importer"
+          },
+          {
+            "key": "B",
+            "text": "airfreight forwarder"
+          },
+          {
+            "key": "C",
+            "text": "consignee"
+          },
+          {
+            "key": "D",
+            "text": "exporter"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 11,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q75",
+        "number": 75,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the shipper is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON AAA LOGISTICS CO. , LTD."
+          },
+          {
+            "key": "B",
+            "text": "CANTON BBB TEXTILE GARMENT CO. , LTD."
+          },
+          {
+            "key": "C",
+            "text": "FASHION FORCE CO. , LTD."
+          },
+          {
+            "key": "D",
+            "text": "BAIYUN INTERNATIONAL AIRPORT"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 11,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q76",
+        "number": 76,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the consignee is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON AAA LOGISTICS CO., LTD."
+          },
+          {
+            "key": "B",
+            "text": "CANTON BBB TEXTILE GARMENT CO., LTD."
+          },
+          {
+            "key": "C",
+            "text": "FASHION FORCE CO., LTD."
+          },
+          {
+            "key": "D",
+            "text": "CANTON INTERNATIONAL AIRPORT"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 11,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q77",
+        "number": 77,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the airport of departure is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON CHINA"
+          },
+          {
+            "key": "B",
+            "text": "MONTREALF CANADA"
+          },
+          {
+            "key": "C",
+            "text": "BANGKOK THAILAND"
+          },
+          {
+            "key": "D",
+            "text": "SHANGHAI CHINA"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 11,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q78",
+        "number": 78,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the airport of destination is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON CHINA"
+          },
+          {
+            "key": "B",
+            "text": "MONTREALF CANADA"
+          },
+          {
+            "key": "C",
+            "text": "BANGKOK THAILAND"
+          },
+          {
+            "key": "D",
+            "text": "SHANGHAI CHINA"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 11,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q79",
+        "number": 79,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the notify party is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON AAA LOGISTICS CO., LTD."
+          },
+          {
+            "key": "B",
+            "text": "CANTON BBB TEXTILE GARMENT CO., LTD."
+          },
+          {
+            "key": "C",
+            "text": "FASHION FORCE CO., LTD."
+          },
+          {
+            "key": "D",
+            "text": "CCC CO., LTD."
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 11,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q80",
+        "number": 80,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "This Shipper’s Letter of Instruction is signed by ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON AAA LOGISTICS CO., LTD."
+          },
+          {
+            "key": "B",
+            "text": "CANTON BBB TEXTILE GARMENT CO., LTD."
+          },
+          {
+            "key": "C",
+            "text": "FASHION FORCE CO., LTD."
+          },
+          {
+            "key": "D",
+            "text": "CCC CO., LTD."
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 12,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q81",
+        "number": 81,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the No. of Pieces is ( ) CTNS.",
+        "options": [
+          {
+            "key": "A",
+            "text": "40"
+          },
+          {
+            "key": "B",
+            "text": "60"
+          },
+          {
+            "key": "C",
+            "text": "85"
+          },
+          {
+            "key": "D",
+            "text": "140"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 12,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q82",
+        "number": 82,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the Gross Weight is ( ) KGS.",
+        "options": [
+          {
+            "key": "A",
+            "text": "40"
+          },
+          {
+            "key": "B",
+            "text": "60"
+          },
+          {
+            "key": "C",
+            "text": "19"
+          },
+          {
+            "key": "D",
+            "text": "21"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 12,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q83",
+        "number": 83,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the Dimension or Volume is ( ) CBM.",
+        "options": [
+          {
+            "key": "A",
+            "text": "40"
+          },
+          {
+            "key": "B",
+            "text": "60"
+          },
+          {
+            "key": "C",
+            "text": "19"
+          },
+          {
+            "key": "D",
+            "text": "21"
+          }
+        ],
+        "answer": "D",
+        "points": 1,
+        "explanation": "上传参考答案：D。",
+        "sourcePage": 12,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q84",
+        "number": 84,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "The AWB is issued by airlines in a set of ( ) originals and minimum 6 copies.",
+        "options": [
+          {
+            "key": "A",
+            "text": "3"
+          },
+          {
+            "key": "B",
+            "text": "6"
+          },
+          {
+            "key": "C",
+            "text": "9"
+          },
+          {
+            "key": "D",
+            "text": "12"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 12,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q85",
+        "number": 85,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "The air transportation charges is to be settled in ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CANTON"
+          },
+          {
+            "key": "B",
+            "text": "MONTREALF"
+          },
+          {
+            "key": "C",
+            "text": "BANGKOK"
+          },
+          {
+            "key": "D",
+            "text": "SHANGHAI"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 12,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q86",
+        "number": 86,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the NO. of air waybill is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "023-85652346"
+          },
+          {
+            "key": "B",
+            "text": "538- 60118941"
+          },
+          {
+            "key": "C",
+            "text": "850-73261245"
+          },
+          {
+            "key": "D",
+            "text": "140-86117852"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 12,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q87",
+        "number": 87,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the date of flight is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CA921/16 JUN,2023"
+          },
+          {
+            "key": "B",
+            "text": "CZ373/16 JUN,2023"
+          },
+          {
+            "key": "C",
+            "text": "MH103 /16 JUN,2023"
+          },
+          {
+            "key": "D",
+            "text": "KA708 /16 JUN,2023"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 12,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q88",
+        "number": 88,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the Customs Office of Declaration code is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "4141/414102"
+          },
+          {
+            "key": "B",
+            "text": "5141/514102"
+          },
+          {
+            "key": "C",
+            "text": "3141/314102"
+          },
+          {
+            "key": "D",
+            "text": "6141/614102"
+          }
+        ],
+        "answer": "B",
+        "points": 1,
+        "explanation": "上传参考答案：B。",
+        "sourcePage": 12,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q89",
+        "number": 89,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "In this Shipper’s Letter of Instruction, the Consignment Item Sequence Number is ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "LW22AE080267"
+          },
+          {
+            "key": "B",
+            "text": "LW22AE080268"
+          },
+          {
+            "key": "C",
+            "text": "LW22AE080269"
+          },
+          {
+            "key": "D",
+            "text": "LW22AE080270"
+          }
+        ],
+        "answer": "C",
+        "points": 1,
+        "explanation": "上传参考答案：C。",
+        "sourcePage": 12,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      },
+      {
+        "id": "2023-english-q90",
+        "number": 90,
+        "section": "七、英文单证操作",
+        "type": "single",
+        "prompt": "“CZ” in the numeric code “AKA1234CZ” in IATA stands for ( ).",
+        "options": [
+          {
+            "key": "A",
+            "text": "CHINA SOUTHERN AIRLINE"
+          },
+          {
+            "key": "B",
+            "text": "CHINA EASTERN AIRLINE"
+          },
+          {
+            "key": "C",
+            "text": "AIR CHINA"
+          },
+          {
+            "key": "D",
+            "text": "SHENZHEN AIRLINE"
+          }
+        ],
+        "answer": "A",
+        "points": 1,
+        "explanation": "上传参考答案：A。",
+        "sourcePage": 12,
+        "context": "作为国际航空货运代理人，请根据所附国际货运委托书（原卷第 10 页）相关资料确认填制国际货运委托书中的主要事项。",
+        "image": "/paper-assets/2023-english-instruction.png"
+      }
+    ]
+  }
+]
